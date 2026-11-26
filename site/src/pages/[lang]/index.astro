@@ -8,11 +8,11 @@ import Search from '../../islands/Search';
 import StarMap from '../../islands/StarMap';
 import imprint from '../../../../assets/brand/logos/imprint/naghva-imprint-on-dark-solid.png';
 import { dateHtml, isolate, nameHtml } from '../../lib/html';
-import { fill, list, locale, parts, strings } from '../../lib/i18n';
+import { locale, parts, strings } from '../../lib/i18n';
 import { COVER_WIDTHS, imageOf } from '../../lib/images';
 import { siteJsonLd } from '../../lib/jsonld';
 import {
-  artistPages, best, byRecordingDate, href, LANGS, loadRecord, nameOf, recordingArtists, recordingDate, recordingDates, url,
+  artistPages, best, href, LANGS, loadRecord, nameOf, newRecords, recordingDate, releaseHost, url, withoutEpMarker,
   type Item, type Lang, type Text,
 } from '../../lib/record';
 import '../../styles/shelf.css';
@@ -38,16 +38,9 @@ const lang = Astro.params.lang as Lang;
 const record = loadRecord();
 const t = strings(lang);
 
-const latest = Object.values(record.items)
-  .filter((i): i is Item => i.type === 'release' && Boolean(recordingDate(i)) && Boolean(href(record, lang, i)))
-  .sort(byRecordingDate)
-  .reverse()
-  .slice(0, LATEST);
-const dateOf = (r: Item) => {
-  const date = dateHtml(recordingDate(r)!, lang);
-  return recordingDates(r).isPosting ? fill(t.release.postedDate, { date }) : date;
-};
-const by = (r: Item) => list(lang, recordingArtists(record, r).map((p) => nameHtml(nameOf(p, lang), lang)));
+const latest = newRecords(record, LATEST);
+const dateOf = (r: Item) => dateHtml(recordingDate(r)!, lang);
+const by = (r: Item) => nameHtml(nameOf(releaseHost(record, r)!, lang), lang);
 
 // Names to try under the search box: the artists, then their members, in the record's order,
 // keeping to names written in the page's own script.
@@ -103,7 +96,7 @@ const onwardEnd = onward.pop();
         <ol class="shelf" id="latest">
           {latest.map((r) => (
             <li>
-              <ReleaseCard href={href(record, lang, r)!} lang={lang} title={nameOf(r, lang)} date={dateOf(r)} sub={by(r)} art={imageOf(r, 'cover art', COVER_WIDTHS)} />
+              <ReleaseCard href={href(record, lang, r)!} lang={lang} title={withoutEpMarker(nameOf(r, lang))} date={dateOf(r)} sub={by(r)} art={imageOf(r, 'cover art', COVER_WIDTHS)} />
             </li>
           ))}
           <li>
