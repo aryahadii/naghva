@@ -39,11 +39,11 @@ statements:
       quote: https://i.ytimg.com/vi/lqc3fA2gupU/hqdefault.jpg
       locator: Original programme, artist or edition credits
       accessed: '2026-11-21'
-  release date:
+  platform posting date:
   - value:
       date: '2016-09-06'
     references:
     - source: www.youtube.com-watchv-lqc3fa2gupu
-      quote: '2016-09-06'
-      locator: Original programme, artist or edition credits
-      accessed: '2026-11-21'
+      quote: '"publishDate":"2016-09-06T15:05:43-07:00"'
+      locator: YouTube watch-page publishDate
+      accessed: '2026-11-26'
