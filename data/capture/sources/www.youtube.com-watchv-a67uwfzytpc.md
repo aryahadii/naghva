@@ -12,3 +12,7 @@ about:
 Original programme, artist or edition credits, read 2026-11-21.
 
 > 2015-08-30
+
+Publication line on the archived watch page, read 2026-11-26.
+
+> Published on Aug 30, 2015
