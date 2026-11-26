@@ -10,14 +10,6 @@ statements:
       quote: Ancient Heritage (feat. Pejman Hadadi)
       locator: Original programme, artist or edition credits
       accessed: '2026-11-21'
-  - value:
-      text: Ancient Heritage anew
-      language: en
-    references:
-    - source: lpr.com-lpr_artists-sahba-motallebi-rumis-night-live
-      quote: Ancient Heritage anew
-      locator: Original programme, artist or edition credits
-      accessed: '2026-11-21'
   performer:
   - value: Qyw49hh
     references:
@@ -40,12 +32,16 @@ statements:
       accessed: '2026-11-21'
   release date:
   - value:
-      date: '2011'
+      date: '2021-10-15'
     references:
-    - source: lpr.com-lpr_artists-sahba-motallebi-rumis-night-live
-      quote: '2011'
-      locator: Original programme, artist or edition credits
+    - source: music.apple.com-us-album-ancient-heritage-feat-pejman-hadadi-1586551662uo-4
+      quote: '2021-10-15'
+      locator: Apple Music digital edition date
       accessed: '2026-11-21'
+    - source: open.spotify.com-album-0fzj3wcecwuhhrhmtjkel7
+      quote: '2021-10-15'
+      locator: Spotify date for the MajorHitRecords listing
+      accessed: '2026-11-26'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dc/44/91/dc44914d-88c9-49fd-23ec-e071142a298f/689690036003_cover.jpg/1200x630bb.jpg
     references:

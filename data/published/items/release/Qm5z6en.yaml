@@ -1,0 +1,55 @@
+id: Qm5z6en
+type: release
+statements:
+  name:
+  - value:
+      text: To the Memory of Ostad Aliakbar Shahnazi
+      language: en
+    references:
+    - source: open.spotify.com-album-3y3hdakga2rovgy1mr4d2o
+      quote: To the Memory of Ostad Aliakbar Shahnazi
+      locator: Album heading
+      accessed: '2026-11-26'
+  - value:
+      text: به‌‌یاد علی اکبر شهنازی
+      language: fa
+    references:
+    - source: t.me-mahoorinstitute-3557
+      quote: به‌‌یاد علی اکبر شهنازی
+      locator: Related physical CD title
+      accessed: '2026-11-26'
+  performer:
+  - value: Qyw49hh
+    references:
+    - source: open.spotify.com-album-3y3hdakga2rovgy1mr4d2o
+      quote: Sahba Motallebi
+      locator: First track artist credit
+      accessed: '2026-11-26'
+  - value: Qtn9d3t
+    references:
+    - source: open.spotify.com-album-3y3hdakga2rovgy1mr4d2o
+      quote: Pejman Haddadi
+      locator: First track artist credit
+      accessed: '2026-11-26'
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-3y3hdakga2rovgy1mr4d2o
+      quote: 'Sahba Motallebi · album · 2012 · 22 songs'
+      locator: Album description metadata
+      accessed: '2026-11-26'
+  release date:
+  - value:
+      date: '2012-08-17'
+    references:
+    - source: open.spotify.com-album-3y3hdakga2rovgy1mr4d2o
+      quote: '2012-08-17'
+      locator: Spotify date for the Mahoor listing, not the CD day
+      accessed: '2026-11-26'
+  listen link:
+  - value: https://open.spotify.com/album/3y3HdAkgA2RoVGY1Mr4d2o
+    references:
+    - source: open.spotify.com-album-3y3hdakga2rovgy1mr4d2o
+      quote: To the Memory of Ostad Aliakbar Shahnazi
+      locator: Album heading
+      accessed: '2026-11-26'
