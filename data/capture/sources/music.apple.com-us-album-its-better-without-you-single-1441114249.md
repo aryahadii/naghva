@@ -45,3 +45,7 @@ Original edition track 3, read 2026-11-21.
 > https://music.apple.com/us/song/this-town-will-drag-us-down/1441114264
 
 Unique Apple song URL, read 2026-11-21.
+
+> <title>‎It's Better Without You - Single - Album by The Muckers - Apple Music</title>
+
+Native page-title metadata, exact linked edition read 2026-11-26.

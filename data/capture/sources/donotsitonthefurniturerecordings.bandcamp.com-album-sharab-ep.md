@@ -19,3 +19,11 @@ status: processed
 > Sharab (Dub Mix)
 
 > Sharab (Instrumental Mix)
+
+> <title>SHARAB EP | Namito, Naghib | Do Not Sit On The Furniture Recordings</title>
+
+Native page-title metadata, exact linked edition read 2026-11-26.
+
+The exact linked label edition says EP while the matching Apple collection
+says Single. Preserve both sourced classifications on this edition; no
+separate edition is invented from the differing platform labels.

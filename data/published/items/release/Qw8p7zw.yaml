@@ -56,4 +56,13 @@ statements:
   release type:
   - value: ep
     references:
-    - *id001
+    - source: donotsitonthefurniturerecordings.bandcamp.com-album-sharab-ep
+      quote: SHARAB EP
+      accessed: '2026-11-26'
+      locator: Official label product heading; platform labels differ
+  - value: single
+    references:
+    - source: music.apple.com-us-album-sharab-single-1501782064
+      quote: Sharab - Single
+      accessed: '2026-11-26'
+      locator: Apple Music explicit Single label on exact collection 1501782064; label heading says EP
