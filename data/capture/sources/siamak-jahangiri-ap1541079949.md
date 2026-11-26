@@ -57,3 +57,13 @@ status: processed
 > https://music.apple.com/us/song/zalil-o-bichareh/1541079958
 
 > https://music.apple.com/us/artist/siamak-jahangiry/1537920090
+
+> {"id":"track-lockup - 1541079949 - 1541079957","title":"Reng-e Dashti","trackNumber":8
+
+Apple Music server track listing, exact song 1541079957 and album
+1541079949 identifiers, read 2026-11-26.
+
+> "datePublished":"2020-11-19"
+
+Apple Music digital edition metadata, read 2026-11-26. This does not
+establish a physical edition's issue day.

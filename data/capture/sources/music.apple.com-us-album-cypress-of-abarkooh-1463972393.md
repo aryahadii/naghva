@@ -70,3 +70,13 @@ Track title and credits, read 2026-11-21.
 > Finale-Gale Of Memories (feat. Nima Hafezieh)
 
 Track title and credits, read 2026-11-21.
+
+> {"id":"track-lockup - 1463972393 - 1463972606","title":"Day Balal (feat. Nima Hafezieh)","trackNumber":3
+
+Apple Music server track listing, exact song 1463972606 and album
+1463972393 identifiers, read 2026-11-26.
+
+> "datePublished":"2019-04-27"
+
+Apple Music digital edition metadata, read 2026-11-26. This does not
+establish a physical edition's issue day.

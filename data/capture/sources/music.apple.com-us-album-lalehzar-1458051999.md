@@ -59,3 +59,13 @@ Track 9, read 2026-11-21.
 Track 10, read 2026-11-21.
 
 > Chaharpareh
+
+> {"id":"track-lockup - 1458051999 - 1458052167","title":"Chaharpareh","trackNumber":10
+
+Apple Music server track listing, exact song 1458052167 and album
+1458051999 identifiers, read 2026-11-26.
+
+> "datePublished":"2017-08-31"
+
+Apple Music digital edition metadata, read 2026-11-26. This does not
+establish a physical edition's issue day.

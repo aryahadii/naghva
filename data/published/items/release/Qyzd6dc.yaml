@@ -25,6 +25,10 @@ statements:
       quote: '2020-04-03'
       accessed: 2026-11-21
       locator: Edition date
+    - source: music.apple.com-us-album-manhattan-manhattan-undying-original-motion-picture-1497457532
+      quote: "\"datePublished\":\"2020-04-03\""
+      locator: Apple digital edition date for the linked track
+      accessed: '2026-11-26'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/91/37/95/913795d4-3f70-cb7b-dd86-783b1f307460/859736175830_cover.jpg/1200x630bb.jpg
     references:
@@ -45,3 +49,10 @@ statements:
       quote: The Gallery
       accessed: 2026-11-21
       locator: Spotify edition
+  track of:
+  - value: Qjs2j6d
+    references:
+    - source: music.apple.com-us-album-manhattan-manhattan-undying-original-motion-picture-1497457532
+      quote: "{\"id\":\"track-lockup - 1497457532 - 1497457818\",\"title\":\"The Gallery\",\"trackNumber\":11"
+      locator: Exact Apple song 1497457818 in album 1497457532
+      accessed: '2026-11-26'

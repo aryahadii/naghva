@@ -37,3 +37,13 @@ Album track 6, read 2026-11-21.
 > Hunger Within
 
 Album track 7, read 2026-11-21.
+
+> {"id":"track-lockup - 6800488764 - 6800489041","title":"The Journeyman","trackNumber":6
+
+Apple Music server track listing, exact song 6800489041 and album
+6800488764 identifiers, read 2026-11-26.
+
+> "datePublished":"2007-09-30"
+
+Apple Music digital edition metadata, read 2026-11-26. This does not
+establish a physical edition's issue day.

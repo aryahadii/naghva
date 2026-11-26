@@ -50,6 +50,10 @@ statements:
       quote: '2021-02-26'
       accessed: '2026-11-21'
       locator: Original release or upload date
+    - source: music.apple.com-us-album-endeavor-1531973256
+      quote: "\"datePublished\":\"2021-02-26\""
+      locator: Apple digital edition date for the linked track
+      accessed: '2026-11-26'
   cover art:
   - value: https://f4.bcbits.com/img/a2953404952_10.jpg
     qualifiers:
@@ -61,3 +65,10 @@ statements:
       quote: https://f4.bcbits.com/img/a2953404952_10.jpg
       accessed: '2026-11-21'
       locator: Original cover
+  track of:
+  - value: Qq4fkqb
+    references:
+    - source: music.apple.com-us-album-endeavor-1531973256
+      quote: "{\"id\":\"track-lockup - 1531973256 - 1531973261\",\"title\":\"Golden Summer\",\"trackNumber\":4"
+      locator: Exact Apple song 1531973261 in album 1531973256
+      accessed: '2026-11-26'

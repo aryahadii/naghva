@@ -65,3 +65,13 @@ status: processed
 > Tasnif "Dar Parde Saz" (Bayat Tork) [feat. Samer Habibi, Ali Bahramifard, Ali-Asghar Arabshahi, Hamid Khansari, Hoseyn Zamani & Nabil Yousef Sheridavi]
 
 > https://music.apple.com/us/song/tasnif-dar-parde-saz-bayat-tork-feat-samer-habibi-ali/1770081287
+
+> {"id":"track-lockup - 1770081272 - 1770081282","title":"Tasnif \"Rokhat Benama\" (Abu'ata) [feat. Samer Habibi, Ali Bahramifard, Ali-Asghar Arabshahi, Hamid Khansari, Hoseyn Zamani & Nabil Yousef Sheridavi]","trackNumber":7
+
+Apple Music server track listing, exact song 1770081282 and album
+1770081272 identifiers, read 2026-11-26.
+
+> "datePublished":"2017-08-27"
+
+Apple Music digital edition metadata, read 2026-11-26. This does not
+establish a physical edition's issue day.

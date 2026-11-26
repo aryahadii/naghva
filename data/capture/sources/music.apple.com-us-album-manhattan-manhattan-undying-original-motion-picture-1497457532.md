@@ -82,3 +82,13 @@ Track title, read 2026-11-21.
 > Arms of Our World
 
 Track title, read 2026-11-21.
+
+> {"id":"track-lockup - 1497457532 - 1497457818","title":"The Gallery","trackNumber":11
+
+Apple Music server track listing, exact song 1497457818 and album
+1497457532 identifiers, read 2026-11-26.
+
+> "datePublished":"2020-04-03"
+
+Apple Music digital edition metadata, read 2026-11-26. This does not
+establish a physical edition's issue day.

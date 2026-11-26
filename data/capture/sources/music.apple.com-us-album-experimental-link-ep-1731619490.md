@@ -29,3 +29,13 @@ Track listing, read 2026-11-21.
 > Antithesis
 
 Track listing, read 2026-11-21.
+
+> {"id":"track-lockup - 1731619490 - 1731619502","title":"Antithesis","trackNumber":3
+
+Apple Music server track listing, exact song 1731619502 and album
+1731619490 identifiers, read 2026-11-26.
+
+> "datePublished":"2024-02-14"
+
+Apple Music digital edition metadata, read 2026-11-26. This does not
+establish a physical edition's issue day.

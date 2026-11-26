@@ -25,6 +25,10 @@ statements:
       quote: '2024-02-14'
       accessed: 2026-11-21
       locator: Edition release date
+    - source: music.apple.com-us-album-experimental-link-ep-1731619490
+      quote: "\"datePublished\":\"2024-02-14\""
+      locator: Apple digital edition date for the linked track
+      accessed: '2026-11-26'
   performer:
   - value: Q3v55f7
     references:
@@ -39,3 +43,10 @@ statements:
       quote: Antithesis
       accessed: 2026-11-21
       locator: Track listing
+  track of:
+  - value: Q72rdq5
+    references:
+    - source: music.apple.com-us-album-experimental-link-ep-1731619490
+      quote: "{\"id\":\"track-lockup - 1731619490 - 1731619502\",\"title\":\"Antithesis\",\"trackNumber\":3"
+      locator: Exact Apple song 1731619502 in album 1731619490
+      accessed: '2026-11-26'

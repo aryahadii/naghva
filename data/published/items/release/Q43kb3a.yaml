@@ -79,3 +79,14 @@ statements:
       quote: '2026-03-18'
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+    - source: music.apple.com-us-song-6815697977
+      quote: "\"datePublished\":\"2026-03-18\""
+      locator: Apple digital edition date for the linked track
+      accessed: '2026-11-26'
+  track of:
+  - value: Q66k3b9
+    references:
+    - source: music.apple.com-us-song-6815697977
+      quote: "\"storeAdamID\":\"6815697977\"},\"albumID\":\"6815697972\""
+      locator: Exact Apple song 6815697977 in album 6815697972
+      accessed: '2026-11-26'

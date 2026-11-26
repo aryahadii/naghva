@@ -18,6 +18,10 @@ statements:
       quote: '2017-08-27'
       accessed: '2026-11-21'
       locator: Edition release date
+    - source: siamak-jahangiri-ap1770081272
+      quote: "\"datePublished\":\"2017-08-27\""
+      locator: Apple digital edition date for the linked track
+      accessed: '2026-11-26'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/de/32/ebde3220-f77a-8021-9b3d-eff49ba45d5d/6260608006079.jpg/1200x630wp-60.jpg
     references:
@@ -93,3 +97,10 @@ statements:
       quote: Tasnif Rokhat Benama(Abu'atâ)/Reveal Your Face
       accessed: '2026-11-21'
       locator: Publisher catalogue title or programme
+  track of:
+  - value: Qmjec3q
+    references:
+    - source: siamak-jahangiri-ap1770081272
+      quote: "{\"id\":\"track-lockup - 1770081272 - 1770081282\",\"title\":\"Tasnif \\\"Rokhat Benama\\\" (Abu'ata) [feat. Samer Habibi, Ali Bahramifard, Ali-Asghar Arabshahi, Hamid Khansari, Hoseyn Zamani & Nabil Yousef Sheridavi]\",\"trackNumber\":7"
+      locator: Exact Apple song 1770081282 in album 1770081272
+      accessed: '2026-11-26'

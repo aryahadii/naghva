@@ -109,3 +109,13 @@ Concert track 11, read 2026-11-21.
 > https://music.apple.com/us/song/the-unthinking-majority-live/1615495392
 
 Track link, read 2026-11-21.
+
+> {"id":"track-lockup - 1615495321 - 1615495391","title":"Beethoven's C**t (Live)","trackNumber":10
+
+Apple Music server track listing, exact song 1615495391 and album
+1615495321 identifiers, read 2026-11-26.
+
+> "datePublished":"2022-04-08"
+
+Apple Music digital edition metadata, read 2026-11-26. This does not
+establish a physical edition's issue day.

@@ -120,3 +120,13 @@ Original interview, programme or release metadata, read 2026-11-21.
 > https://music.apple.com/us/song/temptation/81634469
 
 Original interview, programme or release metadata, read 2026-11-21.
+
+> {"id":"track-lockup - 81634471 - 81634451","title":"Promise","trackNumber":3
+
+Apple Music server track listing, exact song 81634451 and album
+81634471 identifiers, read 2026-11-26.
+
+> "datePublished":"2005-08-31"
+
+Apple Music digital edition metadata, read 2026-11-26. This does not
+establish a physical edition's issue day.
