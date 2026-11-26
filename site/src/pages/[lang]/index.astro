@@ -8,7 +8,7 @@ import Search from '../../islands/Search';
 import StarMap from '../../islands/StarMap';
 import imprint from '../../../../assets/brand/logos/imprint/naghva-imprint-on-dark-solid.png';
 import { dateHtml, isolate, nameHtml } from '../../lib/html';
-import { locale, parts, strings } from '../../lib/i18n';
+import { parts, strings } from '../../lib/i18n';
 import { COVER_WIDTHS, imageOf } from '../../lib/images';
 import { siteJsonLd } from '../../lib/jsonld';
 import {
@@ -65,9 +65,9 @@ const latest = newRecords(record, LATEST);
 const dateOf = (r: Item) => dateHtml(recordingDate(r)!, lang);
 const by = (r: Item) => nameHtml(nameOf(releaseHost(record, r)!, lang), lang);
 
-// Names to try under the search box: each visit shows a few at random from the artists
-// with the fullest, best-sourced entries. A record without them falls back to the artists,
-// then their members, in the record's order. Only names written in the page's own script.
+// Names to try under the search box: each visit draws a few at random from the artists with
+// the fullest, best-sourced entries, topped up from the other artists and their members
+// when the record lacks some. Only names written in the page's own script.
 const pages = artistPages(record);
 const explore = EXPLORE.map((id) => pages.find((artist) => artist.id === id))
   .filter((artist): artist is Item => Boolean(artist));
@@ -79,9 +79,11 @@ const picks = HINT_POOL.map((id) => pages.find((artist) => artist.id === id))
 const members = Object.values(record.items).filter(
   (i) => i.type === 'person' && best(i.statements['member of']).some((s) => pages.some((p) => p.id === s.value)),
 );
-const pool: Text[] = picks.length >= HINTS ? picks : [...pages, ...members].map((i) => nameOf(i, lang)).filter(ownScript).slice(0, HINTS);
+const others = [...pages, ...members].map((i) => nameOf(i, lang))
+  .filter((n) => ownScript(n) && !picks.some((p) => p.text === n.text));
+const pool: Text[] = [...picks, ...others.slice(0, Math.max(0, HINTS - picks.length))];
 const hints = pool.length
-  ? { sentence: parts(t.hints).map((p) => (typeof p === 'string' ? p : null)), names: pool, count: HINTS, locale: locale(lang) }
+  ? { sentence: parts(t.hints).map((p) => (typeof p === 'string' ? p : null)), names: pool, count: HINTS }
   : undefined;
 
 // The imprint as search engines show it beside the site's name.
