@@ -26,6 +26,29 @@ export function getStaticPaths() {
 
 const LATEST = 12;
 const HINTS = 3;
+// The best-covered artists by article length, cited sources and interviews.
+const HINT_POOL = [
+  'Qkwrzt3', // Reza Koolaghani
+  'Qb23qew', // Sara Naeini
+  'Qn7vfak', // Shahin Najafi
+  'Qf36fnd', // Sevdaliza
+  'Qa84h2k', // Sanam Maroufkhani
+  'Qt6wjbg', // Mohsen Namjoo
+  'Qh745pn', // Golsa
+  'Qgfaqj2', // Ash Koosha
+  'Qm7dsfg', // Azam Ali
+  'Qjfbx8t', // Monicki
+  'Qgyvbw3', // Hichkas
+  'Qx3svqf', // Yas
+  'Qvhgfe7', // Rian
+  'Qtgn2be', // Kiosk
+  'Qb3nvrj', // Chaartaar
+  'Qpy9984', // Jetpack
+  'Qq5328q', // Pallett
+  'Qkza58w', // Kourosh Yaghmaei
+  'Qgbbc6t', // Saba Alizadeh
+  'Qq6xyzn', // Farhad Mehrad
+];
 const EXPLORE = [
   'Qh745pn', // Golsa
   'Qa84h2k', // Sanam Maroufkhani
@@ -49,23 +72,24 @@ const dateOf = (r: Item) => {
 };
 const by = (r: Item) => list(lang, recordingArtists(record, r).map((p) => nameHtml(nameOf(p, lang), lang)));
 
-// Names to try under the search box: the artists, then their members, in the record's order,
-// keeping to names written in the page's own script.
+// Names to try under the search box: each visit shows a few at random from the artists
+// with the fullest, best-sourced entries. A record without them falls back to the artists,
+// then their members, in the record's order. Only names written in the page's own script.
 const pages = artistPages(record);
 const explore = EXPLORE.map((id) => pages.find((artist) => artist.id === id))
   .filter((artist): artist is Item => Boolean(artist));
+const ownScript = (n: Text) => n.language.split('-')[0] === lang;
+const picks = HINT_POOL.map((id) => pages.find((artist) => artist.id === id))
+  .filter((artist): artist is Item => Boolean(artist))
+  .map((i) => nameOf(i, lang))
+  .filter(ownScript);
 const members = Object.values(record.items).filter(
   (i) => i.type === 'person' && best(i.statements['member of']).some((s) => pages.some((p) => p.id === s.value)),
 );
-const tries: Text[] = [...pages, ...members]
-  .map((i) => nameOf(i, lang))
-  .filter((n) => n.language.split('-')[0] === lang)
-  .slice(0, HINTS);
-let n = 0;
-const listed = new Intl.ListFormat(locale(lang), { type: 'disjunction' })
-  .formatToParts(tries.map((name) => name.text))
-  .map((p) => (p.type === 'element' ? tries[n++] : p.value));
-const hints = tries.length ? parts(t.hints).flatMap((p) => (typeof p === 'string' ? [p] : listed)) : undefined;
+const pool: Text[] = picks.length >= HINTS ? picks : [...pages, ...members].map((i) => nameOf(i, lang)).filter(ownScript).slice(0, HINTS);
+const hints = pool.length
+  ? { sentence: parts(t.hints).map((p) => (typeof p === 'string' ? p : null)), names: pool, count: HINTS, locale: locale(lang) }
+  : undefined;
 
 // The imprint as search engines show it beside the site's name.
 const logo = new URL((await getImage({ src: imprint, width: 1200, format: 'png' })).src, Astro.site).href;
