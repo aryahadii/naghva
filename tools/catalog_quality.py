@@ -75,6 +75,8 @@ POSTING_LOCATORS = frozenset((
 YOUTUBE_POSTING_LOCATORS = frozenset((
     "native public upload date", "youtube publisher feed publication date",
     "date posted", "public upload date",
+    "original film publication", "artist video publication date",
+    "original video publication", "video publication",
 ))
 YOUTUBE_CAPTURE_HOSTS = {"www.youtube.com", "youtube.com", "music.youtube.com", "youtu.be"}
 
