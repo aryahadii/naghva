@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { test } from 'node:test';
-import { best, recordingArtists, datesDisagree, href, performers, releaseDates, releasesOf } from '../src/lib/record.ts';
+import { best, cardArtists, recordingArtists, datesDisagree, href, performers, releaseDates, releasesOf } from '../src/lib/record.ts';
 
 const artist = { id: 'artist', type: 'person', page: 'artist', statements: {}, incoming: [] };
 const band = { id: 'band', type: 'act', statements: {}, incoming: [{ property: 'member of', item: 'artist', rank: 'normal' }] };
@@ -147,4 +147,22 @@ test('a credited collaborator without an article never links to someone else’s
   ] } };
   const record = { items: { artist, collaborator, band, release: recording } };
   assert.equal(href(record, 'en', collaborator), null);
+});
+
+test('a card names the billed artists and its page’s artist, but not the players', () => {
+  const singer = { ...artist, id: 'singer' };
+  const drummer = { ...artist, id: 'drummer' };
+  const recording = { ...release, statements: { performer: [
+    { value: 'artist', rank: 'normal', qualifiers: { role: ['tombak'] } },
+    { value: 'singer', rank: 'normal' },
+    { value: 'drummer', rank: 'normal', qualifiers: { role: ['drums'] } },
+  ] } };
+  const record = { items: { artist, singer, drummer } };
+  assert.deepEqual(cardArtists(record, recording, artist).map((p) => p.id), ['artist', 'singer']);
+  assert.deepEqual(cardArtists(record, recording).map((p) => p.id), ['singer']);
+  // A page's artist who isn't credited, such as a member of the billed act, isn't added.
+  assert.deepEqual(cardArtists(record, recording, { ...artist, id: 'member' }).map((p) => p.id), ['singer']);
+  // With nobody billed and the page's artist not credited, the card falls back to the recording artists.
+  const unbilled = { ...recording, statements: { performer: recording.statements.performer.filter((s) => s.value !== 'singer') } };
+  assert.deepEqual(cardArtists(record, unbilled, singer).map((p) => p.id), ['artist', 'drummer']);
 });

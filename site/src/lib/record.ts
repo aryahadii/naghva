@@ -255,13 +255,15 @@ export function byRecordingDate(a: Item, b: Item): number {
 const WHOLE_RECORDS = new Set(['album', 'ep', 'live album', 'soundtrack']);
 
 /** The homepage's new records: whole records with a release date and cover art, newest
- * first, one per artist, named by the page each card opens. Tracks, singles, clips and
- * uploads dated only by posting stay on artist pages and the Timeline. */
+ * first, one per credited host, so one prolific artist doesn't fill the row. Tracks, singles,
+ * compilations of earlier work, clips and uploads dated only by posting stay on artist pages
+ * and the Timeline. Keying on the credited host means a record whose page is only a former
+ * host can never take an artist's slot. */
 export function newRecords(record: SiteRecord, limit: number): Item[] {
   const candidates = Object.values(record.items).filter((i) => {
     const types = best(i.statements['release type']).map((s) => s.value as string);
-    return i.type === 'release' && types.some((t) => WHOLE_RECORDS.has(t)) && !types.includes('single')
-      && releaseDates(i).length > 0 && Boolean(releaseHost(record, i))
+    return i.type === 'release' && types.some((t) => WHOLE_RECORDS.has(t)) && !types.includes('single') && !types.includes('compilation')
+      && releaseDates(i).length > 0 && Boolean(creditedReleaseHost(record, i))
       // A release's link is the same in both languages, so either one answers whether it has one.
       && Boolean(href(record, 'en', i))
       && best(i.statements['cover art']).some((s) => typeof s.value === 'string' && /^https?:\/\//.test(s.value));
@@ -270,12 +272,22 @@ export function newRecords(record: SiteRecord, limit: number): Item[] {
   const hosts = new Set<string>();
   for (const release of candidates) {
     if (shelf.length === limit) break;
-    const host = releaseHost(record, release)!.id;
+    const host = creditedReleaseHost(record, release)!.id;
     if (hosts.has(host)) continue;
     hosts.add(host);
     shelf.push(release);
   }
   return shelf;
+}
+
+/** The names for a short line about a release, such as a shelf card: anyone credited without a role, and `also`,
+ * the artist the line belongs to, when the release credits them as a performer. Players credited only for an
+ * instrument or part stay off the line. With neither, the release's recording artists. */
+export function cardArtists(record: SiteRecord, release: Item, also?: Item): Item[] {
+  const credits = best(release.statements.performer);
+  const named = performers(record, release).filter((person) =>
+    person.id === also?.id || credits.some((s) => s.value === person.id && !s.qualifiers?.role?.length));
+  return named.length ? named : recordingArtists(record, release);
 }
 
 /** A title without a trailing EP marker, for a shelf that already presents whole records

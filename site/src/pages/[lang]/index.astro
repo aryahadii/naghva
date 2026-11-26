@@ -8,11 +8,11 @@ import Search from '../../islands/Search';
 import StarMap from '../../islands/StarMap';
 import imprint from '../../../../assets/brand/logos/imprint/naghva-imprint-on-dark-solid.png';
 import { dateHtml, isolate, nameHtml } from '../../lib/html';
-import { parts, strings } from '../../lib/i18n';
+import { list, parts, strings } from '../../lib/i18n';
 import { COVER_WIDTHS, imageOf } from '../../lib/images';
 import { siteJsonLd } from '../../lib/jsonld';
 import {
-  artistPages, best, href, LANGS, loadRecord, nameOf, newRecords, recordingDate, releaseHost, url, withoutEpMarker,
+  artistPages, best, cardArtists, creditedReleaseHost, href, LANGS, loadRecord, nameOf, newRecords, recordingDate, url, withoutEpMarker,
   type Item, type Lang, type Text,
 } from '../../lib/record';
 import '../../styles/shelf.css';
@@ -63,7 +63,9 @@ const t = strings(lang);
 
 const latest = newRecords(record, LATEST);
 const dateOf = (r: Item) => dateHtml(recordingDate(r)!, lang);
-const by = (r: Item) => nameHtml(nameOf(releaseHost(record, r)!, lang), lang);
+// Who the record is billed to, and the artist whose page the card opens when credited; not every player on it.
+const by = (r: Item) => list(lang, cardArtists(record, r, creditedReleaseHost(record, r))
+  .map((p) => nameHtml(nameOf(p, lang), lang)));
 
 // Names to try under the search box: each visit draws a few at random from the artists with
 // the fullest, best-sourced entries, topped up from the other artists and their members
