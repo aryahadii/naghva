@@ -40,6 +40,18 @@ class CatalogQualityTests(unittest.TestCase):
         self.assertFalse(posting_only_evidence({"references": [{"locator": "Original release or upload date"}]}))
         self.assertFalse(posting_only_evidence({"references": []}))
 
+    def test_platform_date_locator_needs_the_right_source(self):
+        for locator in ("Native public upload date", "YouTube publisher feed publication date",
+                        "Date posted", "Public upload date"):
+            with self.subTest(locator=locator):
+                reference = {"source": "www.youtube.com-watch-v-sample", "locator": locator}
+                self.assertTrue(posting_only_evidence({"references": [reference]}))
+                self.assertFalse(posting_only_evidence(
+                    {"references": [dict(reference, source="example.org-press")]}))
+        for locator in ("Publication date", "Original film publication", "YouTube premiere confirmed"):
+            self.assertFalse(posting_only_evidence({"references": [
+                {"source": "youtu.be-sample", "locator": locator}]}))
+
     def test_audit_ignores_merge_stubs_and_deprecated_urls(self):
         album = "https://music.apple.com/us/album/title/123"
         def row(url, **kwargs):

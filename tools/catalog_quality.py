@@ -72,13 +72,23 @@ POSTING_LOCATORS = frozenset((
 ))
 
 
+YOUTUBE_POSTING_LOCATORS = frozenset((
+    "native public upload date", "youtube publisher feed publication date",
+    "date posted", "public upload date",
+))
+YOUTUBE_CAPTURE_HOSTS = {"www.youtube.com", "youtube.com", "music.youtube.com", "youtu.be"}
+
+
 def posting_only_evidence(statement):
-    """Recognize explicit posting locators, never ambiguous release/ upload metadata."""
+    """Recognize explicit posting locators, not mixed or ambiguous evidence."""
+    def is_posting(ref):
+        locator = (ref.get("locator") or "").casefold().strip().removesuffix(", yyyymmdd")
+        host = ref.get("source", "").split("-", 1)[0].casefold()
+        return (locator in POSTING_LOCATORS or
+                (host in YOUTUBE_CAPTURE_HOSTS and locator in YOUTUBE_POSTING_LOCATORS))
+
     refs = statement.get("references", [])
-    return bool(refs) and all(
-        (r.get("locator") or "").casefold().strip().removesuffix(", yyyymmdd") in POSTING_LOCATORS
-        for r in refs
-    )
+    return bool(refs) and all(is_posting(r) for r in refs)
 
 
 def audit(store):
