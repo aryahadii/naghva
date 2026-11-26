@@ -3,14 +3,26 @@ import { expect, test } from '@playwright/test';
 import { localOrigin } from './server';
 
 const record = JSON.parse(readFileSync(new URL('../../generated/record.json', import.meta.url), 'utf8')) as {
-  timeline: { anchor: string; aliases?: string[]; kind: string }[];
+  timeline: { anchor: string; aliases?: string[]; kind: string; date: { date: string } }[];
 };
-const cases = record.timeline.flatMap((entry) =>
-  (entry.aliases ?? []).map((alias) => ({ alias, anchor: entry.anchor, kind: entry.kind })));
+const allCases = record.timeline.flatMap((entry) =>
+  (entry.aliases ?? []).map((alias) => ({
+    alias, anchor: entry.anchor, kind: entry.kind,
+    precision: entry.date.date.split('-').length,
+  })));
+// Every alias is checked in the built HTML by check-output. Exercise each
+// kind and date precision in the browser without thousands of navigations.
+const samples = new Map<string, (typeof allCases)[number]>();
+for (const item of allCases) {
+  const key = `${item.kind}:${item.precision}`;
+  if (!samples.has(key)) samples.set(key, item);
+}
+const cases = [...samples.values()];
 
 for (const lang of ['en', 'fa']) {
   for (const javaScriptEnabled of [true, false]) {
-    test(`${lang}: published timeline aliases work with JavaScript ${javaScriptEnabled ? 'enabled' : 'disabled'}`, async ({ browser }) => {
+    test(`${lang}: published timeline alias samples work with JavaScript ${javaScriptEnabled ? 'enabled' : 'disabled'}`, async ({ browser }) => {
+      test.setTimeout(90_000);
       expect(cases.length).toBeGreaterThan(0);
       const context = await browser.newContext({
         javaScriptEnabled, reducedMotion: 'reduce',

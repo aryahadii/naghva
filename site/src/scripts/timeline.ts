@@ -92,6 +92,16 @@ if (form) {
     let target: HTMLElement | null = null;
     try { target = document.getElementById(decodeURIComponent(location.hash.slice(1))); } catch { return; }
     const entry = target?.matches('.year') ? target.querySelector<HTMLElement>('.entry:not([hidden])') : target?.closest<HTMLElement>('.entry');
+    // A same-document hop also needs the compatibility applied on first load.
+    // Keep the artist filter and all explicit non-release filters intact.
+    if (entry && chips.some((chip) => chip.dataset.kind === 'release' && chip.getAttribute('aria-pressed') === 'true')) {
+      const kind = entry.dataset.kind;
+      const chip = (kind === 'component' || kind === 'posting') && chips.find((chip) => chip.dataset.kind === kind);
+      if (chip && chip.getAttribute('aria-pressed') !== 'true') {
+        chip.setAttribute('aria-pressed', 'true');
+        apply();
+      }
+    }
     if (entry?.matches('.entry') && !entry.hidden) {
       entry.scrollIntoView({ block: 'start', behavior: 'instant' });
       rememberTimelinePosition();
