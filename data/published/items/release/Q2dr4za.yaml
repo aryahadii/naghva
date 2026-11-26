@@ -63,6 +63,6 @@ statements:
   - value: Q7hrrn7
     references:
     - source: music.apple.com-us-album-stoic-81634471
-      quote: "{\"id\":\"track-lockup - 81634471 - 81634451\",\"title\":\"Promise\",\"trackNumber\":3"
-      locator: Exact Apple song 81634451 in album 81634471
+      quote: '{"id":"track-lockup - 81634471 - 81634451","title":"Promise","trackNumber":3'
+      locator: Apple Music track 3 in album 81634471; exact song 81634451
       accessed: '2026-11-26'

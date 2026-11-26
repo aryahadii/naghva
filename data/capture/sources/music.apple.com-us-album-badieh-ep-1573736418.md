@@ -45,3 +45,27 @@ Apple Music track 6, read 2026-11-21.
 
 Apple Music server track listing, exact song 1573736427 and album
 1573736418 identifiers, read 2026-11-26.
+
+> <title>‎Badieh - EP - Album by Badieh - Apple Music</title>
+
+Apple Music collection 1573736418 page-title metadata, read 2026-11-26.
+
+> {"id":"track-lockup - 1573736418 - 1573736419","title":"Paresh - E Jal","trackNumber":1
+
+Apple Music collection 1573736418, numbered track 1, exact song 1573736419, read 2026-11-26.
+
+> {"id":"track-lockup - 1573736418 - 1573736423","title":"Leyla Dar Vakon","trackNumber":2
+
+Apple Music collection 1573736418, numbered track 2, exact song 1573736423, read 2026-11-26.
+
+> {"id":"track-lockup - 1573736418 - 1573736425","title":"Tarke Diar / Rashid Khan","trackNumber":3
+
+Apple Music collection 1573736418, numbered track 3, exact song 1573736425, read 2026-11-26.
+
+> {"id":"track-lockup - 1573736418 - 1573736429","title":"Assadullah Jan","trackNumber":5
+
+Apple Music collection 1573736418, numbered track 5, exact song 1573736429, read 2026-11-26.
+
+> {"id":"track-lockup - 1573736418 - 1573736431","title":"Sahargah","trackNumber":6
+
+Apple Music collection 1573736418, numbered track 6, exact song 1573736431, read 2026-11-26.

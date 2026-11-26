@@ -86,6 +86,6 @@ statements:
   - value: Qzj84hs
     references:
     - source: music.apple.com-us-album-az-posht-e-in-ajorha-from-behind-these-bricks-single-1770510267
-      quote: "{\"id\":\"track-lockup - 1770510267 - 1770510271\",\"title\":\"Be Yaad - E Bahaar\",\"trackNumber\":3"
-      locator: Exact Apple song 1770510271 in album 1770510267
+      quote: '{"id":"track-lockup - 1770510267 - 1770510271","title":"Be Yaad - E Bahaar","trackNumber":3'
+      locator: Apple Music track 3 in album 1770510267; exact song 1770510271
       accessed: '2026-11-26'

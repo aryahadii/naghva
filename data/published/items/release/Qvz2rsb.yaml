@@ -59,6 +59,6 @@ statements:
   - value: Qyr8ags
     references:
     - source: music.apple.com-us-album-lalehzar-1458051999
-      quote: Bahar
-      accessed: 2026-11-21
-      locator: Track 1
+      quote: '{"id":"track-lockup - 1458051999 - 1458052000","title":"Bahar","trackNumber":1'
+      locator: Apple Music track 1 in album 1458051999; exact song 1458052000
+      accessed: '2026-11-26'
