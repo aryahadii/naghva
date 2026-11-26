@@ -1,0 +1,36 @@
+id: Qdhhkq6
+type: event
+statements:
+  name:
+  - value:
+      text: 'Grand Performances Concert: Sahba Motallebi & Friends'
+      language: en
+    references:
+    - source: farhang.org-grand-performances-sahba-motallebi-friends
+      quote: 'Grand Performances Concert: Sahba Motallebi & Friends'
+      locator: Event title
+      accessed: '2026-11-26'
+  - value:
+      text: کنسرت صهبا مطلبی و دوستان در گرند پرفورمنسز
+      language: fa
+    editorial: true
+    references:
+    - source: farhang.org-grand-performances-sahba-motallebi-friends
+      quote: 'Grand Performances Concert: Sahba Motallebi & Friends'
+      locator: Event title
+      accessed: '2026-11-26'
+  performer:
+  - value: Qyw49hh
+    references:
+    - source: farhang.org-grand-performances-sahba-motallebi-friends
+      quote: 'Grand Performances Concert: Sahba Motallebi & Friends'
+      locator: Event title
+      accessed: '2026-11-26'
+  event date:
+  - value:
+      date: '2015-08-23'
+    references:
+    - source: farhang.org-grand-performances-sahba-motallebi-friends
+      quote: 'Time: August 23, 2015 from 7pm to 10pm'
+      locator: Event listing time
+      accessed: '2026-11-26'
