@@ -65,6 +65,8 @@ export interface Source {
 
 export interface TimelineEntry {
   anchor: string;
+  /** Other published fragments for this same dated fact. */
+  aliases?: string[];
   kind: 'release' | 'component' | 'posting' | 'formation' | 'event' | 'joined' | 'left' | 'life';
   item: string;
   about: string[];

@@ -101,6 +101,7 @@ const count = (k: string) => entries.filter((e) => e.kind === k).length;
         <ol class="entries">
           {entries.filter((e) => e.group === y).map((e) => (
             <li class="entry" id={e.anchor} data-kind={e.kind} data-artists={e.artists.join(' ')} data-years={e.years.join(' ')}>
+              {(e.aliases ?? []).map((alias) => <span class="entry-alias" id={alias} aria-hidden="true" />)}
               <p class="entry-meta"><Fragment set:html={[e.date, ...(e.alternatives ?? [])].map((d) => dateHtml(d, lang)).join(' / ')} /><span class="entry-kind">{words.kind[e.kind]}</span></p>
               {datesDisagree([e.date, ...(e.alternatives ?? [])]) && <p class="entry-sub">{words.dateDisagreement}</p>}
               <p class="entry-text" set:html={e.text} />

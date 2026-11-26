@@ -19,7 +19,7 @@ if (form) {
   const wanted = params.get('kind')?.split(',');
   // Older links may target an entry reclassified since that link was shared.
   if (wanted?.includes('release')) {
-    const kind = entries.find((e) => '#' + e.id === location.hash)?.dataset.kind;
+    const kind = document.getElementById(location.hash.slice(1))?.closest<HTMLElement>('.entry')?.dataset.kind;
     if ((kind === 'posting' || kind === 'component') && !wanted.includes(kind)) wanted.push(kind);
   }
   if (wanted) for (const chip of chips) chip.setAttribute('aria-pressed', String(wanted.includes(chip.dataset.kind!)));
@@ -91,7 +91,7 @@ if (form) {
   const reveal = () => {
     let target: HTMLElement | null = null;
     try { target = document.getElementById(decodeURIComponent(location.hash.slice(1))); } catch { return; }
-    const entry = target?.matches('.year') ? target.querySelector<HTMLElement>('.entry:not([hidden])') : target;
+    const entry = target?.matches('.year') ? target.querySelector<HTMLElement>('.entry:not([hidden])') : target?.closest<HTMLElement>('.entry');
     if (entry?.matches('.entry') && !entry.hidden) {
       entry.scrollIntoView({ block: 'start', behavior: 'instant' });
       rememberTimelinePosition();

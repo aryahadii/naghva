@@ -165,6 +165,35 @@ class DeriveTests(unittest.TestCase):
                 migrated = next(e for e in derive.timeline(items, legacy) if e["item"] == RELEASE)
                 self.assertEqual(migrated, {**new, "anchor": old["anchor"]})
 
+    def test_timeline_alias_preserves_another_published_fragment(self):
+        items = copy.deepcopy(self.record["items"])
+        old = next(e for e in derive.timeline(items, {}) if e["item"] == RELEASE)
+        alias = "entry-" + "a" * 20
+        registry = {"aliases": {alias: {"item": RELEASE, "anchor": old["anchor"]}}}
+        entry = next(e for e in derive.timeline(items, registry) if e["item"] == RELEASE)
+        self.assertEqual(entry, {**old, "aliases": [alias]})
+        self.assertEqual(len(derive.timeline(items, registry)), len(derive.timeline(items, {})))
+
+    def test_timeline_alias_cannot_collide_or_target_another_fact(self):
+        items = copy.deepcopy(self.record["items"])
+        old = next(e for e in derive.timeline(items, {}) if e["item"] == RELEASE)
+        alias = "entry-" + "a" * 20
+        cases = [
+            {old["anchor"]: {"item": RELEASE, "anchor": old["anchor"]}},
+            {alias: {"item": RELEASE, "anchor": "entry-" + "b" * 20}},
+            {alias: {"item": NIMA, "anchor": old["anchor"]}},
+            {"unsafe fragment": {"item": RELEASE, "anchor": old["anchor"]}},
+        ]
+        for mapping in cases:
+            with self.subTest(mapping=mapping), self.assertRaises(ds.DataError):
+                derive.timeline(items, {"aliases": mapping})
+
+    def test_timeline_aliases_for_absent_catalog_items_do_not_change_examples(self):
+        items = copy.deepcopy(self.record["items"])
+        registry = {"aliases": {"entry-" + "a" * 20:
+                               {"item": "Qabsent", "anchor": "entry-" + "b" * 20}}}
+        self.assertEqual(derive.timeline(items, registry), derive.timeline(items, {}))
+
     def test_announced_event_carries_its_billed_performer(self):
         items = copy.deepcopy(self.record["items"])
         items["Qzzzzz3"] = {
