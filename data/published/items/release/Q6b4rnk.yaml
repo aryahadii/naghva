@@ -45,3 +45,10 @@ statements:
       quote: In Search of Light
       accessed: 2026-11-21
       locator: Per-track sequence
+  track of:
+  - value: Qkv3gas
+    references:
+    - source: music.apple.com-us-album-lights-and-shadows-1837455926
+      quote: "{\"id\":\"track-lockup - 1837455926 - 1837455928\",\"title\":\"In Search of Light\",\"trackNumber\":2"
+      locator: Exact Apple song 1837455928 in album 1837455926
+      accessed: '2026-11-26'
