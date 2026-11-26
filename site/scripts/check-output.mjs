@@ -101,8 +101,10 @@ for (const path of ['/', '/en/', '/fa/']) {
     || JSON.stringify(identity.inLanguage) !== JSON.stringify(['en', 'fa'])
     || identity.description !== description)
     problems.push(`${path}: homepage WebSite identity is missing or inconsistent`);
-  if (!['Naghva', 'نغوا', 'نقوا'].every((name) => description.includes(name)))
-    problems.push(`${path}: homepage description must identify the brand and its alternate spelling`);
+  if (!['Naghva', 'نغوا'].every((name) => description.includes(name)))
+    problems.push(`${path}: homepage description must name the brand in both scripts`);
+  if (description.includes('نقوا'))
+    problems.push(`${path}: the alternate spelling must stay out of the share description`);
   if (meta.some((m) => attr(m, 'name') === 'robots' && /\bnoindex\b/.test(attr(m, 'content') ?? '')))
     problems.push(`${path}: homepage must be indexable`);
   const body = (html.match(/<body\b[^>]*>([\s\S]*?)<\/body>/)?.[1] ?? '')
