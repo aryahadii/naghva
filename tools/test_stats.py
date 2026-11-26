@@ -118,6 +118,24 @@ class StatsTests(unittest.TestCase):
         again = stats.stats(self.items, ["QA", "QB"], {}, {})["network"]
         self.assertEqual(net["nodes"], again["nodes"])
 
+    def test_network_keeps_each_circle_of_collaborators_on_its_own_island(self):
+        # Two bands that never share a release with each other, joined by one guest appearance.
+        bands = [["QA", "QB", "QC", "QD"], ["QE", "QF", "QG", "QH"]]
+        items = {i: person(i) for band in bands for i in band}
+        for b, band in enumerate(bands):
+            for r in range(3):
+                items[f"QR{b}{r}"] = release(f"QR{b}{r}", band)
+        items["QRX"] = release("QRX", ["QD", "QE"])
+        net = stats.stats(items, sorted(i for band in bands for i in band), {}, {})["network"]
+        island = {n["id"]: n["g"] for n in net["nodes"]}
+        self.assertEqual(len(net["groups"]), 2)
+        for band in bands:
+            self.assertEqual(len({island[i] for i in band}), 1)
+        self.assertNotEqual(island["QA"], island["QE"])
+        self.assertEqual({g["n"] for g in net["groups"]}, {4})
+        for n in net["nodes"]:
+            self.assertTrue(0 <= n["x"] <= net["box"] and 0 <= n["y"] <= 1, n)
+
     def test_sources_cited_only_in_articles_count_as_gathered(self):
         articles = {"QA": {"en": {"notes": [{"key": "n", "source": "art", "quote": "q", "accessed": "2026-11-12"}]}}}
         gathered = lambda a: sum(n for _, n in stats.stats(self.items, ["QA", "QB"], {}, {}, a)["pace"])
