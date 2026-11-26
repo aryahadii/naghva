@@ -48,3 +48,7 @@ Artist interview, biography or performance credits, read 2026-11-21.
 > The Iranian percussionist Ali Rahimi
 
 Artist interview, biography or performance credits, read 2026-11-21.
+
+> The Iranian percussionist Ali Rahimi, who has earlier contributed to several KKV releases with Mahsa and Marjan Vahdat, also appears on the album.
+
+The label ties this percussionist to its Vahdat albums, read 2026-11-26.
