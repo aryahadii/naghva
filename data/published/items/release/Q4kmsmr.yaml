@@ -45,3 +45,10 @@ statements:
       quote: Duality
       accessed: 2026-11-21
       locator: Per-track sequence
+  track of:
+  - value: Qkv3gas
+    references:
+    - source: music.apple.com-us-album-lights-and-shadows-1837455926
+      quote: "{\"id\":\"track-lockup - 1837455926 - 1837455930\",\"title\":\"Duality\",\"trackNumber\":4"
+      locator: Exact Apple song 1837455930 in album 1837455926
+      accessed: '2026-11-26'
