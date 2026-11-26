@@ -4,7 +4,7 @@ statements:
   name:
   - value:
       text: Neyriz (feat. Samin Ghorbani & Radman Tavakoli) [Female]
-      language: az
+      language: en
     references:
     - source: music.apple.com-us-album-1868165829
       quote: Neyriz (feat. Samin Ghorbani & Radman Tavakoli) [Female]
@@ -14,11 +14,9 @@ statements:
   - value: Qncx8nb
     references:
     - source: music.apple.com-us-album-1868165829
-      quote: Daramad (feat. Samin Ghorbani) [Female]
-      locator: Published artist, title or credits
-      accessed: '2026-11-21'
-    qualifiers:
-      role: vocals
+      quote: '{"id":"track-lockup - 1868165829 - 1868166028","title":"Neyriz (feat. Samin Ghorbani & Radman Tavakoli) [Female]","trackNumber":19'
+      locator: Apple Music exact track 19 feature billing; song 1868166028
+      accessed: '2026-11-26'
   - value: Qbh7ggw
     references:
     - source: music.apple.com-us-album-1868165829
@@ -63,3 +61,10 @@ statements:
       quote: Neyriz - Female
       locator: Published artist, title or credits
       accessed: '2026-11-21'
+  track of:
+  - value: Q25s6ha
+    references:
+    - source: music.apple.com-us-album-1868165829
+      quote: '{"id":"track-lockup - 1868165829 - 1868166028","title":"Neyriz (feat. Samin Ghorbani & Radman Tavakoli) [Female]","trackNumber":19'
+      locator: Apple Music track 19 in album 1868165829; exact song 1868166028
+      accessed: '2026-11-26'

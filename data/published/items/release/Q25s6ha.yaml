@@ -4,14 +4,6 @@ statements:
   name:
   - value:
       text: 'The Dastgahs of Persian Music: Dastgah-e Nava (Female)'
-      language: az
-    references:
-    - source: music.apple.com-us-album-1868165829
-      quote: 'The Dastgahs of Persian Music: Dastgah-e Nava (Female)'
-      locator: Published artist, title or credits
-      accessed: '2026-11-21'
-  - value:
-      text: 'The Dastgahs of Persian Music: Dastgah-e Nava (Female)'
       language: en
     references:
     - source: siamak-jahangiri-ap1868165829
@@ -19,26 +11,12 @@ statements:
       accessed: '2026-11-21'
       locator: Album title
   performer:
-  - value: Qncx8nb
-    references:
-    - source: music.apple.com-us-album-1868165829
-      quote: Daramad (feat. Samin Ghorbani) [Female]
-      locator: Published artist, title or credits
-      accessed: '2026-11-21'
-    qualifiers:
-      role: vocals
   - value: Qbh7ggw
     references:
     - source: music.apple.com-us-album-1868165829
-      quote: Hossein Alizadeh
-      locator: Published artist, title or credits
-      accessed: '2026-11-21'
-  - value: Qnz4xnz
-    references:
-    - source: siamak-jahangiri-ap1868165829
-      quote: Gavesht (feat. Samin Ghorbani & Siamak Jahangiry) [Female]
-      accessed: '2026-11-21'
-      locator: Distributor artist credit
+      quote: '"byArtist":[{"@type":"MusicGroup","url":"https://music.apple.com/us/artist/hossein-alizadeh/86092117","name":"Hossein Alizadeh"}]'
+      locator: Apple Music album-level byArtist billing; not track feature titles
+      accessed: '2026-11-26'
   release date:
   - value:
       date: '2026-01-08'

@@ -4,7 +4,7 @@ statements:
   name:
   - value:
       text: Gardaniyeh (feat. Samin Ghorbani & Parisa Pouladian) [Female]
-      language: az
+      language: en
     references:
     - source: music.apple.com-us-album-1868165829
       quote: Gardaniyeh (feat. Samin Ghorbani & Parisa Pouladian) [Female]
@@ -14,11 +14,9 @@ statements:
   - value: Qncx8nb
     references:
     - source: music.apple.com-us-album-1868165829
-      quote: Daramad (feat. Samin Ghorbani) [Female]
-      locator: Published artist, title or credits
-      accessed: '2026-11-21'
-    qualifiers:
-      role: vocals
+      quote: '{"id":"track-lockup - 1868165829 - 1868165834","title":"Gardaniyeh (feat. Samin Ghorbani & Parisa Pouladian) [Female]","trackNumber":5'
+      locator: Apple Music exact track 5 feature billing; song 1868165834
+      accessed: '2026-11-26'
   - value: Qbh7ggw
     references:
     - source: music.apple.com-us-album-1868165829
@@ -71,6 +69,6 @@ statements:
   - value: Q25s6ha
     references:
     - source: music.apple.com-us-album-1868165829
-      quote: "{\"id\":\"track-lockup - 1868165829 - 1868165834\",\"title\":\"Gardaniyeh (feat. Samin Ghorbani & Parisa Pouladian) [Female]\",\"trackNumber\":5"
-      locator: Exact Apple song 1868165834 in album 1868165829
+      quote: '{"id":"track-lockup - 1868165829 - 1868165834","title":"Gardaniyeh (feat. Samin Ghorbani & Parisa Pouladian) [Female]","trackNumber":5'
+      locator: Apple Music track 5 in album 1868165829; exact song 1868165834
       accessed: '2026-11-26'

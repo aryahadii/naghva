@@ -4,14 +4,6 @@ statements:
   name:
   - value:
       text: Hosseini (feat. Samin Ghorbani & Siamak Jahangiry) [Female]
-      language: az
-    references:
-    - source: music.apple.com-us-album-1868165829
-      quote: Hosseini (feat. Samin Ghorbani & Siamak Jahangiry) [Female]
-      locator: Published artist, title or credits
-      accessed: '2026-11-21'
-  - value:
-      text: Hosseini (feat. Samin Ghorbani & Siamak Jahangiry) [Female]
       language: en
     references:
     - source: siamak-jahangiri-ap1868165829
@@ -22,11 +14,9 @@ statements:
   - value: Qncx8nb
     references:
     - source: music.apple.com-us-album-1868165829
-      quote: Daramad (feat. Samin Ghorbani) [Female]
-      locator: Published artist, title or credits
-      accessed: '2026-11-21'
-    qualifiers:
-      role: vocals
+      quote: '{"id":"track-lockup - 1868165829 - 1868166030","title":"Hosseini (feat. Samin Ghorbani & Siamak Jahangiry) [Female]","trackNumber":21'
+      locator: Apple Music exact track 21 feature billing; song 1868166030
+      accessed: '2026-11-26'
   - value: Qbh7ggw
     references:
     - source: music.apple.com-us-album-1868165829
@@ -84,7 +74,7 @@ statements:
   track of:
   - value: Q25s6ha
     references:
-    - source: siamak-jahangiri-ap1868165829
-      quote: Hosseini (feat. Samin Ghorbani & Siamak Jahangiry) [Female]
-      accessed: 2026-11-21
-      locator: Track title and billing
+    - source: music.apple.com-us-album-1868165829
+      quote: '{"id":"track-lockup - 1868165829 - 1868166030","title":"Hosseini (feat. Samin Ghorbani & Siamak Jahangiry) [Female]","trackNumber":21'
+      locator: Apple Music track 21 in album 1868165829; exact song 1868166030
+      accessed: '2026-11-26'

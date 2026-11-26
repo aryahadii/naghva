@@ -4,7 +4,7 @@ statements:
   name:
   - value:
       text: Masnavi (feat. Samin Ghorbani, Ali Boustan & Ramtin Nazarijou) [Female]
-      language: az
+      language: en
     references:
     - source: music.apple.com-us-album-1868165829
       quote: Masnavi (feat. Samin Ghorbani, Ali Boustan & Ramtin Nazarijou) [Female]
@@ -14,11 +14,9 @@ statements:
   - value: Qncx8nb
     references:
     - source: music.apple.com-us-album-1868165829
-      quote: Daramad (feat. Samin Ghorbani) [Female]
-      locator: Published artist, title or credits
-      accessed: '2026-11-21'
-    qualifiers:
-      role: vocals
+      quote: '{"id":"track-lockup - 1868165829 - 1868166037","title":"Masnavi (feat. Samin Ghorbani, Ali Boustan & Ramtin Nazarijou) [Female]","trackNumber":28'
+      locator: Apple Music exact track 28 feature billing; song 1868166037
+      accessed: '2026-11-26'
   - value: Qbh7ggw
     references:
     - source: music.apple.com-us-album-1868165829
@@ -69,3 +67,10 @@ statements:
       quote: Masnavi - Female
       locator: Published artist, title or credits
       accessed: '2026-11-21'
+  track of:
+  - value: Q25s6ha
+    references:
+    - source: music.apple.com-us-album-1868165829
+      quote: '{"id":"track-lockup - 1868165829 - 1868166037","title":"Masnavi (feat. Samin Ghorbani, Ali Boustan & Ramtin Nazarijou) [Female]","trackNumber":28'
+      locator: Apple Music track 28 in album 1868165829; exact song 1868166037
+      accessed: '2026-11-26'
