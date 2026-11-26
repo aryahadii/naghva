@@ -1,0 +1,72 @@
+id: Qjgxhds
+type: release
+statements:
+  name:
+  - value:
+      text: Lahze Didar (Concert Version)
+      language: en
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: Lahze Didar (Concert Version)
+      accessed: '2026-11-26'
+      locator: Track list
+  - value:
+      text: لحظه دیدار نزدیک است
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: '"لحظه دیدار نزدیک است"'
+      accessed: '2026-11-26'
+      locator: Video description, song 5
+  track of:
+  - value: Qwvvket
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: Lahze Didar (Concert Version)
+      accessed: '2026-11-26'
+      locator: Track list
+  programme segment of:
+  - value: Qpjn57f
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: '"لحظه دیدار نزدیک است"'
+      accessed: '2026-11-26'
+      locator: Video description, song 5
+  performer:
+  - value: Qf4s5vm
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: '"لحظه دیدار نزدیک است"'
+      accessed: '2026-11-26'
+      locator: Video description, song 5
+  contributor:
+  - value: Qppkbd8
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: '"لحظه دیدار نزدیک است"
+
+        آهنگساز: سهیل فقیه‌نصیری'
+      accessed: '2026-11-26'
+      locator: Video description, song 5
+  - value: Q7d3zt4
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: 'شاعر: مهدی اخوان ثالث'
+      accessed: '2026-11-26'
+      locator: Video description, song 5
+  listen link:
+  - value: https://music.apple.com/us/album/lahze-didar-concert-version/1785874396?i=1785874671
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: Lahze Didar (Concert Version)
+      accessed: '2026-11-26'
+      locator: Track list

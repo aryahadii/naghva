@@ -1,0 +1,118 @@
+id: Qay5ekf
+type: release
+statements:
+  name:
+  - value:
+      text: Az To Neveshtan
+      language: en
+    references:
+    - source: open.spotify.com-album-1dnvitybccdrnqg6td8k4t-12428b15bbe4
+      quote: Listen to Az To Neveshtan - Single by Parastoo Ahmadi | Spotify
+      accessed: '2026-11-26'
+      locator: Page title
+  release date:
+  - value:
+      date: '2025-10-09'
+    references:
+    - source: music.apple.com-us-album-az-to-neveshtan-single-1845566514-051234c6d1de
+      quote: '"datePublished":"2025-10-09"'
+      accessed: '2026-11-26'
+      locator: Catalogue release date
+    - source: open.spotify.com-album-1dnvitybccdrnqg6td8k4t-12428b15bbe4
+      quote: '2025-10-09'
+      accessed: '2026-11-26'
+      locator: music:release_date
+  platform posting date:
+  - value:
+      date: '2025-10-09'
+    references:
+    - source: www.youtube.com-watch-v-q-kd3orw-3m-344ead05baed
+      quote: '2025-10-09T10:00:28-07:00'
+      accessed: '2026-11-26'
+      locator: YouTube publication date
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-1dnvitybccdrnqg6td8k4t-12428b15bbe4
+      quote: Parastoo Ahmadi · single · 2025 · 1 songs
+      accessed: '2026-11-26'
+      locator: Page description
+  performer:
+  - value: Qf4s5vm
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: music.apple.com-us-album-az-to-neveshtan-single-1845566514-051234c6d1de
+      quote: 'Listen to Az To Neveshtan - Single by Parastoo Ahmadi on Apple Music. 2025. 1 Song. Duration:
+        3 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  contributor:
+  - value: Qjzjvyg
+    qualifiers:
+      role:
+      - composer
+      - arranger
+    references:
+    - source: www.youtube.com-watch-v-q-kd3orw-3m-344ead05baed
+      quote: 'Music & Arrangement: Ramin Darestani'
+      accessed: '2026-11-26'
+      locator: Video description
+  - value: Qmgs3nx
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: www.youtube.com-watch-v-q-kd3orw-3m-344ead05baed
+      quote: 'Lyrics: Meisam Yousefi'
+      accessed: '2026-11-26'
+      locator: Video description
+  - value: Q53kt4d
+    qualifiers:
+      role:
+      - mixing engineer
+      - mastering engineer
+    references:
+    - source: www.youtube.com-watch-v-q-kd3orw-3m-344ead05baed
+      quote: 'Mix & Mastering: Mahyar Rahimi'
+      accessed: '2026-11-26'
+      locator: Video description
+  published by:
+  - value: Q4br89h
+    references:
+    - source: music.apple.com-us-album-az-to-neveshtan-single-1845566514-051234c6d1de
+      quote: ℗ 2025 Hafdang Records
+      accessed: '2026-11-26'
+      locator: Copyright line
+  listen link:
+  - value: https://music.apple.com/us/album/az-to-neveshtan-single/1845566514
+    references:
+    - source: music.apple.com-us-album-az-to-neveshtan-single-1845566514-051234c6d1de
+      quote: 'Listen to Az To Neveshtan - Single by Parastoo Ahmadi on Apple Music. 2025. 1 Song. Duration:
+        3 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  - value: https://open.spotify.com/album/1dNVitYbCCDrnQG6tD8K4T
+    references:
+    - source: open.spotify.com-album-1dnvitybccdrnqg6td8k4t-12428b15bbe4
+      quote: Listen to Az To Neveshtan - Single by Parastoo Ahmadi | Spotify
+      accessed: '2026-11-26'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=Q-KD3oRW_3M
+    references:
+    - source: www.youtube.com-watch-v-q-kd3orw-3m-344ead05baed
+      quote: عاشقانه تازه پرستو احمدی | Az To Neveshtan - Parastoo Ahmadi
+      accessed: '2026-11-26'
+      locator: Video title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273a3d506e8cb2cdd4cf21b00b8
+    qualifiers:
+      credit:
+        text: Az To Neveshtan, Spotify
+        language: en
+    references:
+    - source: open.spotify.com-album-1dnvitybccdrnqg6td8k4t-12428b15bbe4
+      quote: https://i.scdn.co/image/ab67616d0000b273a3d506e8cb2cdd4cf21b00b8
+      accessed: '2026-11-26'
+      locator: og:image

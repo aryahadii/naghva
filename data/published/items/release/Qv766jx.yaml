@@ -1,0 +1,105 @@
+id: Qv766jx
+type: release
+statements:
+  name:
+  - value:
+      text: Vasoonak Shirazi
+      language: en
+    references:
+    - source: open.spotify.com-album-6vox5pzymjktduwsy4kasb-6167abaf7a86
+      quote: Listen to Vasoonak Shirazi - Single by Parastoo Ahmadi | Spotify
+      accessed: '2026-11-26'
+      locator: Page title
+  - value:
+      text: واسونک شیرازی
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-vs3-dxrigky-a29c544f57e3
+      quote: 'آهنگ: واسونک شیرازی'
+      accessed: '2026-11-26'
+      locator: Video description
+  release date:
+  - value:
+      date: '2024-10-22'
+    references:
+    - source: music.apple.com-us-album-vasoonak-shirazi-single-1775897811-65a58978ec59
+      quote: '"datePublished":"2024-10-22"'
+      accessed: '2026-11-26'
+      locator: Catalogue release date
+    - source: open.spotify.com-album-6vox5pzymjktduwsy4kasb-6167abaf7a86
+      quote: '2024-10-22'
+      accessed: '2026-11-26'
+      locator: music:release_date
+  platform posting date:
+  - value:
+      date: '2024-11-03'
+    references:
+    - source: www.youtube.com-watch-v-vs3-dxrigky-a29c544f57e3
+      quote: '2024-11-03T01:00:49-08:00'
+      accessed: '2026-11-26'
+      locator: YouTube publication date
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-6vox5pzymjktduwsy4kasb-6167abaf7a86
+      quote: Parastoo Ahmadi · single · 2024 · 1 songs
+      accessed: '2026-11-26'
+      locator: Page description
+  performer:
+  - value: Qf4s5vm
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: music.apple.com-us-album-vasoonak-shirazi-single-1775897811-65a58978ec59
+      quote: 'Listen to Vasoonak Shirazi - Single by Parastoo Ahmadi on Apple Music. 2024. 1 Song. Duration:
+        2 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  - value: Qyxm5tf
+    qualifiers:
+      role:
+      - piano
+    references:
+    - source: www.youtube.com-watch-v-vs3-dxrigky-a29c544f57e3
+      quote: 'پیانو: احسان بیرقدار'
+      accessed: '2026-11-26'
+      locator: Video description
+  published by:
+  - value: Q4br89h
+    references:
+    - source: music.apple.com-us-album-vasoonak-shirazi-single-1775897811-65a58978ec59
+      quote: ℗ 2024 Hafdang Records
+      accessed: '2026-11-26'
+      locator: Copyright line
+  listen link:
+  - value: https://music.apple.com/us/album/vasoonak-shirazi-single/1775897811
+    references:
+    - source: music.apple.com-us-album-vasoonak-shirazi-single-1775897811-65a58978ec59
+      quote: 'Listen to Vasoonak Shirazi - Single by Parastoo Ahmadi on Apple Music. 2024. 1 Song. Duration:
+        2 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  - value: https://open.spotify.com/album/6vox5pZyMjktDuWSY4kAsB
+    references:
+    - source: open.spotify.com-album-6vox5pzymjktduwsy4kasb-6167abaf7a86
+      quote: Listen to Vasoonak Shirazi - Single by Parastoo Ahmadi | Spotify
+      accessed: '2026-11-26'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=vS3-DXRIGkY
+    references:
+    - source: www.youtube.com-watch-v-vs3-dxrigky-a29c544f57e3
+      quote: آهنگ واسونک شیرازی با صدای پرستو احمدی
+      accessed: '2026-11-26'
+      locator: Video title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2738015bef5050463bfae1ef57e
+    qualifiers:
+      credit:
+        text: Vasoonak Shirazi, Spotify
+        language: en
+    references:
+    - source: open.spotify.com-album-6vox5pzymjktduwsy4kasb-6167abaf7a86
+      quote: https://i.scdn.co/image/ab67616d0000b2738015bef5050463bfae1ef57e
+      accessed: '2026-11-26'
+      locator: og:image

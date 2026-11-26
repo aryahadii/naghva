@@ -1,0 +1,135 @@
+id: Qfhyhx8
+type: release
+statements:
+  name:
+  - value:
+      text: Haft
+      language: en
+    references:
+    - source: open.spotify.com-album-31kiym8iyj3udmnlu43d7y-28bf51f2333a
+      quote: Listen to Haft - Single by Parastoo Ahmadi | Spotify
+      accessed: '2026-11-26'
+      locator: Page title
+  - value:
+      text: هفت
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-kuejutjdung-ba754f6d5a4d
+      quote: اجرای زنده‌ی قطعه‌ی هفت (گل سرخ) تقدیم به مردم عزیز ایران
+      accessed: '2026-11-26'
+      locator: Video description
+  release date:
+  - value:
+      date: '2025-03-28'
+    references:
+    - source: music.apple.com-us-album-haft-single-1805091959-b8def78e0f49
+      quote: '"datePublished":"2025-03-28"'
+      accessed: '2026-11-26'
+      locator: Catalogue release date
+    - source: open.spotify.com-album-31kiym8iyj3udmnlu43d7y-28bf51f2333a
+      quote: '2025-03-28'
+      accessed: '2026-11-26'
+      locator: music:release_date
+  platform posting date:
+  - value:
+      date: '2024-03-19'
+    references:
+    - source: www.youtube.com-watch-v-kuejutjdung-ba754f6d5a4d
+      quote: '2024-03-19T08:30:18-07:00'
+      accessed: '2026-11-26'
+      locator: YouTube publication date
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-31kiym8iyj3udmnlu43d7y-28bf51f2333a
+      quote: Parastoo Ahmadi · single · 2025 · 1 songs
+      accessed: '2026-11-26'
+      locator: Page description
+  performer:
+  - value: Qf4s5vm
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: music.apple.com-us-album-haft-single-1805091959-b8def78e0f49
+      quote: 'Listen to Haft - Single by Parastoo Ahmadi on Apple Music. 2025. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  - value: Qppkbd8
+    qualifiers:
+      role:
+      - guitar
+    references:
+    - source: www.youtube.com-watch-v-kuejutjdung-ba754f6d5a4d
+      quote: 'نوازنده گیتارالکتریک: سهیل فقیه نصیری'
+      accessed: '2026-11-26'
+      locator: Video description
+  - value: Qyxm5tf
+    qualifiers:
+      role:
+      - piano
+    references:
+    - source: www.youtube.com-watch-v-kuejutjdung-ba754f6d5a4d
+      quote: 'تنظیم و پیانو: احسان بیرقدار'
+      accessed: '2026-11-26'
+      locator: Video description
+  contributor:
+  - value: Qe2vssn
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: music.apple.com-us-album-haft-single-1805091959-b8def78e0f49
+      quote: '"composer":"Fereydoon Farrokhzad"'
+      accessed: '2026-11-26'
+      locator: Composer field
+    - source: www.youtube.com-watch-v-kuejutjdung-ba754f6d5a4d
+      quote: اثر زنده یاد فریدون فرخزاد
+      accessed: '2026-11-26'
+      locator: Video description
+  - value: Qyxm5tf
+    qualifiers:
+      role:
+      - arranger
+    references:
+    - source: www.youtube.com-watch-v-kuejutjdung-ba754f6d5a4d
+      quote: 'تنظیم و پیانو: احسان بیرقدار'
+      accessed: '2026-11-26'
+      locator: Video description
+  published by:
+  - value: Q4br89h
+    references:
+    - source: music.apple.com-us-album-haft-single-1805091959-b8def78e0f49
+      quote: ℗ 2025 Hafdang Records
+      accessed: '2026-11-26'
+      locator: Copyright line
+  listen link:
+  - value: https://music.apple.com/us/album/haft-single/1805091959
+    references:
+    - source: music.apple.com-us-album-haft-single-1805091959-b8def78e0f49
+      quote: 'Listen to Haft - Single by Parastoo Ahmadi on Apple Music. 2025. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  - value: https://open.spotify.com/album/31KIyM8iYj3uDMNLu43D7y
+    references:
+    - source: open.spotify.com-album-31kiym8iyj3udmnlu43d7y-28bf51f2333a
+      quote: Listen to Haft - Single by Parastoo Ahmadi | Spotify
+      accessed: '2026-11-26'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=kUeJUtJdUNg
+    references:
+    - source: www.youtube.com-watch-v-kuejutjdung-ba754f6d5a4d
+      quote: آهنگ ۷ با صدای پرستو احمدی
+      accessed: '2026-11-26'
+      locator: Video title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2734b57582afd09c9eaa329a80a
+    qualifiers:
+      credit:
+        text: Haft, Spotify
+        language: en
+    references:
+    - source: open.spotify.com-album-31kiym8iyj3udmnlu43d7y-28bf51f2333a
+      quote: https://i.scdn.co/image/ab67616d0000b2734b57582afd09c9eaa329a80a
+      accessed: '2026-11-26'
+      locator: og:image
