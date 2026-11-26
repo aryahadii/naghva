@@ -4,7 +4,7 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { test } from 'node:test';
-import { best, byRecordingDate, catalogueReleasesOf, creditedReleaseHost, newRecords, recordingArtists, recordingDates, releaseDates, withoutEpMarker } from '../src/lib/record.ts';
+import { best, byRecordingDate, orderParts, catalogueReleasesOf, creditedReleaseHost, newRecords, recordingArtists, recordingDates, releaseDates, withoutEpMarker } from '../src/lib/record.ts';
 import { artistView } from '../src/lib/artist.ts';
 import { artistJsonLd, siteJsonLd } from '../src/lib/jsonld.ts';
 import { fold, ranked, searchPage } from '../src/lib/search.ts';
@@ -87,6 +87,68 @@ test('a dated programme segment does not say Released in either language', () =>
     assert.ok(panel.facts.some((f) => f.label === labels.segmentDate), lang);
     assert.ok(!panel.facts.some((f) => f.label === labels.released), lang);
   }
+});
+
+test('album tracks fold into their album card and are listed on its panel in both languages', () => {
+  const artist = published.items.Qhebfsp;
+  const album = published.items.Qb74q2p;
+  const tracks = album.incoming.filter((i) => i.property === 'track of').map((i) => i.item);
+  assert.ok(tracks.length > 1);
+  for (const lang of ['en', 'fa']) {
+    const labels = JSON.parse(readFileSync(`src/strings/${lang}.json`, 'utf8')).release;
+    const view = artistView(published, artist, lang);
+    assert.ok(view.shelf.some((r) => r.item.id === album.id), lang);
+    assert.ok(!view.shelf.some((r) => tracks.includes(r.item.id)), lang);
+    // Tracks keep their panels and stay among the artist's recordings for structured data.
+    for (const id of tracks) assert.ok(view.releases.some((r) => r.item.id === id), `${lang} ${id}`);
+    const panel = view.releasePanels.find((r) => r.item.id === album.id);
+    const listed = panel.facts.find((f) => f.label === labels.tracks);
+    assert.ok(listed, lang);
+    for (const id of tracks) assert.ok(listed.html.includes(`href="#${published.items[id].anchor}"`), `${lang} ${id}`);
+    assert.ok(panel.trackNames.length >= tracks.length, lang);
+    const track = view.releasePanels.find((r) => r.item.id === tracks[0]);
+    assert.ok(track.facts.find((f) => f.label === labels.trackOf).html.includes(`href="#${album.anchor}"`), lang);
+  }
+});
+
+test('programme segments are listed as segments, and a track of an album not credited to the artist keeps its card', () => {
+  const artist = published.items.Qyw49hh;
+  const labels = JSON.parse(readFileSync('src/strings/en.json', 'utf8')).release;
+  const view = artistView(published, artist, 'en');
+  const shelf = new Set(view.shelf.map((r) => r.item.id));
+  const own = new Set(view.releases.map((r) => r.item.id));
+  for (const r of view.releases) {
+    const wholes = ['track of', 'programme segment of'].flatMap((p) => best(r.item.statements[p]).map((s) => s.value));
+    if (wholes.length && !wholes.some((w) => own.has(w))) assert.ok(shelf.has(r.item.id), r.item.id);
+  }
+  const programmes = view.releasePanels.filter((p) => p.facts.some((f) => f.label === labels.segments));
+  assert.ok(programmes.length > 0);
+  for (const p of programmes) assert.ok(!p.facts.some((f) => f.label === labels.tracks) || p.item.incoming.some((i) => i.property === 'track of'));
+});
+
+test('components follow their source numbers, else one source\'s quote order, else numbered ones first', () => {
+  const part = (id, position) => ({ id, positions: { W: position } });
+  const order = (parts) => { const sourced = orderParts(parts, 'W'); return [parts.map((p) => p.id), sourced]; };
+  assert.deepEqual(order([part('a', { source: 's', number: 3, at: 1 }), part('b', { source: 't', number: 1 })]), [['b', 'a'], true]);
+  assert.deepEqual(order([part('a', { source: 's', at: 9 }), part('b', { source: 's', number: 1, at: 4 })]), [['b', 'a'], true]);
+  assert.deepEqual(order([part('a', { source: 's', at: 9 }), part('b', { source: 't', at: 4 })]), [['a', 'b'], false]);
+  assert.deepEqual(order([{ id: 'c' }, part('a', { source: 's', number: 2 }), part('b', { source: 't', number: 1 })]), [['b', 'a', 'c'], false]);
+});
+
+test('a track on two of the artist\'s albums is listed on both, and the list is cited', () => {
+  const record = structuredClone(published);
+  const artist = record.items.Qhebfsp;
+  const [album, other] = catalogueReleasesOf(record, artist).filter((r) => r.incoming.some((i) => i.property === 'track of'));
+  const track = record.items[album.incoming.find((i) => i.property === 'track of').item];
+  track.statements['track of'].push({ ...track.statements['track of'][0], value: other.id });
+  const view = artistView(record, artist, 'en');
+  const labels = JSON.parse(readFileSync('src/strings/en.json', 'utf8')).release;
+  for (const whole of [album, other]) {
+    const listed = view.releasePanels.find((r) => r.item.id === whole.id).facts.find((f) => f.label === labels.tracks);
+    assert.ok(listed.html.includes(`href="#${track.anchor}"`), whole.id);
+    assert.ok(listed.html.includes('class="cite"'), whole.id);
+  }
+  assert.ok(!view.shelf.some((r) => r.item.id === track.id));
 });
 
 test('catalogue dates put undated last in both directions with stable ID ties', () => {

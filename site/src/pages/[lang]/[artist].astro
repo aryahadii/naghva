@@ -39,7 +39,7 @@ const suggest = suggestUrl(address);
 
 const contents = [
   { anchor: 'overview', label: t.artist.overview },
-  ...(view.releasePanels.length ? [{ anchor: 'recordings', label: t.artist.recordings, count: view.releases.length }] : []),
+  ...(view.releasePanels.length ? [{ anchor: 'recordings', label: t.artist.recordings, count: view.shelf.length }] : []),
   ...(view.sections.length || view.articleElsewhere
     ? [{ anchor: 'life', label: t.artist.life, children: view.sections.map((s) => ({ anchor: s.anchor, label: s.heading })) }]
     : []),
@@ -95,7 +95,7 @@ const contents = [
             <h2 id="recordings-title" tabindex="-1">{t.artist.recordings}</h2>
             <ShelfControls shelf="catalog" lang={lang} newestFirst />
           </header>
-          <p class="section-note">{plural(lang, t.artist.recordingsNote, view.releases.length)}</p>
+          <p class="section-note">{plural(lang, t.artist.recordingsNote, view.shelf.length)}</p>
           <button class="pill needs-js" id="catalog-expand" aria-expanded="false" aria-controls="catalog catalog-tools" data-expand={t.browse.expand} data-collapse={t.browse.collapse}>{t.browse.expand}</button>
           <div id="catalog-tools" class="catalog-tools" hidden>
             <label>{t.browse.filter}<input type="search" id="catalog-query" /></label>
@@ -105,8 +105,8 @@ const contents = [
           </div>
           <p id="catalog-empty" hidden>{t.browse.empty}</p>
           <ol class="shelf" id="catalog">
-            {[...view.releases].sort((a, b) => compareDates({ id: a.item.id, date: recordingDate(a.item)?.range[0] }, { id: b.item.id, date: recordingDate(b.item)?.range[0] }, true)).map((r) => (
-              <li data-id={r.item.id} data-date={recordingDate(r.item)?.range[0]} data-names={fold([r.title.text, r.other?.text ?? ''].join(' '))}><ReleaseCard href={`#${r.anchor}`} lang={lang} title={r.title} date={r.date} sub={r.with} art={r.cover?.image} panel /></li>
+            {[...view.shelf].sort((a, b) => compareDates({ id: a.item.id, date: recordingDate(a.item)?.range[0] }, { id: b.item.id, date: recordingDate(b.item)?.range[0] }, true)).map((r) => (
+              <li data-id={r.item.id} data-date={recordingDate(r.item)?.range[0]} data-names={fold([r.title.text, r.other?.text ?? '', ...r.trackNames].join(' '))}><ReleaseCard href={`#${r.anchor}`} lang={lang} title={r.title} date={r.date} sub={r.with} art={r.cover?.image} panel /></li>
             ))}
           </ol>
         </section>
