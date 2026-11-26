@@ -55,3 +55,10 @@ statements:
       quote: spotify:track:2Wseq1QXeKtGO9N2n2HpXq
       accessed: '2026-11-21'
       locator: Spotify track 3
+  track of:
+  - value: Q5x2r69
+    references:
+    - source: music.apple.com-us-album-bote-jeghe-1586165677
+      quote: Fandanguito
+      accessed: 2026-11-21
+      locator: Track 3

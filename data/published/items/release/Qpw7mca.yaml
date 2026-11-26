@@ -55,3 +55,10 @@ statements:
       quote: spotify:track:3vMcqeSXmxvR1lj0xMOsv5
       accessed: '2026-11-21'
       locator: Spotify track 2
+  track of:
+  - value: Q5x2r69
+    references:
+    - source: music.apple.com-us-album-bote-jeghe-1586165677
+      quote: Cascabel Azul
+      accessed: 2026-11-21
+      locator: Track 2
