@@ -47,3 +47,12 @@ Sepp on guitar and singing, September 2003 interview.
 > I wanted to perfect my instrument before singing.
 
 Sepp on guitar and singing, September 2003 interview.
+
+Date-scope recheck, original source read 2026-11-26:
+
+September 15, 2003 is the article byline. The review identifies Silent Rain
+and several tracks and says limited editions are available, but does not
+state an issue year for the album or its tracks. Float MP3 recording-year
+metadata and the article availability bound do not establish an issue date.
+No complete numbered eight-track album listing was found; no parent link
+is inferred from a partial list.

@@ -356,3 +356,10 @@ Credits for this edition, role or concert, read 2026-11-21.
 Radio version and separate 2021 live performance, read 2026-11-21.
 
 > She has reworked the entire piece.
+
+Date-scope recheck, original source read 2026-11-26:
+
+The March 2022 heading dates installation staging and an excerpt of APOLOGY.
+The work page separately describes the complete audio-play premiere. Artist
+and venue accounts of the exhibition closing date differ; neither supplies
+a native recording-posting date. Do not treat the staging month as issue.

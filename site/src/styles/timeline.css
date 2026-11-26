@@ -49,3 +49,7 @@ html[dir=rtl] .entries { background-position: 100% 0 }
   .year { display: block }
   .year-title { position: static; margin-bottom: 8px }
 }
+
+/* Address-only fallback: a withdrawn fact is never a dated timeline row. */
+.timeline-bookmark { display: none }
+.timeline-bookmark:target { display: block; margin-block: 1rem }

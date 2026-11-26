@@ -6,6 +6,18 @@
 
 import { rememberTimelinePosition } from '../lib/timeline-position';
 
+// A withdrawn date leaves an address to the recording, without a dated row.
+const forwardBookmark = () => {
+  let fragment: string;
+  try { fragment = decodeURIComponent(location.hash.slice(1)); } catch { return; }
+  const target = document.getElementById(fragment);
+  if (target instanceof HTMLAnchorElement && target.hasAttribute('data-timeline-bookmark')) {
+    location.replace(target.href);
+  }
+};
+addEventListener('hashchange', forwardBookmark);
+forwardBookmark();
+
 const form = document.querySelector<HTMLFormElement>('.timeline-filters');
 const entries = [...document.querySelectorAll<HTMLElement>('.entry')];
 const years = [...document.querySelectorAll<HTMLElement>('.year')];

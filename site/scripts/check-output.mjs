@@ -72,6 +72,19 @@ for (const lang of ['en', 'fa']) {
       if (!timelineIds.has(alias)) problems.push(`${lang}: missing timeline alias ${alias}`);
     }
   }
+  const timelineHtml = pages.get(`/${lang}/timeline/`) ?? '';
+  for (const [fragment, id] of Object.entries(record.timelineBookmarks ?? {})) {
+    const tag = [...tags(timelineHtml, 'a'), ...tags(timelineHtml, 'span')].find((tag) => attr(tag, 'id') === fragment);
+    if (!tag || attr(tag, 'class') !== 'timeline-bookmark') problems.push(`${lang}: missing retired timeline address ${fragment}`);
+    if (!record.items[id] || record.timeline.some((entry) => entry.anchor === fragment || entry.aliases?.includes(fragment)))
+      problems.push(`${lang}: retired timeline address still claims a date ${fragment}`);
+    if (record.panelHosts?.[id]) {
+      const host = record.items[record.panelHosts[id]];
+      const expected = `/${lang}/${host.page}/#${record.items[id].anchor}`;
+      if (attr(tag ?? '', 'href') !== expected || !tag?.includes('data-timeline-bookmark'))
+        problems.push(`${lang}: retired timeline destination changed ${fragment}`);
+    }
+  }
 }
 
 const decode = (s) => s.replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>');

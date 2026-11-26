@@ -60,3 +60,9 @@ Credits for this edition, role or concert, read 2026-11-21.
 Radio performance, read 2026-11-21.
 
 > 21.11.2022 Sound Scenario for Mutant Radio, Tbilisi
+
+Date-scope recheck, original source read 2026-11-26:
+
+The Paul und Paula calendar line dates a theatre premiere and composition,
+not the issue or online posting of a recording. No replacement recording
+issue or posting date was established in the reviewed primary sources.
