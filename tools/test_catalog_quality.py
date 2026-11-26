@@ -53,6 +53,20 @@ class CatalogQualityTests(unittest.TestCase):
             self.assertFalse(posting_only_evidence({"references": [
                 {"source": "youtu.be-sample", "locator": locator}]}))
 
+    def test_soundcloud_upload_and_issue_metadata_are_not_interchangeable(self):
+        source = "soundcloud.com-artist-track"
+        for locator in ("Native upload date", "Publication timestamp on this upload",
+                        "SoundCloud public upload timestamp"):
+            with self.subTest(locator=locator):
+                ref = {"source": source, "locator": locator}
+                self.assertTrue(posting_only_evidence({"references": [ref]}))
+                self.assertFalse(posting_only_evidence({"references": [
+                    dict(ref, source="label.example-album")]}))
+        for locator in ("SoundCloud release or upload timestamp", "SoundCloud issue date",
+                        "Explicit catalogue release_date field"):
+            self.assertFalse(posting_only_evidence({"references": [
+                {"source": source, "locator": locator}]}))
+
     def test_audit_ignores_merge_stubs_and_deprecated_urls(self):
         album = "https://music.apple.com/us/album/title/123"
         def row(url, **kwargs):

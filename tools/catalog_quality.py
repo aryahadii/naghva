@@ -80,6 +80,13 @@ YOUTUBE_POSTING_LOCATORS = frozenset((
 ))
 YOUTUBE_CAPTURE_HOSTS = {"www.youtube.com", "youtube.com", "music.youtube.com", "youtu.be"}
 
+SOUNDCLOUD_POSTING_LOCATORS = frozenset((
+    "native upload date", "soundcloud upload date", "publication timestamp on this upload",
+    "artist upload date", "upload timestamp", "original upload date",
+    "soundcloud public upload timestamp", "public upload date", "track upload date", "upload time",
+))
+SOUNDCLOUD_CAPTURE_HOSTS = {"soundcloud.com", "www.soundcloud.com", "m.soundcloud.com"}
+
 
 def posting_only_evidence(statement):
     """Recognize explicit posting locators, not mixed or ambiguous evidence."""
@@ -87,7 +94,8 @@ def posting_only_evidence(statement):
         locator = (ref.get("locator") or "").casefold().strip().removesuffix(", yyyymmdd")
         host = ref.get("source", "").split("-", 1)[0].casefold()
         return (locator in POSTING_LOCATORS or
-                (host in YOUTUBE_CAPTURE_HOSTS and locator in YOUTUBE_POSTING_LOCATORS))
+                (host in YOUTUBE_CAPTURE_HOSTS and locator in YOUTUBE_POSTING_LOCATORS) or
+                (host in SOUNDCLOUD_CAPTURE_HOSTS and locator in SOUNDCLOUD_POSTING_LOCATORS))
 
     refs = statement.get("references", [])
     return bool(refs) and all(is_posting(r) for r in refs)
