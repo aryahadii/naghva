@@ -43,3 +43,10 @@ statements:
       quote: https://music.apple.com/us/song/eternal-love/1483041199
       accessed: '2026-11-21'
       locator: Exact Apple recording
+  track of:
+  - value: Q8kb2ay
+    references:
+    - source: music.apple.com-us-album-invisible-1483041196
+      quote: Eternal Love
+      accessed: 2026-11-21
+      locator: Track 3

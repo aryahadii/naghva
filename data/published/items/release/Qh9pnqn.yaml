@@ -55,3 +55,10 @@ statements:
       quote: spotify:track:2U1Apl2SCdCASqT8BMoDIp
       accessed: '2026-11-21'
       locator: Spotify track 6
+  track of:
+  - value: Q5x2r69
+    references:
+    - source: music.apple.com-us-album-bote-jeghe-1586165677
+      quote: Pardis (Paraíso) - Aguanieve
+      accessed: 2026-11-21
+      locator: Track 6

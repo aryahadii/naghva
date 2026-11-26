@@ -140,6 +140,9 @@ html[lang=fa] .release-title, .release-title:lang(fa) { font: 700 clamp(2rem, 3.
 .release-facts { display: grid; gap: 12px; margin-top: 22px; padding-top: 16px; background: var(--rule) top / 100% 1px no-repeat }
 .release-facts div { display: grid; gap: 2px }
 .release-facts dt { font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: var(--ivory-3) }
+.release-facts .part-list { margin: 0; padding: 0; list-style: none; display: grid; gap: 2px }
+.release-facts ol.part-list { padding-inline-start: 1.6em; list-style: decimal }
+html[lang=fa] .release-facts ol.part-list { list-style: persian }
 html[lang=fa] .release-facts dt { letter-spacing: 0; font-size: 13px }
 .release-facts dd { font-size: 15px }
 .listen-links { display: flex; flex-wrap: wrap; gap: 6px 22px; margin-top: 22px }

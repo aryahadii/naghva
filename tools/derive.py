@@ -215,6 +215,31 @@ def issue(issued, kind, addr, item_id, merged):
     issued[kind][addr] = item_id
 
 
+TRACK_NUMBER = re.compile(r"\btrack\s+(\d{1,3})(?=\s+(?:in|on|of)\b|$)", re.IGNORECASE)
+
+
+def component_positions(item, sources):
+    """Where a track or segment sits in each whole: the number its reference's
+    locator gives ("Spotify album track 7"), and the order of its quote among
+    the quotes captured from that source, which follow the page's order."""
+    positions = {}
+    for prop in ds.COMPONENT_PROPERTIES:
+        for s in best(item["statements"].get(prop, [])):
+            for ref in s["references"]:
+                position = {"source": ref["source"]}
+                number = TRACK_NUMBER.search(ref.get("locator", ""))
+                if number:
+                    position["number"] = int(number.group(1))
+                source = sources.get(ref["source"])
+                quote = ds.normalize(ref.get("quote", ""))
+                if source and quote and quote in source.quotes:
+                    # The last occurrence: a title track's first is the page heading.
+                    position["at"] = len(source.quotes) - 1 - source.quotes[::-1].index(quote)
+                positions.setdefault(s["value"], position)
+                break
+    return positions
+
+
 def derive(root, issued=None):
     """The site's record for a data root. Raises ds.DataError when the root does not validate.
 
@@ -358,6 +383,11 @@ def derive(root, issued=None):
                and any(s["value"] == artist_id for s in best(items[i["item"]]["statements"].get("performer", [])))}
         ids |= {r["id"] for r in items.values() if r.get("host") == artist_id}
         artist["releases"] = sorted(ids)
+
+    for item in items.values():
+        positions = component_positions(item, store.sources)
+        if positions:
+            item["positions"] = positions
 
     sources = {}
     for item in items.values():

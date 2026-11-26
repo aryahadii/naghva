@@ -32,15 +32,16 @@ function show(panel: HTMLElement) {
 
 function sync() {
   const panel = panelFor(location.hash);
-  if (panel) show(panel);
-  else if (dialog?.open) {
+  if (panel) {
+    show(panel);
+    explicitDestination = false; // a hop to another panel; closing returns to the card
+  } else if (dialog?.open) {
     dialog.close();
     // Source navigation keeps its explicit destination. Ordinary closing and
     // Back return to the control that opened this release.
-    if (explicitDestination) {
-      const target = location.hash ? document.getElementById(decodeURIComponent(location.hash.slice(1))) : null;
-      if (target) { target.tabIndex = -1; target.focus({ preventScroll: true }); }
-    } else restoreFocus();
+    const target = explicitDestination && location.hash ? document.getElementById(decodeURIComponent(location.hash.slice(1))) : null;
+    if (target) { target.tabIndex = -1; target.focus({ preventScroll: true }); }
+    else restoreFocus();
     explicitDestination = false;
     opened = false;
   }
@@ -66,9 +67,18 @@ async function follow() {
   }
 }
 
+/** The card that opens a panel; a track folded into its album has none, so its album's. */
+function cardFor(anchor: string | null): HTMLAnchorElement | undefined {
+  const cards = [...document.querySelectorAll<HTMLAnchorElement>('[data-release]')].filter((card) => !card.closest('[hidden]'));
+  const own = cards.find((card) => decodeURIComponent(card.hash.slice(1)) === anchor);
+  if (own || !anchor) return own;
+  const album = [...document.querySelectorAll<HTMLAnchorElement>('.release-panel .release-facts a[href^="#"]')]
+    .find((link) => decodeURIComponent(link.hash.slice(1)) === anchor)?.closest('.release-panel')?.id;
+  return cards.find((card) => decodeURIComponent(card.hash.slice(1)) === album);
+}
+
 function restoreFocus() {
-  const matching = [...document.querySelectorAll<HTMLAnchorElement>('[data-release]')]
-    .find((card) => decodeURIComponent(card.hash.slice(1)) === activePanel && !card.closest('[hidden]'));
+  const matching = cardFor(activePanel);
   const target = opener?.isConnected && (opener as HTMLAnchorElement).hash && decodeURIComponent((opener as HTMLAnchorElement).hash.slice(1)) === activePanel && !opener.closest('[hidden]') ? opener : matching ?? document.getElementById('recordings-title');
   if (target) {
     if (!target.matches('a, button, input')) target.tabIndex = -1;

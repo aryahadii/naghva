@@ -51,3 +51,10 @@ statements:
       quote: 4 cars - 1 wheel
       locator: Track 5
       accessed: '2026-11-21'
+  track of:
+  - value: Q8kkt5h
+    references:
+    - source: janklare.bandcamp.com-album-count
+      quote: 4 cars - 1 wheel
+      accessed: 2026-11-21
+      locator: Track 5
