@@ -10,11 +10,6 @@ statements:
       source: sabaalizadeh.bandcamp.com-track-touch-with-andreas-spechtl-d5e92fd68a68
       quote: Touch (with Andreas Spechtl) | Saba Alizadeh
       accessed: '2026-11-06'
-  # Editorial Persian display spelling; source uses the original name.
-  - value:
-      text: لمس
-      language: fa
-    references: *id001
   performer:
   - value: Qgbbc6t
     references:

@@ -20,3 +20,7 @@ status: processed
 > Sharab (Dub Mix)
 
 > Sharab (Instrumental Mix)
+
+> <title>‎Sharab - Single - Album by Namito &amp; Naghib - Apple Music</title>
+
+Native page-title metadata, exact linked edition read 2026-11-26.
