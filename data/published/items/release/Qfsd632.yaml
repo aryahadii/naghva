@@ -34,10 +34,10 @@ statements:
   - value:
       date: '2026-08-17'
     references:
-    - source: music.apple.com-us-album-garden-party-in-snow-6802215310
-      quote: '2026-08-17'
-      accessed: 2026-11-21
-      locator: Storefront release date
+    - source: open.spotify.com-track-6rkx4eebo1ghhtokrhpb24
+      quote: '"datePublished":"2026-08-17"'
+      locator: application/ld+json exact MusicRecording 6rkX4Eebo1ghHtoKRhpb24 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/48/98/234898c1-27a8-b7f9-780a-66a4cc392014/885975675190_cover.jpg/1200x630bb.jpg
     references:

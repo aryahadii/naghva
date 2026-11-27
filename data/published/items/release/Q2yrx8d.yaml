@@ -48,10 +48,10 @@ statements:
   - value:
       date: '2013-08-27'
     references:
-    - source: music.apple.com-us-album-improvisations-with-bashir-694739566
-      quote: '2013-08-27'
-      accessed: '2026-11-21'
-      locator: Apple Music edition issue date
+    - source: music.apple.com-us-song-lullaby-for-little-scheherazade-694739802
+      quote: '"datePublished":"2013-08-27"'
+      locator: application/ld+json.audio exact MusicRecording 694739802 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/08/51/1b/08511bdf-7cce-747c-3e9d-2eb66acc7f06/5902547009421.jpg/1200x630bb.jpg
     qualifiers:

@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2015-01-01'
     references:
-    - source: quartetdiminished.bandcamp.com-album-station-one
-      quote: released January 1, 2015
-      accessed: 2026-11-21
-      locator: Release date
+    - source: music.apple.com-us-song-allegro-per-il-re-1748916207
+      quote: '"datePublished":"2015-01-01"'
+      locator: application/ld+json.audio exact MusicRecording 1748916207 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   performer:
   - value: Qh8f5qv
     references:

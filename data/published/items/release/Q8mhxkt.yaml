@@ -48,10 +48,10 @@ statements:
   - value:
       date: '2011-08-24'
     references:
-    - source: music.apple.com-us-album-tasnife-modamam-mast-feat-pedram-khavarzamini-live-1583246480
-      quote: '2011-08-24'
-      accessed: '2026-11-21'
-      locator: Apple Music edition issue date
+    - source: music.apple.com-us-song-tasnife-yad-bad-feat-pedram-khavarzamini-live-1583247334
+      quote: '"datePublished":"2011-08-24"'
+      locator: application/ld+json.audio exact MusicRecording 1583247334 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/42/c7/1b/42c71b3b-b02a-faab-7f38-03611d1caf74/196292392913.jpg/1200x630bb.jpg
     qualifiers:

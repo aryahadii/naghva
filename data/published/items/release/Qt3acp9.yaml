@@ -27,10 +27,10 @@ statements:
   - value:
       date: '2018'
     references:
-    - source: music.apple.com-us-album-engare-feragh-1721576329
-      quote: '2018-12-06'
-      accessed: '2026-11-21'
-      locator: Digital edition date
+    - source: music.apple.com-us-song-avaz-oshagh-shour-abouata-hejaz-1721576638
+      quote: '"datePublished":"2018-12-06"'
+      locator: application/ld+json.audio exact MusicRecording 1721576638 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/0d/6c/2f/0d6c2fd7-f613-6e36-5f63-42242029f652/197190615555.jpg/1200x630bb.jpg
     qualifiers:
