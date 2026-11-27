@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/qariban-e-vatan-single/1619571136
 title: Qariban-E Vatan - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/karvan/1442843302
 title: ‎Karvan - Album by KARVAN - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Javid Afsari Rad
 ---

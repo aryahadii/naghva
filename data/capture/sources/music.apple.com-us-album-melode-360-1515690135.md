@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/album/melode-360/1515690135
 archive: "https://web.archive.org/web/20251026034604/https://music.apple.com/us/album/melode-360/1515690135"
 title: Melode 360
-tier: own
+tier: discography
 language: en
 status: processed
 ---

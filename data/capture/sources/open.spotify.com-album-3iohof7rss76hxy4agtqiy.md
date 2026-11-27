@@ -2,7 +2,7 @@
 url: https://open.spotify.com/album/3IOhOF7rss76hXy4agtqIY
 archive: "https://web.archive.org/web/20200117015941/https://open.spotify.com/album/3IOhOF7rss76hXy4agtqIY"
 title: Barab Barab Featuring P-danjelsa
-tier: own
+tier: discography
 language: en
 status: processed
 ---

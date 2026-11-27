@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/souge-shirin-single/1827394979
 title: Soug'e Shirin - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

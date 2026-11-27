@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/a-requiem-for-iran-single/1887290540
 title: A Requiem for Iran - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

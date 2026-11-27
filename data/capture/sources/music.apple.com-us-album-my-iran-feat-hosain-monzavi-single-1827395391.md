@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/my-iran-feat-hosain-monzavi-single/1827395391
 title: My Iran (feat. Hosain Monzavi) - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

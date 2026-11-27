@@ -4,7 +4,7 @@ archive: https://web.archive.org/web/20190818202837/https://open.spotify.com/alb
 title: Listen to Gitar - Album by Knut Reiersrud | Spotify
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Javid Afsari Rad
 ---

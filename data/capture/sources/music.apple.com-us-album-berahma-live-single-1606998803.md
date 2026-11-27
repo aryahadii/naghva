@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/berahma-live-single/1606998803
 title: Berahma (Live) - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/1713579712
 title: ‎Rising Red - Album by Shabnam Parvaresh & Joachim Raffel - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Sheen Trio
 - Shabnam Parvaresh

@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/azizam-to-golakami-dard-o-darman-single/1828070588
 title: Azizam to Golakami - Dard O Darman - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

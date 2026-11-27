@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/album/morning/213597723
 archive: "https://web.archive.org/web/20230708074212/https://music.apple.com/us/album/morning/213597723"
 title: Morning
-tier: own
+tier: discography
 language: en
 status: processed
 ---

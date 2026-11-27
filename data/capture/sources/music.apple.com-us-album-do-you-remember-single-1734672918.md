@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/do-you-remember-single/1734672918
 title: Do You Remember - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

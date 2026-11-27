@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/ey-zan-single/1743527459
 title: Ey Zan - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

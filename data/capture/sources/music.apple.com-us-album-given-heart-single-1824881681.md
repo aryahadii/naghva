@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/given-heart-single/1824881681
 title: Given Heart - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

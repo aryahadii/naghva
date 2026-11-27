@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/album/dear-iran-single/1883808158
 archive: "https://web.archive.org/web/20260314013658/https://music.apple.com/us/album/dear-iran-single/1883808158"
 title: Dear Iran - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

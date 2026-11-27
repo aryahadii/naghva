@@ -2,7 +2,7 @@
 url: https://open.spotify.com/album/3F5IWOlOxn70l8nUXNKmN7
 archive: "https://web.archive.org/web/20210227184041/https://open.spotify.com/album/3F5IWOlOxn70l8nUXNKmN7"
 title: Pleasure Island
-tier: own
+tier: discography
 language: en
 status: processed
 ---

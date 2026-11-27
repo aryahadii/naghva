@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/shoorideh-del-single/1852324863
 title: Shoorideh Del - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

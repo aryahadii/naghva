@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/5-chin-o-choruk/1553677822
 title: "â\x80\x8ETanz o Tarab - EP - Album by Babak Rajabi - Apple Music"
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Babak Rajabi
 ---

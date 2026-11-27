@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/dust-and-the-moon/6786852818
 title: Dust and the Moon
-tier: own
+tier: discography
 language: en
 status: processed
 ---

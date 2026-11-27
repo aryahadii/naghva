@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/wild-poppies/438328557
 title: Wild Poppies
-tier: own
+tier: discography
 language: en
 status: processed
 ---

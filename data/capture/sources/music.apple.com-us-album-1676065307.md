@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/1676065307
 title: ‎Gozar (feat. Shabnam Parvaresh, Ula Martyn-Ellis & Philipp Buck) - Album by Sheen Trio - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Sheen Trio
 - Shabnam Parvaresh

@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/jag-%C3%A4lskar-dig-gul-och-bl%C3%A5-single/6787785111
 title: Jag älskar dig gul och blå
-tier: own
+tier: discography
 language: en
 status: processed
 ---

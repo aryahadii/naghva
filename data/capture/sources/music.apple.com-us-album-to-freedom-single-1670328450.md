@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/to-freedom-single/1670328450
 title: To Freedom - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

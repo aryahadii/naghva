@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/spillolja-single/1714896078
 title: Spillolja
-tier: own
+tier: discography
 language: en
 status: processed
 ---

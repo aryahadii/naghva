@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/ziggurat/1590193684
 title: ‎Ziggurat - Album by Artamene - Apple Music
-tier: own
+tier: discography
 language: en
 status: processed
 ---

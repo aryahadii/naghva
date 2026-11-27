@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/ma-tazkar-live-single/1783049073
 title: Ma Tazkar (Live) - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

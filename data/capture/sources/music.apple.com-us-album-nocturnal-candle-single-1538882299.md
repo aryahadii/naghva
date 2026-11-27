@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/nocturnal-candle-single/1538882299
 title: Nocturnal Candle - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

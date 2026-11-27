@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/album/no-ceiling/598850721
 archive: "https://web.archive.org/web/20230708074212/https://music.apple.com/us/album/no-ceiling/598850721"
 title: No Ceiling
-tier: own
+tier: discography
 language: en
 status: processed
 ---

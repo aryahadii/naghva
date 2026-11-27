@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/1623182280
 title: ‎Beyond Music Vol. 3 - Conflict - Album by Beyond Music - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Sheen Trio
 - Shabnam Parvaresh

@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/moons-hiding-single/1823784701
 title: Moon's Hiding - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

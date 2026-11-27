@@ -2,7 +2,7 @@
 url: https://open.spotify.com/album/1FsZUE8HHtpb6x5YDilYIb
 archive: "https://web.archive.org/web/20151019075252/https://open.spotify.com/album/1FsZUE8HHtpb6x5YDilYIb"
 title: Wild Poppies
-tier: own
+tier: discography
 language: en
 status: processed
 ---

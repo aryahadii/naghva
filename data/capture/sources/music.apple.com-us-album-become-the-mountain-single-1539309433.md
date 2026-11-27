@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/become-the-mountain-single/1539309433
 title: Become the Mountain - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/into-the-night/1190680897
 title: Into the Night
-tier: own
+tier: discography
 language: en
 status: processed
 ---

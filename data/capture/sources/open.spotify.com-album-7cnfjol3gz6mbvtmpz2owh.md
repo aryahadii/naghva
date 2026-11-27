@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/7cNfJOL3gZ6MbVTMPz2oWh
 title: Listen to Delâshena - Album by Shadi Fathi | Spotify
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Shadi Fathi
 ---

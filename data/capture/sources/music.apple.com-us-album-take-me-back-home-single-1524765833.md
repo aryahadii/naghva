@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/take-me-back-home-single/1524765833
 title: Take Me Back Home - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

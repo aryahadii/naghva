@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/story-of-rast-panjgah/1609382833
 title: "â\x80\x8EThe Land of Song - Album by Babak Rajabi - Apple Music"
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Babak Rajabi
 ---

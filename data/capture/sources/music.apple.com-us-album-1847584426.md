@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/1847584426
 title: ‎Transitory - Album by Sheen Trio - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Sheen Trio
 - Shabnam Parvaresh

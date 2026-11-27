@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/imaginary-gallows-single/1597061704
 title: Imaginary Gallows - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

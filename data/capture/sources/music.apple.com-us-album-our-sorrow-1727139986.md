@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/our-sorrow/1727139986
 title: Our Sorrow
-tier: own
+tier: discography
 language: en
 status: processed
 ---

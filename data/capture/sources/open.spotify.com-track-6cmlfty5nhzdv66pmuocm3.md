@@ -3,7 +3,7 @@ url: https://open.spotify.com/track/6CmlfTy5NHZDv66PMUOcm3
 title: Dastgah Nava - song and lyrics by Karvan | Spotify
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Abdulrahman Surizehi
 status: processed

@@ -2,7 +2,7 @@
 url: https://open.spotify.com/album/736CQVnlNrn9647fZdRMaY
 archive: "https://web.archive.org/web/20230203172234/https://open.spotify.com/album/736CQVnlNrn9647fZdRMaY"
 title: Into the Night
-tier: own
+tier: discography
 language: en
 status: processed
 ---

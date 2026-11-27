@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/i-skymningslandet-ep/1838755780
 title: I SKYMNINGSLANDET - EP
-tier: own
+tier: discography
 language: en
 status: processed
 ---

@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/nowruz-1405-single/1886244574
 title: Nowruz 1405 - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

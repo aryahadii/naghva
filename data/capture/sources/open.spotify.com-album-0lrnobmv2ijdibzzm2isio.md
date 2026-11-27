@@ -2,7 +2,7 @@
 url: https://open.spotify.com/album/0lRnobMv2iJdIBZzM2isiO
 archive: "https://web.archive.org/web/20190821115812/https://open.spotify.com/album/0lRnobMv2iJdIBZzM2isiO"
 title: Perfectly Displaced
-tier: own
+tier: discography
 language: en
 status: processed
 ---

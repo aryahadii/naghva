@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/6791675554
 title: ‎Distance - Album by Ula Martyn-Ellis - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Sheen Trio
 - Shabnam Parvaresh

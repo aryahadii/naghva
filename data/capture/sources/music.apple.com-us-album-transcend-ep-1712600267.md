@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/transcend-ep/1712600267
 title: Transcend
-tier: own
+tier: discography
 language: en
 status: processed
 ---

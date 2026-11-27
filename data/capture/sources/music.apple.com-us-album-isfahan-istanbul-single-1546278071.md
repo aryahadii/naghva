@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/isfahan-istanbul-single/1546278071
 title: Isfahan Istanbul - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

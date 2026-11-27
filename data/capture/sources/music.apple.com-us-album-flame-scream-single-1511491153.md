@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/flame-scream-single/1511491153
 title: Flame Scream - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

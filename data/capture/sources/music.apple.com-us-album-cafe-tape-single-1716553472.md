@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/cafe-tape-single/1716553472
 title: Cafe Tape - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/sargardane-adyan-single/1878659968
 title: Sargardan'e Adyan - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

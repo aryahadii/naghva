@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/melode-360/1517272173
 title: Melode 360
-tier: own
+tier: discography
 language: en
 status: processed
 ---

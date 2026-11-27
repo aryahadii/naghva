@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/mayhem-single/1592374232
 title: Mayhem - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

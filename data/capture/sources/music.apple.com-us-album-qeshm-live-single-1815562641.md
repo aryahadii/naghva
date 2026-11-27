@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/qeshm-live-single/1815562641
 title: Qeshm (Live) - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

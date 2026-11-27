@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/dust-and-the-moon-single/1444758795
 title: Dust and the Moon - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---
