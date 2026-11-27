@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2018-06-08'
     references:
-    - source: music.apple.com-us-album-tahdig-1386951010
-      quote: '2018-06-08'
-      accessed: '2026-11-21'
-      locator: Release metadata
+    - source: music.apple.com-us-song-kofriam-1386951848
+      quote: '"datePublished":"2018-06-08"'
+      locator: application/ld+json.audio exact MusicRecording 1386951848 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   listen link:
   - value: https://music.apple.com/us/song/kofriam/1386951848
     references:

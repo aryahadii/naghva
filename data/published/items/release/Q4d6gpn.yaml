@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2025-05-09'
     references:
-    - source: eishanensemble.bandcamp.com-album-northern-rhapsody
-      quote: released May 9, 2025
-      accessed: '2026-11-21'
-      locator: Release date
+    - source: eishanensemble.bandcamp.com-track-towards-the-north
+      quote: '"datePublished":"09 May 2025 00:00:00 GMT"'
+      locator: application/ld+json exact MusicRecording https://eishanensemble.bandcamp.com/track/towards-the-north datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a3474275919_10.jpg
     qualifiers:
