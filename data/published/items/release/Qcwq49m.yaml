@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2022-12-24'
     references:
-    - source: siamak-jahangiri-ap6828524461
-      quote: '2022-12-24'
-      accessed: '2026-11-21'
-      locator: Edition release date
+    - source: music.apple.com-us-song-masnavi-in-afshari-6828524464
+      quote: '"datePublished":"2022-12-24"'
+      locator: application/ld+json.audio exact MusicRecording 6828524464 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/23/f2/b8/23f2b876-cbaa-23b8-0145-3b262b843f55/885000804007.png/1200x630wp-60.jpg
     references:
