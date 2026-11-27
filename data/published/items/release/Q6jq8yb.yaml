@@ -14,9 +14,9 @@ statements:
   - value: Qd5zat9
     references:
     - source: vimeo.com-648065384
-      quote: Amen Feizabadi
-      accessed: '2026-11-21'
-      locator: Published credits
+      quote: Amen Feizabadi, conception, artistic & musical direction, direction, composition.
+      locator: Exact video 648065384 native description, named conception/direction/composition credit
+      accessed: '2026-11-27'
     qualifiers:
       role: composer
   performer:
@@ -24,9 +24,8 @@ statements:
     references:
     - source: vimeo.com-648065384
       quote: Amen Feizabadi, Live Electronics
-      accessed: '2026-11-21'
-      locator: Published credits
+      locator: Exact video 648065384 native description, named live electronics performance credit
+      accessed: '2026-11-27'
     qualifiers:
-      credited as:
-        text: Live electronics
-        language: en
+      role:
+      - electronics

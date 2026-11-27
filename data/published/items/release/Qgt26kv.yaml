@@ -13,18 +13,20 @@ statements:
   performer:
   - value: Q2pj5vj
     references:
-    - source: www.youtube.com-oembed-ud5yfcbljyg
-      quote: 'Reza Mohsenipour & Hamid Mohsenipour: Improvvisazione'
-      locator: Original programme, liner notes or performer credit
-      accessed: '2026-11-21'
+    - source: www.youtube.com-watchv-ud5yfcbljyg
+      quote: |-
+        Tàr: Reza Mohsenipour
+      locator: Exact native description, video Ud5YFcBLJYg, explicit named instrumental credit
+      accessed: '2026-11-27'
     qualifiers:
       role: tar
   - value: Q3sgmvw
     references:
-    - source: www.youtube.com-oembed-ud5yfcbljyg
-      quote: Hamid Mohsenipour
-      locator: Original programme, liner notes or performer credit
-      accessed: '2026-11-21'
+    - source: www.youtube.com-watchv-ud5yfcbljyg
+      quote: |-
+        Tombak: Hamid Mohsenipour
+      locator: Exact native description, video Ud5YFcBLJYg, explicit named instrumental credit
+      accessed: '2026-11-27'
     qualifiers:
       role: tombak
   listen link:
