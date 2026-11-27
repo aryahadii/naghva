@@ -556,5 +556,36 @@ class RetiredTimelineFragmentTests(unittest.TestCase):
             derive.retired_timeline_fragments({RELEASE: {"type": "person"}}, [], {self.fragment: RELEASE})
 
 
+class RetiredWFMUBookmarkTests(unittest.TestCase):
+    fragments = {'entry-e6879f702e1f68148ce1': 'Q2vsxkx', 'entry-727434edb44a9228c1f6': 'Q388559', 'entry-d283236df4fb912d28f9': 'Q656qrq', 'entry-6a4dd2b789a49847361e': 'Qfdn32e', 'entry-1a6a97a9ffe40f79beff': 'Qsaqv4p', 'entry-6f29d7f3a00208126408': 'Qvpzabm'}
+
+    def test_six_original_recordings_retain_their_exact_withdrawn_fragments(self):
+        registered = json.loads(derive.RETIRED_TIMELINE.read_text())
+        items = {}
+        for fragment, item_id in self.fragments.items():
+            self.assertEqual(registered[fragment], item_id)
+            path = ds.REPO / "data" / "published" / "items" / "release" / (item_id + ".yaml")
+            data = yaml.safe_load(path.read_text())
+            self.assertEqual(data["id"], item_id)
+            dates = data["statements"]["release date"]
+            self.assertEqual(len(dates), 1)
+            self.assertEqual(dates[0]["rank"], "deprecated")
+            self.assertEqual(dates[0]["value"], {"date": "2012-06-09"})
+            items[item_id] = {"type": "release", "statements": {
+                name: [derive.derive_statement(s) for s in statements]
+                for name, statements in data["statements"].items()}}
+        entries = derive.timeline(items, {})
+        self.assertEqual(entries, [])
+        self.assertEqual(derive.retired_timeline_fragments(items, entries, self.fragments), self.fragments)
+
+    def test_duplicate_registry_keys_fail_before_last_value_can_hide_target(self):
+        fragment = next(iter(self.fragments))
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "retired.json"
+            path.write_text('{"' + fragment + '":"' + RELEASE + '","' + fragment + '":"Q234567"}')
+            with patch.object(derive, "RETIRED_TIMELINE", path), self.assertRaises(ds.DataError):
+                derive.retired_timeline_fragments({}, [])
+
+
 if __name__ == "__main__":
     unittest.main()

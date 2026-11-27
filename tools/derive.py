@@ -533,7 +533,14 @@ def timeline(items, legacy_anchors=None):
 def retired_timeline_fragments(items, entries, registered=None, *, strict=True):
     """Old addresses whose dated claim was withdrawn lead to the item, not a year."""
     if registered is None:
-        registered = json.loads(RETIRED_TIMELINE.read_text(encoding="utf-8"))
+        def unique(pairs):
+            result = {}
+            for key, value in pairs:
+                if key in result:
+                    raise ds.DataError("duplicate retired timeline fragment: %s" % key)
+                result[key] = value
+            return result
+        registered = json.loads(RETIRED_TIMELINE.read_text(encoding="utf-8"), object_pairs_hook=unique)
     if not isinstance(registered, dict):
         raise ds.DataError("retired timeline fragments must be a map")
     active = {e["anchor"] for e in entries} | {a for e in entries for a in e.get("aliases", [])}
