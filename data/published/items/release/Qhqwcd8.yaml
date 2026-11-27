@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2020-11-11'
     references:
-    - source: siamak-jahangiri-ap1539883643
-      quote: '2020-11-11'
-      accessed: '2026-11-21'
-      locator: Edition release date
+    - source: music.apple.com-us-song-my-sweetheart-1539883646
+      quote: '"datePublished":"2020-11-11"'
+      locator: application/ld+json.audio exact MusicRecording 1539883646 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/56/c5/6b56c5ff-975c-8cc7-8aa0-66499132f2cc/artwork.jpg/1200x630wp-60.jpg
     references:
