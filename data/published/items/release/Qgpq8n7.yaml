@@ -1,0 +1,51 @@
+id: Qgpq8n7
+type: release
+statements:
+  name:
+  - value:
+      text: Kooye Doost (Concert Version)
+      language: en
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: Kooye Doost (Concert Version)
+      accessed: '2026-11-26'
+      locator: Track list
+  - value:
+      text: سر کوی دوست
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: ”سر کوی دوست"
+      accessed: '2026-11-26'
+      locator: Video description, song 1
+  track of:
+  - value: Qwvvket
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: Kooye Doost (Concert Version)
+      accessed: '2026-11-26'
+      locator: Track list
+  programme segment of:
+  - value: Qpjn57f
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: ”سر کوی دوست"
+      accessed: '2026-11-26'
+      locator: Video description, song 1
+  performer:
+  - value: Qf4s5vm
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: ”سر کوی دوست"
+      accessed: '2026-11-26'
+      locator: Video description, song 1
+  listen link:
+  - value: https://music.apple.com/us/album/kooye-doost-concert-version/1785874396?i=1785874397
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: Kooye Doost (Concert Version)
+      accessed: '2026-11-26'
+      locator: Track list

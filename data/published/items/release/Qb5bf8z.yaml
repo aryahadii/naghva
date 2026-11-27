@@ -1,0 +1,61 @@
+id: Qb5bf8z
+type: release
+statements:
+  name:
+  - value:
+      text: Aziz Joon (Concert Version)
+      language: en
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: Aziz Joon (Concert Version)
+      accessed: '2026-11-26'
+      locator: Track list
+  - value:
+      text: عزیز جون
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: '"عزیز جون"'
+      accessed: '2026-11-26'
+      locator: Video description, song 2
+  track of:
+  - value: Qwvvket
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: Aziz Joon (Concert Version)
+      accessed: '2026-11-26'
+      locator: Track list
+  programme segment of:
+  - value: Qpjn57f
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: '"عزیز جون"'
+      accessed: '2026-11-26'
+      locator: Video description, song 2
+  performer:
+  - value: Qf4s5vm
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: '"عزیز جون"'
+      accessed: '2026-11-26'
+      locator: Video description, song 2
+  contributor:
+  - value: Qyxm5tf
+    qualifiers:
+      role:
+      - arranger
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: 'تنظیم‌کننده: احسان بیرقدار'
+      accessed: '2026-11-26'
+      locator: Video description, song 2
+  listen link:
+  - value: https://music.apple.com/us/album/aziz-joon-concert-version/1785874396?i=1785874398
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: Aziz Joon (Concert Version)
+      accessed: '2026-11-26'
+      locator: Track list

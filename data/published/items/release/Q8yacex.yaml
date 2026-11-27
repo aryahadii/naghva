@@ -1,0 +1,77 @@
+id: Q8yacex
+type: release
+statements:
+  name:
+  - value:
+      text: Az Khoon-e Javanan (Concert Version)
+      language: en
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: Az Khoon-e Javanan (Concert Version)
+      accessed: '2026-11-26'
+      locator: Track list
+  - value:
+      text: از خون جوانان
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: '"از خون جوانان"'
+      accessed: '2026-11-26'
+      locator: Video description, song 7
+  platform posting date:
+  - value:
+      date: '2025-10-24'
+    references:
+    - source: www.youtube.com-watch-v-b98qewltrry-b8b91dffb1d6
+      quote: '2025-10-24T10:31:59-07:00'
+      accessed: '2026-11-26'
+      locator: YouTube publication date
+  track of:
+  - value: Qwvvket
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: Az Khoon-e Javanan (Concert Version)
+      accessed: '2026-11-26'
+      locator: Track list
+  programme segment of:
+  - value: Qpjn57f
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: '"از خون جوانان"'
+      accessed: '2026-11-26'
+      locator: Video description, song 7
+  performer:
+  - value: Qf4s5vm
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: '"از خون جوانان"'
+      accessed: '2026-11-26'
+      locator: Video description, song 7
+  contributor:
+  - value: Qfw7w8q
+    qualifiers:
+      role:
+      - composer
+      - lyricist
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: 'آهنگساز و شاعر: عارف قزوینی'
+      accessed: '2026-11-26'
+      locator: Video description, song 7
+  listen link:
+  - value: https://music.apple.com/us/album/az-khoon-e-javanan-concert-version/1785874396?i=1785874673
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: Az Khoon-e Javanan (Concert Version)
+      accessed: '2026-11-26'
+      locator: Track list
+  - value: https://www.youtube.com/watch?v=B98QeWltrrY
+    references:
+    - source: www.youtube.com-watch-v-b98qewltrry-b8b91dffb1d6
+      quote: اجرایی که الان مشاهده می‌کنید نسخه‌ای دیگر از این آهنگ توسط پرستو احمدی در کاروانسرا است
+        که سال گذشته منتشر شد.
+      accessed: '2026-11-26'
+      locator: Video description; the upload says it is from the Karvansara concert

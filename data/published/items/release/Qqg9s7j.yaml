@@ -1,0 +1,88 @@
+id: Qqg9s7j
+type: release
+statements:
+  name:
+  - value:
+      text: I Am Conscious (feat. Parastoo Ahmadi)
+      language: en
+    references:
+    - source: music.apple.com-us-album-i-am-conscious-feat-parastoo-ahmadi-single-15-9583f1f959fc
+      quote: 'Listen to I Am Conscious (feat. Parastoo Ahmadi) - Single by Moein Hasheminasab on Apple Music.
+        2021. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  release date:
+  - value:
+      date: '2021-09-19'
+    references:
+    - source: music.apple.com-us-album-i-am-conscious-feat-parastoo-ahmadi-single-15-9583f1f959fc
+      quote: '"datePublished":"2021-09-19"'
+      accessed: '2026-11-26'
+      locator: Catalogue release date
+    - source: open.spotify.com-album-2j8o3kuzyfmyg5ec0xlq6n-2092d7a56ea9
+      quote: '2021-09-19'
+      accessed: '2026-11-26'
+      locator: music:release_date
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-2j8o3kuzyfmyg5ec0xlq6n-2092d7a56ea9
+      quote: Moein Hasheminasab · single · 2021 · 1 songs
+      accessed: '2026-11-26'
+      locator: Page description
+  performer:
+  - value: Q37k58q
+    references:
+    - source: music.apple.com-us-album-i-am-conscious-feat-parastoo-ahmadi-single-15-9583f1f959fc
+      quote: 'Listen to I Am Conscious (feat. Parastoo Ahmadi) - Single by Moein Hasheminasab on Apple Music.
+        2021. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  - value: Qf4s5vm
+    qualifiers:
+      role:
+      - vocals
+      credited as:
+        text: feat. Parastoo Ahmadi
+        language: en
+    references:
+    - source: music.apple.com-us-album-i-am-conscious-feat-parastoo-ahmadi-single-15-9583f1f959fc
+      quote: 'Listen to I Am Conscious (feat. Parastoo Ahmadi) - Single by Moein Hasheminasab on Apple Music.
+        2021. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  contributor:
+  - value: Q37k58q
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: music.apple.com-us-album-i-am-conscious-feat-parastoo-ahmadi-single-15-9583f1f959fc
+      quote: '"composer":"Moein Hasheminasab"'
+      accessed: '2026-11-26'
+      locator: Composer field
+  listen link:
+  - value: https://music.apple.com/us/album/i-am-conscious-feat-parastoo-ahmadi-single/1584077218
+    references:
+    - source: music.apple.com-us-album-i-am-conscious-feat-parastoo-ahmadi-single-15-9583f1f959fc
+      quote: 'Listen to I Am Conscious (feat. Parastoo Ahmadi) - Single by Moein Hasheminasab on Apple Music.
+        2021. 1 Song. Duration: 4 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  - value: https://open.spotify.com/album/2j8o3KuzYFmyG5Ec0xlq6N
+    references:
+    - source: open.spotify.com-album-2j8o3kuzyfmyg5ec0xlq6n-2092d7a56ea9
+      quote: Listen to I Am Conscious - Single by Moein Hasheminasab | Spotify
+      accessed: '2026-11-26'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273fc0bdc38e36c84afe5272e32
+    qualifiers:
+      credit:
+        text: I Am Conscious, Spotify
+        language: en
+    references:
+    - source: open.spotify.com-album-2j8o3kuzyfmyg5ec0xlq6n-2092d7a56ea9
+      quote: https://i.scdn.co/image/ab67616d0000b273fc0bdc38e36c84afe5272e32
+      accessed: '2026-11-26'
+      locator: og:image

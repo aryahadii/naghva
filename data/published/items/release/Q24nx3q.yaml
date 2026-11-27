@@ -1,0 +1,44 @@
+id: Q24nx3q
+type: release
+statements:
+  name:
+  - value:
+      text: Balal Balalom
+      language: en
+    references:
+    - source: music.apple.com-us-album-this-is-tehran-1561106818-4a3814d7c24c
+      quote: Balal Balalom
+      accessed: '2026-11-26'
+      locator: Track 7
+  track of:
+  - value: Qsdad2w
+    references:
+    - source: music.apple.com-us-album-this-is-tehran-1561106818-4a3814d7c24c
+      quote: Balal Balalom
+      accessed: '2026-11-26'
+      locator: Track 7
+    - source: 30m-records.bandcamp.com-album-this-is-tehran-2c51ad11113f
+      quote: Parastoo Ahmadi - Balal Balalom 02:13
+      accessed: '2026-11-26'
+      locator: Track 7
+  performer:
+  - value: Qf4s5vm
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: music.apple.com-us-album-this-is-tehran-1561106818-4a3814d7c24c
+      quote: Balal Balalom
+      accessed: '2026-11-26'
+      locator: Track 7
+    - source: 30m-records.bandcamp.com-album-this-is-tehran-2c51ad11113f
+      quote: Parastoo Ahmadi - Balal Balalom 02:13
+      accessed: '2026-11-26'
+      locator: Track 7
+  listen link:
+  - value: https://music.apple.com/us/album/balal-balalom/1561106818?i=1561107139
+    references:
+    - source: music.apple.com-us-album-this-is-tehran-1561106818-4a3814d7c24c
+      quote: Balal Balalom
+      accessed: '2026-11-26'
+      locator: Track 7

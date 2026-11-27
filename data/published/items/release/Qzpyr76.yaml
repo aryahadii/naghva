@@ -1,0 +1,128 @@
+id: Qzpyr76
+type: release
+statements:
+  name:
+  - value:
+      text: Nafas-e Shab
+      language: en
+    references:
+    - source: open.spotify.com-album-5qo0jmryzndcf8u3vpmx1n-8fdaf6e03324
+      quote: Listen to Nafas-e Shab - Single by Parastoo Ahmadi | Spotify
+      accessed: '2026-11-26'
+      locator: Page title
+  - value:
+      text: نفس شب
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-kltljypevnq-a1c883935a29
+      quote: 'نام آهنگ: نفس شب'
+      accessed: '2026-11-26'
+      locator: Video description
+  release date:
+  - value:
+      date: '2024-10-09'
+    references:
+    - source: music.apple.com-us-album-nafas-e-shab-single-1773275824-3e44777048a8
+      quote: '"datePublished":"2024-10-09"'
+      accessed: '2026-11-26'
+      locator: Catalogue release date
+    - source: open.spotify.com-album-5qo0jmryzndcf8u3vpmx1n-8fdaf6e03324
+      quote: '2024-10-09'
+      accessed: '2026-11-26'
+      locator: music:release_date
+  platform posting date:
+  - value:
+      date: '2024-11-10'
+    references:
+    - source: www.youtube.com-watch-v-kltljypevnq-a1c883935a29
+      quote: '2024-11-10T08:30:02-08:00'
+      accessed: '2026-11-26'
+      locator: YouTube publication date
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-5qo0jmryzndcf8u3vpmx1n-8fdaf6e03324
+      quote: Parastoo Ahmadi · single · 2024 · 1 songs
+      accessed: '2026-11-26'
+      locator: Page description
+  performer:
+  - value: Qf4s5vm
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: music.apple.com-us-album-nafas-e-shab-single-1773275824-3e44777048a8
+      quote: 'Listen to Nafas-e Shab - Single by Parastoo Ahmadi on Apple Music. 2024. 1 Song. Duration:
+        3 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  contributor:
+  - value: Qf4s5vm
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: www.youtube.com-watch-v-kltljypevnq-a1c883935a29
+      quote: 'آهنگساز، خواننده: پرستو احمدی'
+      accessed: '2026-11-26'
+      locator: Video description
+    - source: music.apple.com-us-album-nafas-e-shab-single-1773275824-3e44777048a8
+      quote: '"composer":"Parastoo Ahmadi"'
+      accessed: '2026-11-26'
+      locator: Composer field
+  - value: Qf5s7p5
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: www.youtube.com-watch-v-kltljypevnq-a1c883935a29
+      quote: 'شاعر: علیرضا کلیایی'
+      accessed: '2026-11-26'
+      locator: Video description
+  - value: Qyxm5tf
+    qualifiers:
+      role:
+      - arranger
+    references:
+    - source: www.youtube.com-watch-v-kltljypevnq-a1c883935a29
+      quote: 'تنظیم‌کننده: احسان بیرقدار'
+      accessed: '2026-11-26'
+      locator: Video description
+  published by:
+  - value: Q4br89h
+    references:
+    - source: music.apple.com-us-album-nafas-e-shab-single-1773275824-3e44777048a8
+      quote: ℗ 2024 Hafdang Records
+      accessed: '2026-11-26'
+      locator: Copyright line
+  listen link:
+  - value: https://music.apple.com/us/album/nafas-e-shab-single/1773275824
+    references:
+    - source: music.apple.com-us-album-nafas-e-shab-single-1773275824-3e44777048a8
+      quote: 'Listen to Nafas-e Shab - Single by Parastoo Ahmadi on Apple Music. 2024. 1 Song. Duration:
+        3 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  - value: https://open.spotify.com/album/5qo0JMRyzndcf8U3vpmX1N
+    references:
+    - source: open.spotify.com-album-5qo0jmryzndcf8u3vpmx1n-8fdaf6e03324
+      quote: Listen to Nafas-e Shab - Single by Parastoo Ahmadi | Spotify
+      accessed: '2026-11-26'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=KLtLjypEVNQ
+    references:
+    - source: www.youtube.com-watch-v-kltljypevnq-a1c883935a29
+      quote: آهنگ نفس شب با صدای پرستو احمدی
+      accessed: '2026-11-26'
+      locator: Video title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27394a6b8b98365cc5fa3145ebe
+    qualifiers:
+      credit:
+        text: Nafas-e Shab, Spotify
+        language: en
+    references:
+    - source: open.spotify.com-album-5qo0jmryzndcf8u3vpmx1n-8fdaf6e03324
+      quote: https://i.scdn.co/image/ab67616d0000b27394a6b8b98365cc5fa3145ebe
+      accessed: '2026-11-26'
+      locator: og:image

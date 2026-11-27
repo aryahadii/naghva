@@ -1,0 +1,111 @@
+id: Q7b7h9x
+type: release
+statements:
+  name:
+  - value:
+      text: Heyrani
+      language: en
+    references:
+    - source: open.spotify.com-album-2aygsesa44uy0wacvcaymh-e6b876fc17eb
+      quote: Listen to Heyrani - Single by Parastoo Ahmadi | Spotify
+      accessed: '2026-11-26'
+      locator: Page title
+  - value:
+      text: حیرانی
+      language: fa
+    references:
+    - source: www.bbc.com-persian-articles-clyjqm7r95po-3cf29f4a4c43
+      quote: «حیرانی» با شعری از باباطاهر عریان در تابستان ۱۴۰۰
+      accessed: '2026-11-26'
+  release date:
+  - value:
+      date: '2021-08-09'
+    references:
+    - source: music.apple.com-us-album-heyrani-single-1577958616-bd47698a48f1
+      quote: '"datePublished":"2021-08-09"'
+      accessed: '2026-11-26'
+      locator: Catalogue release date
+    - source: open.spotify.com-album-2aygsesa44uy0wacvcaymh-e6b876fc17eb
+      quote: '2021-08-09'
+      accessed: '2026-11-26'
+      locator: music:release_date
+    - source: www.bbc.com-persian-articles-clyjqm7r95po-3cf29f4a4c43
+      quote: «حیرانی» با شعری از باباطاهر عریان در تابستان ۱۴۰۰
+      accessed: '2026-11-26'
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-2aygsesa44uy0wacvcaymh-e6b876fc17eb
+      quote: Parastoo Ahmadi · single · 2021 · 1 songs
+      accessed: '2026-11-26'
+      locator: Page description
+  performer:
+  - value: Qf4s5vm
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: music.apple.com-us-album-heyrani-single-1577958616-bd47698a48f1
+      quote: 'Listen to Heyrani - Single by Parastoo Ahmadi & Ehsan Beyraghdar on Apple Music. 2021. 1
+        Song. Duration: 5 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  - value: Qyxm5tf
+    references:
+    - source: music.apple.com-us-album-heyrani-single-1577958616-bd47698a48f1
+      quote: 'Listen to Heyrani - Single by Parastoo Ahmadi & Ehsan Beyraghdar on Apple Music. 2021. 1
+        Song. Duration: 5 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description; billed as co-artist
+  contributor:
+  - value: Qyxm5tf
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: music.apple.com-us-album-heyrani-single-1577958616-bd47698a48f1
+      quote: '"composer":"Ehsan Beyraghdar & Parastoo Ahmadi"'
+      accessed: '2026-11-26'
+      locator: Composer field
+  - value: Qf4s5vm
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: music.apple.com-us-album-heyrani-single-1577958616-bd47698a48f1
+      quote: '"composer":"Ehsan Beyraghdar & Parastoo Ahmadi"'
+      accessed: '2026-11-26'
+      locator: Composer field
+  - value: Qfgtpw3
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: www.bbc.com-persian-articles-clyjqm7r95po-3cf29f4a4c43
+      quote: «حیرانی» با شعری از باباطاهر عریان
+      accessed: '2026-11-26'
+  listen link:
+  - value: https://music.apple.com/us/album/heyrani-single/1577958616
+    references:
+    - source: music.apple.com-us-album-heyrani-single-1577958616-bd47698a48f1
+      quote: 'Listen to Heyrani - Single by Parastoo Ahmadi & Ehsan Beyraghdar on Apple Music. 2021. 1
+        Song. Duration: 5 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  - value: https://open.spotify.com/album/2aYgSEsA44UY0WacVCaYMh
+    references:
+    - source: open.spotify.com-album-2aygsesa44uy0wacvcaymh-e6b876fc17eb
+      quote: Listen to Heyrani - Single by Parastoo Ahmadi | Spotify
+      accessed: '2026-11-26'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273448cfa6422b4fd5b16acae39
+    qualifiers:
+      credit:
+        text: Heyrani, Spotify
+        language: en
+    references:
+    - source: open.spotify.com-album-2aygsesa44uy0wacvcaymh-e6b876fc17eb
+      quote: https://i.scdn.co/image/ab67616d0000b273448cfa6422b4fd5b16acae39
+      accessed: '2026-11-26'
+      locator: og:image

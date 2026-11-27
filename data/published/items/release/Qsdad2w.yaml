@@ -1,0 +1,74 @@
+id: Qsdad2w
+type: release
+statements:
+  name:
+  - value:
+      text: This Is Tehran?
+      language: en
+    references:
+    - source: open.spotify.com-album-52ufodporyvvygdpoxek2a-191defeaff2e
+      quote: Listen to This Is Tehran? - Compilation by Various Artists | Spotify
+      accessed: '2026-11-26'
+      locator: Page title
+  release date:
+  - value:
+      date: '2021-06-04'
+    references:
+    - source: music.apple.com-us-album-this-is-tehran-1561106818-4a3814d7c24c
+      quote: '"datePublished":"2021-06-04"'
+      accessed: '2026-11-26'
+      locator: Catalogue release date
+    - source: open.spotify.com-album-52ufodporyvvygdpoxek2a-191defeaff2e
+      quote: '2021-06-04'
+      accessed: '2026-11-26'
+      locator: music:release_date
+    - source: 30m-records.bandcamp.com-album-this-is-tehran-2c51ad11113f
+      quote: released 04 June 2021
+      accessed: '2026-11-26'
+  release type:
+  - value: compilation
+    references:
+    - source: open.spotify.com-album-52ufodporyvvygdpoxek2a-191defeaff2e
+      quote: Various Artists · compilation · 2021 · 10 songs
+      accessed: '2026-11-26'
+      locator: Page description
+  published by:
+  - value: Qxyvth5
+    references:
+    - source: music.apple.com-us-album-this-is-tehran-1561106818-4a3814d7c24c
+      quote: ℗ 2021 30M Records
+      accessed: '2026-11-26'
+      locator: Copyright line
+    - source: 30m-records.bandcamp.com-album-this-is-tehran-2c51ad11113f
+      quote: This Is Tehran? by Various Artists / 30M
+      accessed: '2026-11-26'
+  listen link:
+  - value: https://music.apple.com/us/album/this-is-tehran/1561106818
+    references:
+    - source: music.apple.com-us-album-this-is-tehran-1561106818-4a3814d7c24c
+      quote: 'Listen to This Is Tehran? by Various Artists on Apple Music. 2021. 10 Songs. Duration: 43
+        minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  - value: https://open.spotify.com/album/52uFODporyvVYGdpOxeK2a
+    references:
+    - source: open.spotify.com-album-52ufodporyvvygdpoxek2a-191defeaff2e
+      quote: Listen to This Is Tehran? - Compilation by Various Artists | Spotify
+      accessed: '2026-11-26'
+      locator: Page title
+  - value: https://30m-records.bandcamp.com/album/this-is-tehran
+    references:
+    - source: 30m-records.bandcamp.com-album-this-is-tehran-2c51ad11113f
+      quote: This Is Tehran? by Various Artists / 30M, released 04 June 2021
+      accessed: '2026-11-26'
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b27306e19aa511642b45d5ab0ba7
+    qualifiers:
+      credit:
+        text: This Is Tehran?, Spotify
+        language: en
+    references:
+    - source: open.spotify.com-album-52ufodporyvvygdpoxek2a-191defeaff2e
+      quote: https://i.scdn.co/image/ab67616d0000b27306e19aa511642b45d5ab0ba7
+      accessed: '2026-11-26'
+      locator: og:image

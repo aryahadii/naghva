@@ -1,0 +1,124 @@
+id: Qt4d7np
+type: release
+statements:
+  name:
+  - value:
+      text: Me Jaan
+      language: en
+    references:
+    - source: open.spotify.com-album-6ycyqymbc9veko3rc8vayf-05651ef14beb
+      quote: Listen to Me Jaan - Single by Parastoo Ahmadi | Spotify
+      accessed: '2026-11-26'
+      locator: Page title
+  - value:
+      text: مِه جان
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-5s54hk9kt50-ee86e92a0cd6
+      quote: '"مِه جان"'
+      accessed: '2026-11-26'
+      locator: Video description
+  release date:
+  - value:
+      date: '2025-08-27'
+    references:
+    - source: music.apple.com-us-album-me-jaan-feat-soheil-faghih-nasiri-single-1836-3e75fe5b7df6
+      quote: '"datePublished":"2025-08-27"'
+      accessed: '2026-11-26'
+      locator: Catalogue release date
+    - source: open.spotify.com-album-6ycyqymbc9veko3rc8vayf-05651ef14beb
+      quote: '2025-08-27'
+      accessed: '2026-11-26'
+      locator: music:release_date
+  platform posting date:
+  - value:
+      date: '2025-08-27'
+    references:
+    - source: www.youtube.com-watch-v-5s54hk9kt50-ee86e92a0cd6
+      quote: '2025-08-27T02:50:47-07:00'
+      accessed: '2026-11-26'
+      locator: YouTube publication date
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-6ycyqymbc9veko3rc8vayf-05651ef14beb
+      quote: Parastoo Ahmadi · single · 2025 · 1 songs
+      accessed: '2026-11-26'
+      locator: Page description
+  performer:
+  - value: Qf4s5vm
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: music.apple.com-us-album-me-jaan-feat-soheil-faghih-nasiri-single-1836-3e75fe5b7df6
+      quote: 'Listen to Me Jaan (feat. Soheil Faghih Nasiri) - Single by Parastoo Ahmadi on Apple Music.
+        2025. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  - value: Qppkbd8
+    qualifiers:
+      role:
+      - guitar
+    references:
+    - source: www.youtube.com-watch-v-5s54hk9kt50-ee86e92a0cd6
+      quote: 'Composer & Guitarist: Soheil Faghih Nasiri'
+      accessed: '2026-11-26'
+      locator: Video description
+  contributor:
+  - value: Qppkbd8
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: www.youtube.com-watch-v-5s54hk9kt50-ee86e92a0cd6
+      quote: 'Composer & Guitarist: Soheil Faghih Nasiri'
+      accessed: '2026-11-26'
+      locator: Video description
+  - value: Qpqybj7
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: www.youtube.com-watch-v-5s54hk9kt50-ee86e92a0cd6
+      quote: 'Lyrics: Yaser Amiri'
+      accessed: '2026-11-26'
+      locator: Video description
+  published by:
+  - value: Q4br89h
+    references:
+    - source: music.apple.com-us-album-me-jaan-feat-soheil-faghih-nasiri-single-1836-3e75fe5b7df6
+      quote: ℗ 2025 Hafdang Records
+      accessed: '2026-11-26'
+      locator: Copyright line
+  listen link:
+  - value: https://music.apple.com/us/album/me-jaan-feat-soheil-faghih-nasiri-single/1836106678
+    references:
+    - source: music.apple.com-us-album-me-jaan-feat-soheil-faghih-nasiri-single-1836-3e75fe5b7df6
+      quote: 'Listen to Me Jaan (feat. Soheil Faghih Nasiri) - Single by Parastoo Ahmadi on Apple Music.
+        2025. 1 Song. Duration: 3 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  - value: https://open.spotify.com/album/6YCyQYmbC9veKo3rc8VAYf
+    references:
+    - source: open.spotify.com-album-6ycyqymbc9veko3rc8vayf-05651ef14beb
+      quote: Listen to Me Jaan - Single by Parastoo Ahmadi | Spotify
+      accessed: '2026-11-26'
+      locator: Page title
+  - value: https://www.youtube.com/watch?v=5s54Hk9Kt50
+    references:
+    - source: www.youtube.com-watch-v-5s54hk9kt50-ee86e92a0cd6
+      quote: مِه جان، آهنگ تازه پرستو احمدی | Parastoo Ahmadi - Me Jaan
+      accessed: '2026-11-26'
+      locator: Video title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273ab5cadf82eb64cca2cad8905
+    qualifiers:
+      credit:
+        text: Me Jaan, Spotify; cover design Mohsen Manoochehri, photograph Saeed Barzi
+        language: en
+    references:
+    - source: open.spotify.com-album-6ycyqymbc9veko3rc8vayf-05651ef14beb
+      quote: https://i.scdn.co/image/ab67616d0000b273ab5cadf82eb64cca2cad8905
+      accessed: '2026-11-26'
+      locator: og:image

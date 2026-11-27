@@ -1,0 +1,110 @@
+id: Qqanhnv
+type: release
+statements:
+  name:
+  - value:
+      text: Havaye Azadi
+      language: en
+    references:
+    - source: open.spotify.com-album-5b4c146ego0uizxfjanjnx-ebff398a6c77
+      quote: Listen to Havaye Azadi - Single by Parastoo Ahmadi | Spotify
+      accessed: '2026-11-26'
+      locator: Page title
+  - value:
+      text: هوای آزادی
+      language: fa
+    references:
+    - source: www.radiozamaneh.com-906732-5dd60a25d8a5
+      quote: در خرداد ۱۴۰۲، قطعه «هوای آزادی» با شعری از فاطمه دوگوهرانی و آهنگسازی خودش را منتشر کرد
+      accessed: '2026-11-26'
+  release date:
+  - value:
+      date: 1402-03
+      calendar: jalali
+    references:
+    - source: www.radiozamaneh.com-906732-5dd60a25d8a5
+      quote: در خرداد ۱۴۰۲، قطعه «هوای آزادی» با شعری از فاطمه دوگوهرانی و آهنگسازی خودش را منتشر کرد
+      accessed: '2026-11-26'
+    rank: preferred
+  - value:
+      date: '2025-08-11'
+    references:
+    - source: music.apple.com-us-album-havaye-azadi-single-1832957420-5f4347f05853
+      quote: '"datePublished":"2025-08-11"'
+      accessed: '2026-11-26'
+      locator: Catalogue release date of the streaming single
+    - source: open.spotify.com-album-5b4c146ego0uizxfjanjnx-ebff398a6c77
+      quote: '2025-08-11'
+      accessed: '2026-11-26'
+      locator: music:release_date
+  release type:
+  - value: single
+    references:
+    - source: open.spotify.com-album-5b4c146ego0uizxfjanjnx-ebff398a6c77
+      quote: Parastoo Ahmadi · single · 2025 · 1 songs
+      accessed: '2026-11-26'
+      locator: Page description
+  performer:
+  - value: Qf4s5vm
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: music.apple.com-us-album-havaye-azadi-single-1832957420-5f4347f05853
+      quote: 'Listen to Havaye Azadi - Single by Parastoo Ahmadi on Apple Music. 2025. 1 Song. Duration:
+        3 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  contributor:
+  - value: Qf4s5vm
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: www.radiozamaneh.com-906732-5dd60a25d8a5
+      quote: آهنگسازی خودش
+      accessed: '2026-11-26'
+    - source: music.apple.com-us-album-havaye-azadi-single-1832957420-5f4347f05853
+      quote: '"composer":"Parastoo Ahmadi"'
+      accessed: '2026-11-26'
+      locator: Composer field
+  - value: Q28zvt9
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: www.radiozamaneh.com-906732-5dd60a25d8a5
+      quote: با شعری از فاطمه دوگوهرانی
+      accessed: '2026-11-26'
+  published by:
+  - value: Q4br89h
+    references:
+    - source: music.apple.com-us-album-havaye-azadi-single-1832957420-5f4347f05853
+      quote: ℗ 2025 Hafdang Records
+      accessed: '2026-11-26'
+      locator: Copyright line
+  listen link:
+  - value: https://music.apple.com/us/album/havaye-azadi-single/1832957420
+    references:
+    - source: music.apple.com-us-album-havaye-azadi-single-1832957420-5f4347f05853
+      quote: 'Listen to Havaye Azadi - Single by Parastoo Ahmadi on Apple Music. 2025. 1 Song. Duration:
+        3 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  - value: https://open.spotify.com/album/5B4C146eGo0uizxFjAnJNX
+    references:
+    - source: open.spotify.com-album-5b4c146ego0uizxfjanjnx-ebff398a6c77
+      quote: Listen to Havaye Azadi - Single by Parastoo Ahmadi | Spotify
+      accessed: '2026-11-26'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b273c3d8d12c3234b22835ab6771
+    qualifiers:
+      credit:
+        text: Havaye Azadi, Spotify
+        language: en
+    references:
+    - source: open.spotify.com-album-5b4c146ego0uizxfjanjnx-ebff398a6c77
+      quote: https://i.scdn.co/image/ab67616d0000b273c3d8d12c3234b22835ab6771
+      accessed: '2026-11-26'
+      locator: og:image

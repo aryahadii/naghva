@@ -1,0 +1,74 @@
+id: Qwvvket
+type: release
+statements:
+  name:
+  - value:
+      text: Karvansara Concert (Concert Version)
+      language: en
+    references:
+    - source: open.spotify.com-album-2xut5zl1wpbmpda8x37xvb-7ac28b4b24a8
+      quote: Listen to Karvansara Concert (Concert Version) - Album by Parastoo Ahmadi | Spotify
+      accessed: '2026-11-26'
+      locator: Page title
+  release date:
+  - value:
+      date: '2024-12-15'
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: '"datePublished":"2024-12-15"'
+      accessed: '2026-11-26'
+      locator: Catalogue release date
+    - source: open.spotify.com-album-2xut5zl1wpbmpda8x37xvb-7ac28b4b24a8
+      quote: '2024-12-15'
+      accessed: '2026-11-26'
+      locator: music:release_date
+  release type:
+  - value: album
+    references:
+    - source: open.spotify.com-album-2xut5zl1wpbmpda8x37xvb-7ac28b4b24a8
+      quote: Parastoo Ahmadi · album · 2024 · 7 songs
+      accessed: '2026-11-26'
+      locator: Page description
+  performer:
+  - value: Qf4s5vm
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: 'Listen to Karvansara Concert (Concert Version) by Parastoo Ahmadi on Apple Music. 2024.
+        7 Songs. Duration: 23 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  published by:
+  - value: Q4br89h
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: ℗ 2024 Hafdang Records
+      accessed: '2026-11-26'
+      locator: Copyright line
+  listen link:
+  - value: https://music.apple.com/us/album/karvansara-concert-concert-version/1785874396
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: 'Listen to Karvansara Concert (Concert Version) by Parastoo Ahmadi on Apple Music. 2024.
+        7 Songs. Duration: 23 minutes.'
+      accessed: '2026-11-26'
+      locator: Page description
+  - value: https://open.spotify.com/album/2Xut5zL1wpbMPDA8X37xvB
+    references:
+    - source: open.spotify.com-album-2xut5zl1wpbmpda8x37xvb-7ac28b4b24a8
+      quote: Listen to Karvansara Concert (Concert Version) - Album by Parastoo Ahmadi | Spotify
+      accessed: '2026-11-26'
+      locator: Page title
+  cover art:
+  - value: https://i.scdn.co/image/ab67616d0000b2734edd6fefa4b556712e179199
+    qualifiers:
+      credit:
+        text: Karvansara Concert, Spotify
+        language: en
+    references:
+    - source: open.spotify.com-album-2xut5zl1wpbmpda8x37xvb-7ac28b4b24a8
+      quote: https://i.scdn.co/image/ab67616d0000b2734edd6fefa4b556712e179199
+      accessed: '2026-11-26'
+      locator: og:image

@@ -1,0 +1,71 @@
+id: Q4a49rf
+type: release
+statements:
+  name:
+  - value:
+      text: Kamar Barik (Concert Version)
+      language: en
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: Kamar Barik (Concert Version)
+      accessed: '2026-11-26'
+      locator: Track list
+  - value:
+      text: کمر باریک
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: '"کمر باریک"'
+      accessed: '2026-11-26'
+      locator: Video description, song 3
+  track of:
+  - value: Qwvvket
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: Kamar Barik (Concert Version)
+      accessed: '2026-11-26'
+      locator: Track list
+  programme segment of:
+  - value: Qpjn57f
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: '"کمر باریک"'
+      accessed: '2026-11-26'
+      locator: Video description, song 3
+  performer:
+  - value: Qf4s5vm
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: '"کمر باریک"'
+      accessed: '2026-11-26'
+      locator: Video description, song 3
+  contributor:
+  - value: Q3jmntb
+    qualifiers:
+      role:
+      - composer
+      - lyricist
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: 'آهنگ و ترانه: ابوالقاسم لاهوتی'
+      accessed: '2026-11-26'
+      locator: Video description, song 3
+  - value: Qyxm5tf
+    qualifiers:
+      role:
+      - arranger
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: 'تنظیم‌کننده: احسان بیرقدار'
+      accessed: '2026-11-26'
+      locator: Video description, song 3
+  listen link:
+  - value: https://music.apple.com/us/album/kamar-barik-concert-version/1785874396?i=1785874669
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: Kamar Barik (Concert Version)
+      accessed: '2026-11-26'
+      locator: Track list

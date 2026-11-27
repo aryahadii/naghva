@@ -1,0 +1,72 @@
+id: Qat2dhg
+type: release
+statements:
+  name:
+  - value:
+      text: Che Sazam (Concert Version)
+      language: en
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: Che Sazam (Concert Version)
+      accessed: '2026-11-26'
+      locator: Track list
+  - value:
+      text: چه سازم
+      language: fa
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: '"چه سازم"'
+      accessed: '2026-11-26'
+      locator: Video description, song 6
+  track of:
+  - value: Qwvvket
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: Che Sazam (Concert Version)
+      accessed: '2026-11-26'
+      locator: Track list
+  programme segment of:
+  - value: Qpjn57f
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: '"چه سازم"'
+      accessed: '2026-11-26'
+      locator: Video description, song 6
+  performer:
+  - value: Qf4s5vm
+    qualifiers:
+      role:
+      - vocals
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: '"چه سازم"'
+      accessed: '2026-11-26'
+      locator: Video description, song 6
+  contributor:
+  - value: Qppkbd8
+    qualifiers:
+      role:
+      - composer
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: '"چه سازم"
+
+        آهنگساز: سهیل فقیه‌نصیری'
+      accessed: '2026-11-26'
+      locator: Video description, song 6
+  - value: Qtwfs8w
+    qualifiers:
+      role:
+      - lyricist
+    references:
+    - source: www.youtube.com-watch-v-oycadhenhbu-37c01d8754ce
+      quote: 'شاعر: هوشنگ ابتهاج'
+      accessed: '2026-11-26'
+      locator: Video description, song 6
+  listen link:
+  - value: https://music.apple.com/us/album/che-sazam-concert-version/1785874396?i=1785874672
+    references:
+    - source: music.apple.com-us-album-karvansara-concert-concert-version-1785874396-52c22cc3f8de
+      quote: Che Sazam (Concert Version)
+      accessed: '2026-11-26'
+      locator: Track list
