@@ -189,10 +189,16 @@ for (const [path, html] of pages) {
       if (disputed && graph.some((node) => node['@type'] === 'MusicGroup' && node.foundingDate))
         problems.push(`${where}: structured founding date hides a disagreement`);
     }
-    const releases = graph.flatMap((node) => ['MusicAlbum', 'MusicRecording'].includes(node['@type'])
-      ? [node] : [...(node.album ?? []), ...(node.track ?? [])]);
+    // Catalogue identity, rather than a music-only type filter, keeps generic
+    // works under the same checks without counting article CreativeWorks.
+    const releases = graph.flatMap((node) => {
+      const anchor = node.url && decodeURIComponent(new URL(node.url).hash.slice(1));
+      return ['MusicAlbum', 'MusicRecording'].includes(node['@type']) || record.items[record.panels[anchor]]?.type === 'release'
+        ? [node] : [...(node.album ?? []), ...(node.track ?? [])];
+    });
     for (const album of releases) {
       const anchor = decodeURIComponent(new URL(album.url).hash.slice(1));
+      if (structuredReleases.has(anchor)) problems.push(`${where}: duplicate structured catalogue entry: ${anchor}`);
       structuredReleases.add(anchor);
       const release = record.items[record.panels[anchor]];
       if (!release) { problems.push(`${where}: structured album has no source record: ${anchor}`); continue; }
@@ -202,9 +208,10 @@ for (const [path, html] of pages) {
       };
       const component = ['track of', 'programme segment of'].some((property) =>
         active(release.statements[property]).some((s) => record.items[s.value]?.type === 'release'));
-      if (album['@type'] !== (component ? 'MusicRecording' : 'MusicAlbum'))
-        problems.push(`${where}: structured recording type disagrees for ${anchor}`);
       const albumTypes = new Set(['album', 'ep', 'compilation', 'soundtrack', 'live album']);
+      const musical = component || active(release.statements['release type']).some((s) => albumTypes.has(s.value) || s.value === 'single');
+      if (album['@type'] !== (component ? 'MusicRecording' : musical ? 'MusicAlbum' : 'CreativeWork'))
+        problems.push(`${where}: structured recording type disagrees for ${anchor}`);
       const expectedParents = component ? active(release.statements['track of']).map((s) => record.items[s.value])
         .filter((parent) => parent?.type === 'release' && parent.id !== release.id
           && active(parent.statements['release type']).some((s) => albumTypes.has(s.value))
@@ -214,7 +221,7 @@ for (const [path, html] of pages) {
           return host?.page && parent.anchor ? address(`/${path.slice(1, 3)}/${host.page}/#${parent.anchor}`) : null;
         }).filter(Boolean).sort() : [];
       const parents = album.inAlbum ?? [];
-      if (!Array.isArray(parents) || parents.some((parent) => parent['@type'] !== 'MusicAlbum')
+      if ((!musical && album.inAlbum !== undefined) || !Array.isArray(parents) || parents.some((parent) => parent['@type'] !== 'MusicAlbum')
         || JSON.stringify(parents.map((parent) => parent.url).sort()) !== JSON.stringify(expectedParents))
         problems.push(`${where}: structured album membership disagrees for ${anchor}`);
       const credits = release.statements.performer ?? [];
@@ -227,9 +234,10 @@ for (const [path, html] of pages) {
         return roles.some(performs);
       });
       const expected = expectedIds.map((id) => record.items[id].names[path.slice(1, 3)].text).sort();
-      const actual = (Array.isArray(album.byArtist) ? album.byArtist : [album.byArtist])
+      const actual = (Array.isArray(album.byArtist) ? album.byArtist : album.byArtist ? [album.byArtist] : [])
         .map((p) => p?.name ?? graph.find((node) => node['@id'] === p?.['@id'])?.name).sort();
-      if (JSON.stringify(actual) !== JSON.stringify(expected)) problems.push(`${where}: structured performers disagree for ${anchor}`);
+      if (musical ? JSON.stringify(actual) !== JSON.stringify(expected) : album.byArtist !== undefined)
+        problems.push(`${where}: structured performers disagree for ${anchor}`);
       const dates = (release.statements['release date'] ?? []).filter((s) => s.rank !== 'deprecated').map((s) => s.value);
       const disputed = dates.some((a) => dates.some((b) => a.range[1] < b.range[0] || b.range[1] < a.range[0]));
       if (disputed && album.datePublished) problems.push(`${where}: structured date hides a disagreement for ${anchor}`);
