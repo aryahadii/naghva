@@ -25,3 +25,11 @@ Published credits, read 2026-11-21.
 > Amen Feizabadi, Live Electronics
 
 Published credits, read 2026-11-21.
+
+> Amen Feizabadi, conception, artistic & musical direction, direction, composition.
+
+Exact video 648065384 native description, named conception/direction/composition credit, rechecked 2026-11-27.
+
+> Amen Feizabadi, Live Electronics
+
+Exact video 648065384 native description, named live electronics performance credit, rechecked 2026-11-27.

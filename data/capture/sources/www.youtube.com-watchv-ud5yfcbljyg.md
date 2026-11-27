@@ -25,3 +25,11 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 
 YouTube watch-page player metadata, publishDate (publication timestamp),
 read 2026-11-26.
+
+> Tàr: Reza Mohsenipour
+
+Exact native description, video Ud5YFcBLJYg, explicit named instrumental credit, rechecked 2026-11-27.
+
+> Tombak: Hamid Mohsenipour
+
+Exact native description, video Ud5YFcBLJYg, explicit named instrumental credit, rechecked 2026-11-27.
