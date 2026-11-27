@@ -34,10 +34,10 @@ statements:
   - value:
       date: '2003-01-18'
     references:
-    - source: music.apple.com-us-album-penhan-1727054680
-      quote: '2003-01-18'
-      accessed: 2026-11-21
-      locator: Storefront release date
+    - source: open.spotify.com-track-4yxqaykjm3hzksttwocbhg
+      quote: '"datePublished":"2003-01-18"'
+      locator: application/ld+json exact MusicRecording 4YXqayKJm3hzKStTWocBhG datePublished; same-object @type/identity/name context captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/e1/cb/97/e1cb97eb-82fa-b413-2acd-b383335aa53e/198500048131.jpg/1200x630bb.jpg
     references:

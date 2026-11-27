@@ -41,10 +41,10 @@ statements:
   - value:
       date: '2014-05-12'
     references:
-    - source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
-      quote: '2014-05-12'
-      accessed: '2026-11-21'
-      locator: First digital issue
+    - source: music.apple.com-us-song-av-c3-a2z-e-dashti-tasnif-mashkan-dele-man-feat-pantea-alvandipour-848989912
+      quote: '"datePublished":"2014-05-12"'
+      locator: application/ld+json.audio exact MusicRecording 848989912 datePublished; same-object @type/identity/name context captured separately.
+      accessed: '2026-11-27'
   listen link:
   - value: https://music.apple.com/us/song/av%C3%A2z-e-dashti-tasnif-mashkan-dele-man-feat-pantea-alvandipour/848989912
     references:

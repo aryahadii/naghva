@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2014-01-28'
     references:
-    - source: themast.bandcamp.com-album-pleasure-island
-      quote: released January 28, 2014
-      accessed: 2026-11-21
-      locator: Release date
+    - source: open.spotify.com-track-6m0xwmr1oa7bb2azfp0ehq
+      quote: '"datePublished":"2014-01-28"'
+      locator: application/ld+json exact MusicRecording 6M0xWMr1OA7Bb2Azfp0ehq datePublished; same-object @type/identity/name context captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a2926326288_2.jpg
     references:

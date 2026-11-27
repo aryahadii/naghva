@@ -66,10 +66,10 @@ statements:
   - value:
       date: '2026-03-20'
     references:
-    - source: sinasalimi.bandcamp.com-album-travellers-musicians-and-other-stories
-      quote: released March 20, 2026
-      accessed: '2026-11-21'
-      locator: Published date
+    - source: music.apple.com-us-song-trapezoid-1889276830
+      quote: '"datePublished":"2026-03-20"'
+      locator: application/ld+json.audio exact MusicRecording 1889276830 datePublished; same-object @type/identity/name context captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a2498350153_10.jpg
     references:

@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2005'
     references:
-    - source: open.spotify.com-album-1uwuahqg9clqddi48ln04f
-      quote: '2005'
-      accessed: '2026-11-21'
-      locator: Original release
+    - source: open.spotify.com-track-1rigeuckxoohetitgdr3uv
+      quote: '"datePublished":"2005-01-01"'
+      locator: application/ld+json exact MusicRecording 1RigEuCkXOoHEtItGDr3uV datePublished; same-object @type/identity/name context captured separately.
+      accessed: '2026-11-27'
   listen link:
   - value: https://open.spotify.com/track/1RigEuCkXOoHEtItGDr3uV
     references:
