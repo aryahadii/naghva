@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2024-02-14'
     references:
-    - source: music.apple.com-us-album-experimental-link-ep-1731619490
-      quote: '2024-02-14'
-      accessed: 2026-11-21
-      locator: Edition release date
+    - source: music.apple.com-us-song-thesis-1731619499
+      quote: '"datePublished":"2024-02-14"'
+      locator: application/ld+json.audio exact MusicRecording 1731619499 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   performer:
   - value: Q3v55f7
     references:
