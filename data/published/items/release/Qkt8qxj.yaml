@@ -27,10 +27,10 @@ statements:
   - value:
       date: '2025-11-28'
     references:
-    - source: music.apple.com-at-album-carte-blanche-until-we-meet-again-1849331663
-      quote: '2025-11-28'
-      accessed: 2026-11-21
-      locator: Digital edition issue date
+    - source: music.apple.com-at-song-until-we-meet-again-1849331669
+      quote: '"datePublished":"2025-11-28"'
+      locator: application/ld+json.audio exact MusicRecording 1849331669 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/fa/ab/79faab53-8078-2f4a-69b6-e791098995e9/0788792256170.png/1200x630bb.jpg
     references:

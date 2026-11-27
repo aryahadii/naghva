@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2017-08-27'
     references:
-    - source: siamak-jahangiri-ap1770081272
-      quote: '2017-08-27'
-      accessed: '2026-11-21'
-      locator: Edition release date
+    - source: music.apple.com-us-song-avaz-i-ney-1770081281
+      quote: '"datePublished":"2017-08-27"'
+      locator: application/ld+json.audio exact MusicRecording 1770081281 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/eb/de/32/ebde3220-f77a-8021-9b3d-eff49ba45d5d/6260608006079.jpg/1200x630wp-60.jpg
     references:

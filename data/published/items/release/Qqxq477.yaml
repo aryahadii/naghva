@@ -51,10 +51,10 @@ statements:
   - value:
       date: '2019-02-15'
     references:
-    - source: music.apple.com-us-album-badeh-1455191037
-      quote: '2019-02-15'
-      accessed: '2026-11-21'
-      locator: Issue date
+    - source: music.apple.com-us-song-darya-1455191039
+      quote: '"datePublished":"2019-02-15"'
+      locator: application/ld+json.audio exact MusicRecording 1455191039 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   track of:
   - value: Q8mwfwz
     references:

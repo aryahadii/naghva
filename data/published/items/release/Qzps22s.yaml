@@ -39,10 +39,10 @@ statements:
   - value:
       date: '2026-05-15'
     references:
-    - source: music.apple.com-us-album-prayers-ep-6766858584
-      quote: '2026-05-15'
-      accessed: '2026-11-21'
-      locator: Digital edition release
+    - source: music.apple.com-us-song-puria-part-1-and-part-2-6766858710
+      quote: '"datePublished":"2026-05-15"'
+      locator: application/ld+json.audio exact MusicRecording 6766858710 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   listen link:
   - value: https://music.apple.com/us/song/puria-part-1-and-part-2/6766858710
     references:

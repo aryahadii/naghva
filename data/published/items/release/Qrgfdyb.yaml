@@ -34,10 +34,10 @@ statements:
   - value:
       date: '2025-05-01'
     references:
-    - source: music.apple.com-us-album-faded-calendar-1810997935
-      quote: '2025-05-01'
-      accessed: 2026-11-21
-      locator: Storefront release date
+    - source: open.spotify.com-track-5vvkzcwrbzhvdlg3wg2ich
+      quote: '"datePublished":"2025-05-01"'
+      locator: application/ld+json exact MusicRecording 5vVKzcwrBZHVdLg3WG2ich datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/87/62/d0876247-aecd-f6b9-c52b-e27e1295d10d/199199580506.jpg/1200x630bb.jpg
     references:
