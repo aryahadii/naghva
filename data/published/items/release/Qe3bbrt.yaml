@@ -45,10 +45,10 @@ statements:
   - value:
       date: '2026-01-30'
     references:
-    - source: sheentrio1.bandcamp.com-album-transitory
-      quote: 30 Jan 2026 00:00:00 GMT
-      locator: Original publication date
-      accessed: '2026-11-21'
+    - source: music.apple.com-us-song-cocoon-1847584435
+      quote: '"datePublished":"2026-01-30"'
+      locator: Archived recording version https://web.archive.org/web/20261127114026/https://music.apple.com/us/song/cocoon/1847584435; script#schema:song$.audio.datePublished; exact own MusicRecording 1847584435 / Cocoon; retain existing day precision.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a3965670141_10.jpg
     references:

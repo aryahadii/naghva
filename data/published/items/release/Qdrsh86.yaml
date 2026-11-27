@@ -37,10 +37,10 @@ statements:
   - value:
       date: '2011-06-21'
     references:
-    - source: themast.bandcamp.com-album-wild-poppies
-      quote: released June 21, 2011
-      accessed: 2026-11-21
-      locator: Release date
+    - source: themast.bandcamp.com-track-my-all-oddlogic-remix
+      quote: '"datePublished":"21 Jun 2011 00:00:00 GMT"'
+      locator: Archived recording version http://web.archive.org/web/20210814091218/https://themast.bandcamp.com/track/my-all-oddlogic-remix; script[7]$.datePublished; exact own MusicRecording https://themast.bandcamp.com/track/my-all-oddlogic-remix / My All - oddlogic remix; retain existing day precision.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a0701737205_2.jpg
     references:
