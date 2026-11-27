@@ -32,10 +32,10 @@ statements:
   - value:
       date: '2024-06-28'
     references:
-    - source: music.apple.com-us-album-hura-ep-1751911655
-      quote: '2024-06-28'
-      accessed: '2026-11-21'
-      locator: Digital issue date
+    - source: music.apple.com-us-song-stareh-1751911659
+      quote: '{"@type":"MusicRecording","name":"Stareh","url":"https://music.apple.com/us/song/stareh/1751911659","datePublished":"2024-06-28"'
+      locator: Native application/ld+json.audio MusicRecording, exact track 1751911659, datePublished
+      accessed: '2026-11-27'
   listen link:
   - value: https://music.apple.com/us/song/stareh/1751911659
     references:

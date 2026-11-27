@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2018-10-02'
     references:
-    - source: siamak-jahangiri-ap1439568369
-      quote: '2018-10-02'
-      accessed: '2026-11-21'
-      locator: Edition release date
+    - source: music.apple.com-us-song-sharhe-sharhe-1439568616
+      quote: '{"@type":"MusicRecording","name":"Sharhe Sharhe","url":"https://music.apple.com/us/song/sharhe-sharhe/1439568616","datePublished":"2018-10-02"'
+      locator: Native application/ld+json.audio MusicRecording, exact track 1439568616, datePublished
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/fb/f8/3d/fbf83d78-64f8-f224-be12-375ae5d0d159/6260608006253.jpg/1200x630wp-60.jpg
     references:

@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2019-05-08'
     references:
-    - source: music.apple.com-us-album-columbus-ep-1511490369
-      quote: '2019-05-08'
-      accessed: 2026-11-21
-      locator: Edition release date
+    - source: music.apple.com-us-song-sun-and-flower-1511490639
+      quote: '{"@type":"MusicRecording","name":"Sun and Flower","url":"https://music.apple.com/us/song/sun-and-flower/1511490639","datePublished":"2019-05-08"'
+      locator: Native application/ld+json.audio MusicRecording, exact track 1511490639, datePublished
+      accessed: '2026-11-27'
   performer:
   - value: Qwh5yn8
     references:

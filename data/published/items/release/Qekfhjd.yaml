@@ -42,10 +42,10 @@ statements:
   - value:
       date: '2025-01-28'
     references:
-    - source: music.apple.com-us-album-goosheh-gard-c3-a2n-1798590011
-      quote: '2025-01-28'
-      accessed: '2026-11-21'
-      locator: Apple Music edition issue date
+    - source: music.apple.com-us-song-khaneh-1798590232
+      quote: '{"@type":"MusicRecording","name":"Khaneh","url":"https://music.apple.com/us/song/khaneh/1798590232","datePublished":"2025-01-28"'
+      locator: Native application/ld+json.audio MusicRecording, exact track 1798590232, datePublished
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/11/2c/ce112cf8-6939-c415-3409-965452a2c60a/198999937312.jpg/1200x630bb.jpg
     qualifiers:
