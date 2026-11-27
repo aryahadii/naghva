@@ -48,9 +48,10 @@ statements:
   - value: single
     references:
     - source: music.apple.com-us-album-diaspora-girl-single-6825447552
-      quote: Diaspora Girl
-      accessed: 2026-11-21
-      locator: Track 1
+      quote: '"name":"Diaspora Girl - Single"'
+      accessed: '2026-11-27'
+      locator: Own exact Apple album 6825447552 JSON-LD name; explicit product Single label, not generic MusicAlbum
+        wrapper
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/64/27/22/64272205-1eb9-b2d1-380a-19fc63b7fa12/808391122215.jpg/1200x630bb.jpg
     references:
