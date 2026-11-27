@@ -17,14 +17,6 @@ statements:
       quote: 'آهنگساز، نوازنده کمانچه و سرپرست ارکستر : کوروش بابایی'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2026-01-03'
-    references:
-    - source: youtu.be-0bupdc4kgrq
-      quote: '2026-01-03'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/0BUpDc4kgrQ/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: Farvardin Amad Mandana Khazraei Kourosh Babaeiفروردین آمد - ماندانا خضرایی | رضا رکنی - کوروش بابایی
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2026-01-03'
+    references:
+    - source: youtu.be-0bupdc4kgrq
+      quote: |-
+        "publishDate":"2026-01-03T08:16:13-08:00"
+      locator: Native YouTube publishDate for 0BUpDc4kgrQ; source-offset calendar day 2026-01-03 (native offset day 2026-01-03; UTC day 2026-01-03)
+      accessed: '2026-11-26'

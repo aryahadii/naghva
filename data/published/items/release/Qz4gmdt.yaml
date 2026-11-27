@@ -69,18 +69,22 @@ statements:
       accessed: '2026-11-08'
   release date:
   - value:
-      date: '2025-12-12'
-    references:
-    - source: www.youtube.com-watch-v--xdkvtwpxag
-      quote: '"uploadDate":"2025-12-12T21:18:40-08:00"'
-      accessed: '2026-11-08'
-    rank: preferred
-  - value:
       date: '2025-12-15'
     references:
     - source: music.apple.com-us-album-asemoone-katoon-the-cotton-sky-single-1858422072
       quote: December 15, 2025
       accessed: '2026-11-08'
     - source: open.spotify.com-album-5n4xvyynxkxfabl4jbq0ln
-      quote: name="music:release_date" content="2025-12-15"
+      quote: |-
+        name="music:release_date" content="2025-12-15"
       accessed: '2026-11-08'
+  platform posting date:
+  - value:
+      date: '2025-12-12'
+    references:
+    - source: www.youtube.com-watch-v--xdkvtwpxag
+      quote: |-
+        "publishDate":"2025-12-12T21:18:40-08:00"
+      locator: Native YouTube publishDate for -XDKVtWpxag; source-offset calendar day 2025-12-12 (native offset day 2025-12-12; UTC day 2025-12-13)
+      accessed: '2026-11-26'
+    rank: preferred

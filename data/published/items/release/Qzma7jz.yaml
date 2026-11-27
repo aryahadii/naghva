@@ -19,14 +19,6 @@ statements:
       quote: Kamancheh Performance in Avaz-e Dashti Mode
       accessed: '2026-11-21'
       locator: YouTube oEmbed title
-  release date:
-  - value:
-      date: '2021-01-12'
-    references:
-    - source: www.youtube.com-watch-v-qwz7ei8r2ru
-      quote: '2021-01-12'
-      accessed: '2026-11-21'
-      locator: Official artist YouTube feed upload date
   listen link:
   - value: https://www.youtube.com/watch?v=qwZ7eI8R2rU
     references:
@@ -53,3 +45,12 @@ statements:
       quote: Payam Yousefi
       accessed: '2026-11-21'
       locator: Artist publishing channel
+  platform posting date:
+  - value:
+      date: '2021-01-12'
+    references:
+    - source: www.youtube.com-watch-v-qwz7ei8r2ru
+      quote: |-
+        "publishDate":"2021-01-12T11:10:15-08:00"
+      locator: Native YouTube publishDate for qwZ7eI8R2rU; source-offset calendar day 2021-01-12 (native offset day 2021-01-12; UTC day 2021-01-12)
+      accessed: '2026-11-26'

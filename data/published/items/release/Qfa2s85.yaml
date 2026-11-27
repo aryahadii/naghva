@@ -27,14 +27,6 @@ statements:
       quote: 'Tombak: Behnam Masoum'
       accessed: '2026-11-21'
       locator: Official film credits
-  release date:
-  - value:
-      date: '2021-07-28'
-    references:
-    - source: www.youtube.com-watch-v-s1andfhqq0y
-      quote: '2021-07-28'
-      accessed: '2026-11-21'
-      locator: Official artist YouTube feed upload date
   listen link:
   - value: https://www.youtube.com/watch?v=s1andfhQq0Y
     references:
@@ -70,3 +62,12 @@ statements:
       quote: 'By: Darvish Khan'
       accessed: '2026-11-21'
       locator: Composition or arrangement credit
+  platform posting date:
+  - value:
+      date: '2021-07-28'
+    references:
+    - source: www.youtube.com-watch-v-s1andfhqq0y
+      quote: |-
+        "publishDate":"2021-07-28T16:00:18-07:00"
+      locator: Native YouTube publishDate for s1andfhQq0Y; source-offset calendar day 2021-07-28 (native offset day 2021-07-28; UTC day 2021-07-28)
+      accessed: '2026-11-26'

@@ -18,14 +18,6 @@ statements:
         Church
       accessed: 2026-11-21
       locator: Artist identifies the ensemble
-  release date:
-  - value:
-      date: '2022-12-04'
-    references:
-    - source: youtu.be-qpjpl9zsqf8
-      quote: '2022-12-04'
-      accessed: 2026-11-21
-      locator: YouTube publication date
   listen link:
   - value: https://www.youtube.com/watch?v=qpjpL9zSQF8
     references:
@@ -40,3 +32,12 @@ statements:
       quote: Shahkaman - Shour improvise -  Shab Navard
       accessed: 2026-11-21
       locator: Published film title
+  platform posting date:
+  - value:
+      date: '2022-12-04'
+    references:
+    - source: youtu.be-qpjpl9zsqf8
+      quote: |-
+        "publishDate":"2022-12-03T18:51:00-08:00"
+      locator: Native YouTube publishDate for qpjpL9zSQF8; UTC calendar day 2022-12-04 (native offset day 2022-12-03; UTC day 2022-12-04)
+      accessed: '2026-11-26'

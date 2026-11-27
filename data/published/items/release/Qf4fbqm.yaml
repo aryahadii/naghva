@@ -17,14 +17,6 @@ statements:
       quote: ' کمانچه: کوروش بابایی'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2025-08-12'
-    references:
-    - source: youtu.be-4k2xcc1xnh8
-      quote: '2025-08-12'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/4k2xcc1xnh8/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: 'Avz dashti tasnif shoor بخشی از کنسرت با گروه دلنوازی -  تالار وحدت سال ۱۳۸۱  کمانچه: کوروش بابایی'
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2025-08-12'
+    references:
+    - source: youtu.be-4k2xcc1xnh8
+      quote: |-
+        "publishDate":"2025-08-12T10:29:16-07:00"
+      locator: Native YouTube publishDate for 4k2xcc1xnh8; source-offset calendar day 2025-08-12 (native offset day 2025-08-12; UTC day 2025-08-12)
+      accessed: '2026-11-26'

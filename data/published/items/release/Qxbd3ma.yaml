@@ -19,14 +19,6 @@ statements:
       quote: Ehsan Matoori- Santur
       accessed: 2026-11-21
       locator: Publisher’s credit
-  release date:
-  - value:
-      date: '2017-10-07'
-    references:
-    - source: youtu.be-yz3hhbn_tfu
-      quote: '2017-10-07'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/yz3hHbN_tFU/hqdefault.jpg
     references:
@@ -41,3 +33,12 @@ statements:
       quote: Jamal Mohamed's World Ensemble - Ay Ya Zein
       accessed: 2026-11-21
       locator: Film title
+  platform posting date:
+  - value:
+      date: '2017-10-07'
+    references:
+    - source: youtu.be-yz3hhbn_tfu
+      quote: |-
+        "publishDate":"2017-10-07T16:39:35-07:00"
+      locator: Native YouTube publishDate for yz3hHbN_tFU; source-offset calendar day 2017-10-07 (native offset day 2017-10-07; UTC day 2017-10-07)
+      accessed: '2026-11-26'

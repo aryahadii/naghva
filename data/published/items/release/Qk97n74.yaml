@@ -23,14 +23,6 @@ statements:
       quote: Not Without You - Avin Ahmadi & Lorenz Widauer
       accessed: 2026-11-21
       locator: Video title
-  release date:
-  - value:
-      date: '2026-07-09'
-    references:
-    - source: youtu.be-oq65firiaas
-      quote: '2026-07-09'
-      accessed: 2026-11-21
-      locator: Uploader publication date
   listen link:
   - value: https://youtu.be/oQ65FIRIAas
     references:
@@ -38,3 +30,12 @@ statements:
       quote: Not Without You - Avin Ahmadi & Lorenz Widauer
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2026-07-09'
+    references:
+    - source: youtu.be-oq65firiaas
+      quote: |-
+        "publishDate":"2026-07-09T14:55:20-07:00"
+      locator: Native YouTube publishDate for oQ65FIRIAas; source-offset calendar day 2026-07-09 (native offset day 2026-07-09; UTC day 2026-07-09)
+      accessed: '2026-11-26'

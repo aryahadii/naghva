@@ -82,24 +82,29 @@ statements:
       - lyricist
   release date:
   - value:
-      date: '2013-08-31'
-    references:
-    - source: www.youtube.com-watch-v-unev8gvyq2e
-      quote: '"uploadDate":"2013-08-31T13:35:35-07:00"'
-      accessed: '2026-11-08'
-    rank: preferred
-  - value:
       date: '2023-11-08'
     references:
     - source: music.apple.com-us-album-bayad-del-sepord-single-1715632253
       quote: November 8, 2023
       accessed: '2026-11-08'
     - source: open.spotify.com-album-5kfgvvdhii8du6rgo9wx66
-      quote: name="music:release_date" content="2023-11-08"
+      quote: |-
+        name="music:release_date" content="2023-11-08"
       accessed: '2026-11-08'
   - value:
       date: '2013-09-01'
     references:
     - source: soundcloud.com-sanin9000-jovql5m1gp2h
-      quote: '"created_at":"2013-09-01T01:56:54Z"'
+      quote: |-
+        "created_at":"2013-09-01T01:56:54Z"
       accessed: '2026-11-08'
+  platform posting date:
+  - value:
+      date: '2013-08-31'
+    references:
+    - source: www.youtube.com-watch-v-unev8gvyq2e
+      quote: |-
+        "publishDate":"2013-08-31T13:35:35-07:00"
+      locator: Native YouTube publishDate for UNEv8GVYQ2E; source-offset calendar day 2013-08-31 (native offset day 2013-08-31; UTC day 2013-08-31)
+      accessed: '2026-11-26'
+    rank: preferred

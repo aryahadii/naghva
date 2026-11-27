@@ -49,14 +49,6 @@ statements:
       quote: Kelly Thoma
       accessed: '2026-11-21'
       locator: Performance description personnel
-  release date:
-  - value:
-      date: '2016-06-13'
-    references:
-    - source: www.youtube.com-watch-v-ofybwfnlrdu
-      quote: '2016-06-13'
-      accessed: '2026-11-21'
-      locator: YouTube publication date, player metadata
   listen link:
   - value: https://www.youtube.com/watch?v=OFYbWfNlrDU
     references:
@@ -83,3 +75,12 @@ statements:
       quote: Peyman Soheilii
       accessed: '2026-11-21'
       locator: YouTube oEmbed uploader
+  platform posting date:
+  - value:
+      date: '2016-06-13'
+    references:
+    - source: www.youtube.com-watch-v-ofybwfnlrdu
+      quote: |-
+        "publishDate":"2016-06-13T21:45:55-07:00"
+      locator: Native YouTube publishDate for OFYbWfNlrDU; source-offset calendar day 2016-06-13 (native offset day 2016-06-13; UTC day 2016-06-14)
+      accessed: '2026-11-26'

@@ -10,14 +10,6 @@ statements:
       quote: |-
         Marde Ankabouti
       accessed: '2026-11-13'
-  release date:
-  - value:
-      date: '2022-10-14'
-    references:
-    - source: www.youtube.com-watch-v-bkodoorezlg
-      quote: |-
-        "publishDate":"2022-10-14T10:32:32-07:00"
-      accessed: '2026-11-13'
   performer:
   - value: Qcbarbs
     qualifiers:
@@ -111,3 +103,12 @@ statements:
       quote: |-
         @pep.lock : Cover Design
       accessed: '2026-11-13'
+  platform posting date:
+  - value:
+      date: '2022-10-14'
+    references:
+    - source: www.youtube.com-watch-v-bkodoorezlg
+      quote: |-
+        "publishDate":"2022-10-14T10:32:32-07:00"
+      locator: Native YouTube publishDate for BkODOOrEZLg; source-offset calendar day 2022-10-14 (native offset day 2022-10-14; UTC day 2022-10-14)
+      accessed: '2026-11-26'

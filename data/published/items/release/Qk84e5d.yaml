@@ -102,11 +102,12 @@ statements:
       quote: |-
         https://i.ytimg.com/vi/GjM_Mzz9OEs/hqdefault.jpg
       accessed: '2026-11-13'
-  release date:
+  platform posting date:
   - value:
       date: '2024-09-26'
     references:
     - source: www.youtube.com-watch-v-gjm_mzz9oes
       quote: |-
         "publishDate":"2024-09-26T07:28:33-07:00"
-      accessed: '2026-11-13'
+      locator: Native YouTube publishDate for GjM_Mzz9OEs; source-offset calendar day 2024-09-26 (native offset day 2024-09-26; UTC day 2024-09-26)
+      accessed: '2026-11-26'

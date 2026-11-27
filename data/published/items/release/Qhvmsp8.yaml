@@ -9,13 +9,6 @@ statements:
     - source: www.youtube.com-watch-v-jwdtfr0jbjg
       quote: طهران
       accessed: '2026-11-13'
-  release date:
-  - value:
-      date: '2023-11-29'
-    references:
-    - source: www.youtube.com-watch-v-jwdtfr0jbjg
-      quote: '"publishDate":"2023-11-29T09:57:17-08:00"'
-      accessed: '2026-11-13'
   performer:
   - value: Q2vwhg6
     qualifiers:
@@ -69,3 +62,12 @@ statements:
     - source: www.youtube.com-watch-v-jwdtfr0jbjg
       quote: طهران
       accessed: '2026-11-13'
+  platform posting date:
+  - value:
+      date: '2023-11-29'
+    references:
+    - source: www.youtube.com-watch-v-jwdtfr0jbjg
+      quote: |-
+        "publishDate":"2023-11-29T09:57:17-08:00"
+      locator: Native YouTube publishDate for jwdTfr0JbJg; source-offset calendar day 2023-11-29 (native offset day 2023-11-29; UTC day 2023-11-29)
+      accessed: '2026-11-26'

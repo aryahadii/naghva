@@ -17,14 +17,6 @@ statements:
       quote: 'کمانچه و سرپرست گروه : کوروش بابایی'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2024-05-23'
-    references:
-    - source: youtu.be-qxvfcatfpra
-      quote: '2024-05-23'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/qXvfcATfPrA/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: 4K-Leily Bavanem Kurdish -Kourosh Babaei/Taraلیلی باوانم کردی کوروش بابایی تارا پیراینده
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2024-05-23'
+    references:
+    - source: youtu.be-qxvfcatfpra
+      quote: |-
+        "publishDate":"2024-05-23T16:12:51-07:00"
+      locator: Native YouTube publishDate for qXvfcATfPrA; source-offset calendar day 2024-05-23 (native offset day 2024-05-23; UTC day 2024-05-23)
+      accessed: '2026-11-26'

@@ -17,14 +17,6 @@ statements:
       quote: 'آهنگساز / کمانچه : کوروش بابایی'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2026-03-26'
-    references:
-    - source: youtu.be-mi-xd06gywu
-      quote: '2026-03-26'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/Mi-xd06GYWU/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: فروردین آمد-کوروش بابایی- نوروز ۱۴۰۵ صدای آمریکا Farvardin Amad   Nowrouz 1405 VOA
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2026-03-26'
+    references:
+    - source: youtu.be-mi-xd06gywu
+      quote: |-
+        "publishDate":"2026-03-26T09:00:34-07:00"
+      locator: Native YouTube publishDate for Mi-xd06GYWU; source-offset calendar day 2026-03-26 (native offset day 2026-03-26; UTC day 2026-03-26)
+      accessed: '2026-11-26'

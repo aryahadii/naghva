@@ -23,14 +23,6 @@ statements:
       quote: 'کمانچه و سرپرست گروه : کوروش بابایی'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2024-05-11'
-    references:
-    - source: youtu.be-yoxzjj0m1am
-      quote: '2024-05-11'
-      accessed: 2026-11-21
-      locator: YouTube publication date
   listen link:
   - value: https://www.youtube.com/watch?v=yOXZjj0M1aM
     references:
@@ -45,3 +37,12 @@ statements:
       quote: زلف چمن - آهنگساز کوروش بابایی خواننده رضا رکنی - گروه بدون مرز
       accessed: 2026-11-21
       locator: Published film title
+  platform posting date:
+  - value:
+      date: '2024-05-11'
+    references:
+    - source: youtu.be-yoxzjj0m1am
+      quote: |-
+        "publishDate":"2024-05-11T09:09:17-07:00"
+      locator: Native YouTube publishDate for yOXZjj0M1aM; source-offset calendar day 2024-05-11 (native offset day 2024-05-11; UTC day 2024-05-11)
+      accessed: '2026-11-26'

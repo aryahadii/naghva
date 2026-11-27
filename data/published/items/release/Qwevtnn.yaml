@@ -9,13 +9,6 @@ statements:
     - source: www.youtube.com-watch-v-3vmj-_ilyp8
       quote: ماه من نیست
       accessed: '2026-11-13'
-  release date:
-  - value:
-      date: '2023-04-15'
-    references:
-    - source: www.youtube.com-watch-v-3vmj-_ilyp8
-      quote: '"publishDate":"2023-04-15T05:04:19-07:00"'
-      accessed: '2026-11-13'
   performer:
   - value: Q2vwhg6
     qualifiers:
@@ -69,3 +62,12 @@ statements:
     - source: www.youtube.com-watch-v-3vmj-_ilyp8
       quote: ماه من نیست
       accessed: '2026-11-13'
+  platform posting date:
+  - value:
+      date: '2023-04-15'
+    references:
+    - source: www.youtube.com-watch-v-3vmj-_ilyp8
+      quote: |-
+        "publishDate":"2023-04-15T05:04:19-07:00"
+      locator: Native YouTube publishDate for 3vMJ-_IlYp8; source-offset calendar day 2023-04-15 (native offset day 2023-04-15; UTC day 2023-04-15)
+      accessed: '2026-11-26'

@@ -23,14 +23,6 @@ statements:
       quote: 'کمانچه و سرپرست گروه : کوروش بابایی'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2024-05-10'
-    references:
-    - source: youtu.be-55njc9ospgu
-      quote: '2024-05-10'
-      accessed: 2026-11-21
-      locator: YouTube publication date
   listen link:
   - value: https://www.youtube.com/watch?v=55NjC9OspgU
     references:
@@ -45,3 +37,12 @@ statements:
       quote: 4Kقطعه کردی عزیزم تو گلکمی و دردا که دلم. گروه بدون مرز کوروش بابایی ماندانا خضرایی -تارا پیراینده
       accessed: 2026-11-21
       locator: Published film title
+  platform posting date:
+  - value:
+      date: '2024-05-10'
+    references:
+    - source: youtu.be-55njc9ospgu
+      quote: |-
+        "publishDate":"2024-05-10T15:03:43-07:00"
+      locator: Native YouTube publishDate for 55NjC9OspgU; source-offset calendar day 2024-05-10 (native offset day 2024-05-10; UTC day 2024-05-10)
+      accessed: '2026-11-26'

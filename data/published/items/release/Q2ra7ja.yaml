@@ -17,14 +17,6 @@ statements:
       quote: 'سلو شاهکمان کوروش بابایی در کنسرت مژگان شجریان و گروه سرواد - جشنواره تیرگان ۲۰۲۳ '
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2023-07-25'
-    references:
-    - source: youtu.be-zexq1xlqnk8
-      quote: '2023-07-25'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/zExQ1XLqnk8/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: Kourosh Babaei Shahkaman Solo - Mojgan Shajarian and Sorvad Band- سلو شاهکمان کوروش بابایی
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2023-07-25'
+    references:
+    - source: youtu.be-zexq1xlqnk8
+      quote: |-
+        "publishDate":"2023-07-25T08:17:24-07:00"
+      locator: Native YouTube publishDate for zExQ1XLqnk8; source-offset calendar day 2023-07-25 (native offset day 2023-07-25; UTC day 2023-07-25)
+      accessed: '2026-11-26'

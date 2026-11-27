@@ -51,10 +51,12 @@ statements:
     qualifiers:
       role:
       - arranger
-  release date:
+  platform posting date:
   - value:
       date: '2024-01-06'
     references:
     - source: www.youtube.com-watch-v-swzjhmoc5vw
-      quote: '"uploadDate":"2024-01-06T09:23:53-08:00"'
-      accessed: '2026-11-08'
+      quote: |-
+        "publishDate":"2024-01-06T09:23:53-08:00"
+      locator: Native YouTube publishDate for Swzjhmoc5Vw; source-offset calendar day 2024-01-06 (native offset day 2024-01-06; UTC day 2024-01-06)
+      accessed: '2026-11-26'

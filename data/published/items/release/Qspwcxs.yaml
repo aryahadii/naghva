@@ -17,14 +17,6 @@ statements:
       quote: Tarhou Kamancheh Kouroh Babaei - Peter biffin
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2013-07-08'
-    references:
-    - source: youtu.be-vvv1r3_a98g
-      quote: '2013-07-08'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/Vvv1R3_a98g/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: Tarhou Kamancheh Kouroh Babaei - Peter biffin
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2013-07-08'
+    references:
+    - source: youtu.be-vvv1r3_a98g
+      quote: |-
+        "publishDate":"2013-07-08T07:29:35-07:00"
+      locator: Native YouTube publishDate for Vvv1R3_a98g; source-offset calendar day 2013-07-08 (native offset day 2013-07-08; UTC day 2013-07-08)
+      accessed: '2026-11-26'

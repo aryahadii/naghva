@@ -17,14 +17,6 @@ statements:
       quote: sung in Persian then recited in English
       accessed: 2026-11-21
       locator: Artist description of the NYPL performance
-  release date:
-  - value:
-      date: '2023-05-02'
-    references:
-    - source: youtu.be-_yeo6nxdxq4
-      quote: '2023-05-02'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/_YEO6nXDXQ4/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: RUMI on DANCING, via Haleh Liza Gafori at  New York Public Library
       accessed: 2026-11-21
       locator: Artist video title
+  platform posting date:
+  - value:
+      date: '2023-05-02'
+    references:
+    - source: youtu.be-_yeo6nxdxq4
+      quote: |-
+        "publishDate":"2023-05-01T18:06:26-07:00"
+      locator: Native YouTube publishDate for _YEO6nXDXQ4; UTC calendar day 2023-05-02 (native offset day 2023-05-01; UTC day 2023-05-02)
+      accessed: '2026-11-26'

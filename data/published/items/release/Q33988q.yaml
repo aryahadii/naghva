@@ -17,14 +17,6 @@ statements:
       quote: Who is Borderless Band?
       accessed: 2026-11-21
       locator: Artist identifies the ensemble
-  release date:
-  - value:
-      date: '2020-05-14'
-    references:
-    - source: youtu.be-fcl3dmebbow
-      quote: '2020-05-14'
-      accessed: 2026-11-21
-      locator: YouTube publication date
   listen link:
   - value: https://www.youtube.com/watch?v=fcL3DmEBBOw
     references:
@@ -39,3 +31,12 @@ statements:
       quote: Bani Adam بنی آدم
       accessed: 2026-11-21
       locator: Published film title
+  platform posting date:
+  - value:
+      date: '2020-05-14'
+    references:
+    - source: youtu.be-fcl3dmebbow
+      quote: |-
+        "publishDate":"2020-05-14T13:52:47-07:00"
+      locator: Native YouTube publishDate for fcL3DmEBBOw; source-offset calendar day 2020-05-14 (native offset day 2020-05-14; UTC day 2020-05-14)
+      accessed: '2026-11-26'

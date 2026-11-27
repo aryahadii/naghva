@@ -17,14 +17,6 @@ statements:
       quote: 'کوروش بابایی: کمانچه'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2025-09-22'
-    references:
-    - source: youtu.be-9_yzxe-t_ec
-      quote: '2025-09-22'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/9_yZXe-T_ec/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: قطعه خزان اثر استاد پرویز مشکاتیان اجرا گروه عارف تالار وحدت
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2025-09-22'
+    references:
+    - source: youtu.be-9_yzxe-t_ec
+      quote: |-
+        "publishDate":"2025-09-21T21:00:00-07:00"
+      locator: Native YouTube publishDate for 9_yZXe-T_ec; UTC calendar day 2025-09-22 (native offset day 2025-09-21; UTC day 2025-09-22)
+      accessed: '2026-11-26'

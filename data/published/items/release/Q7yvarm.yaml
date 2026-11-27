@@ -10,14 +10,6 @@ statements:
       quote: |-
         Variations on a Theme by Mozzart
       accessed: '2026-11-13'
-  release date:
-  - value:
-      date: '2021-08-17'
-    references:
-    - source: www.youtube.com-watch-v-4c_pgigotby
-      quote: |-
-        "publishDate":"2021-08-17T11:23:28-07:00"
-      accessed: '2026-11-13'
   performer:
   - value: Q2vwhg6
     references:
@@ -43,3 +35,12 @@ statements:
       quote: |-
         Variations on a Theme by Mozzart
       accessed: '2026-11-13'
+  platform posting date:
+  - value:
+      date: '2021-08-17'
+    references:
+    - source: www.youtube.com-watch-v-4c_pgigotby
+      quote: |-
+        "publishDate":"2021-08-17T11:23:28-07:00"
+      locator: Native YouTube publishDate for 4C_PgiGOtBY; source-offset calendar day 2021-08-17 (native offset day 2021-08-17; UTC day 2021-08-17)
+      accessed: '2026-11-26'

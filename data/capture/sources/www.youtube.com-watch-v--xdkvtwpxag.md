@@ -57,3 +57,15 @@ about:
 > Iris
 
 Video title, upload date from the watch page metadata, channel name (channel UCIWGFvwLZTBTqy0gk3PnV_Q) and description lines, read 2026-11-08.
+
+> "videoId":"-XDKVtWpxag"
+
+Native exact video identity, original read 2026-11-26.
+
+> "publishDate":"2025-12-12T21:18:40-08:00"
+
+Native platform publication timestamp, retaining its source UTC offset, original read 2026-11-26.
+
+Date-scope recheck: this native field dates publication of the exact linked
+YouTube clip, not a musical first issue or a performance. Preserve the existing
+chosen source-offset calendar day 2025-12-12 (native offset day 2025-12-12; UTC day 2025-12-13).

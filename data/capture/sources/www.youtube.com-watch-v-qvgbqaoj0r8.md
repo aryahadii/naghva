@@ -42,3 +42,11 @@ Page text, read 2026-11-13.
 Page text, read 2026-11-13.
 
 The published recording is 243 seconds. The artist credits Habib Meftah on percussion; the rock recording instead credits Daniel Adair on drums. Mixing and mastering credits are preserved here because the native role registry has no corresponding terms.
+
+> "videoId":"qvGBQaOJ0r8"
+
+Native exact video identity, original read 2026-11-26.
+
+Date-scope recheck: this native field dates publication of the exact linked
+YouTube clip, not a musical first issue or a performance. Preserve the existing
+chosen source-offset calendar day 2022-10-29 (native offset day 2022-10-29; UTC day 2022-10-29).

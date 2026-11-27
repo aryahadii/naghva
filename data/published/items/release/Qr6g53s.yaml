@@ -28,14 +28,6 @@ statements:
       quote: Gelareh Pour
       accessed: '2026-11-21'
       locator: Publishing channel
-  release date:
-  - value:
-      date: '2025-09-30'
-    references:
-    - source: www.youtube.com-watch-v-mib2l5xgjos
-      quote: '2025-09-30T18:25:24-07:00'
-      accessed: '2026-11-21'
-      locator: Upload timestamp
   cover art:
   - value: https://i.ytimg.com/vi/mIB2l5xGjos/maxresdefault.jpg
     qualifiers:
@@ -51,3 +43,12 @@ statements:
       quote: Gelareh Pour
       accessed: '2026-11-21'
       locator: Publishing channel
+  platform posting date:
+  - value:
+      date: '2025-09-30'
+    references:
+    - source: www.youtube.com-watch-v-mib2l5xgjos
+      quote: |-
+        "publishDate":"2025-09-30T18:25:24-07:00"
+      locator: Native YouTube publishDate for mIB2l5xGjos; source-offset calendar day 2025-09-30 (native offset day 2025-09-30; UTC day 2025-10-01)
+      accessed: '2026-11-26'

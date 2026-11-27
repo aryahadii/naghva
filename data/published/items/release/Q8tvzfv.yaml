@@ -17,14 +17,6 @@ statements:
       quote: 'کمانچه: کوروش بابایی'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2025-09-22'
-    references:
-    - source: youtu.be-h0fr4vvroz8
-      quote: '2025-09-22'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/H0fr4VVROZ8/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: باز هوای وطنم آرزوست - استاد شهرام ناظری و گروه سرواد تابستان ۲۰۲۴ آمریکا
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2025-09-22'
+    references:
+    - source: youtu.be-h0fr4vvroz8
+      quote: |-
+        "publishDate":"2025-09-21T18:54:11-07:00"
+      locator: Native YouTube publishDate for H0fr4VVROZ8; UTC calendar day 2025-09-22 (native offset day 2025-09-21; UTC day 2025-09-22)
+      accessed: '2026-11-26'

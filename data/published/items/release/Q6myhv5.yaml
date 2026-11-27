@@ -17,14 +17,6 @@ statements:
       quote: ' • آهنگساز، نوازنده کمانچه و سرپرست ارکستر: کوروش بابایی'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2025-12-26'
-    references:
-    - source: youtu.be-yeau9foowcs
-      quote: '2025-12-26'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/YEAU9FooWcs/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: 'Saghi - Kourosh Babaei | Reza Rokni ساقی - خواننده رضا رکنی- آهنگساز : کوروش بابایی'
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2025-12-26'
+    references:
+    - source: youtu.be-yeau9foowcs
+      quote: |-
+        "publishDate":"2025-12-26T09:11:29-08:00"
+      locator: Native YouTube publishDate for YEAU9FooWcs; source-offset calendar day 2025-12-26 (native offset day 2025-12-26; UTC day 2025-12-26)
+      accessed: '2026-11-26'

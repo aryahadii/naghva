@@ -27,14 +27,6 @@ statements:
   - value: https://www.youtube.com/watch?v=kCVg2S7k67I
     references:
     - *id001
-  release date:
-  - value:
-      date: '2014-07-19'
-    references:
-    - source: www.youtube.com-watch-v-kcvg2s7k67i-0ee504e0cb
-      quote: '2014-07-19T19:24:57-07:00'
-      accessed: '2026-11-13'
-      locator: Video publication timestamp, local calendar date
   cover art:
   - value: https://i.ytimg.com/vi/kCVg2S7k67I/hqdefault.jpg
     qualifiers:
@@ -46,3 +38,12 @@ statements:
       quote: https://i.ytimg.com/vi/kCVg2S7k67I/hqdefault.jpg
       accessed: '2026-11-13'
       locator: Video artwork
+  platform posting date:
+  - value:
+      date: '2014-07-19'
+    references:
+    - source: www.youtube.com-watch-v-kcvg2s7k67i-0ee504e0cb
+      quote: |-
+        "publishDate":"2014-07-19T19:24:57-07:00"
+      locator: Native YouTube publishDate for kCVg2S7k67I; source-offset calendar day 2014-07-19 (native offset day 2014-07-19; UTC day 2014-07-20)
+      accessed: '2026-11-26'

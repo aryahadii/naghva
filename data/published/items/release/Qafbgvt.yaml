@@ -40,12 +40,16 @@ statements:
       date: '2021-02-20'
     references:
     - source: soundcloud.com-sanin9000-ghami-ghamnak
-      quote: '"release_date":"2021-02-20T00:00:00Z"'
+      quote: |-
+        "release_date":"2021-02-20T00:00:00Z"
       accessed: '2026-11-08'
     rank: preferred
+  platform posting date:
   - value:
       date: '2021-02-26'
     references:
     - source: www.youtube.com-watch-v-gycitwvjyxg
-      quote: '"uploadDate":"2021-02-26T00:00:10-08:00"'
-      accessed: '2026-11-08'
+      quote: |-
+        "publishDate":"2021-02-26T00:00:10-08:00"
+      locator: Native YouTube publishDate for gycITWVJYxg; source-offset calendar day 2021-02-26 (native offset day 2021-02-26; UTC day 2021-02-26)
+      accessed: '2026-11-26'

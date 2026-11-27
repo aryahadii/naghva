@@ -18,14 +18,6 @@ statements:
         #هفت_دستگاه_موسیقی #kama'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2023-04-17'
-    references:
-    - source: youtu.be-zjcoh4-9yws
-      quote: '2023-04-17'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/ZJcOh4-9Yws/hqdefault.jpg
     references:
@@ -40,3 +32,12 @@ statements:
       quote: 7 Dastgah & 5 Avaz - Persian Traditional Music in 4:30 - هفت دستگاه و پنج آواز ایرانی در ۴:۳۰ کمانچه
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2023-04-17'
+    references:
+    - source: youtu.be-zjcoh4-9yws
+      quote: |-
+        "publishDate":"2023-04-16T21:28:55-07:00"
+      locator: Native YouTube publishDate for ZJcOh4-9Yws; UTC calendar day 2023-04-17 (native offset day 2023-04-16; UTC day 2023-04-17)
+      accessed: '2026-11-26'

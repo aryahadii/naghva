@@ -17,14 +17,6 @@ statements:
       quote: 'کورش بابایی: آهنگساز ، تنظیم، کمانچه'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2021-04-06'
-    references:
-    - source: youtu.be-andhejmemdw
-      quote: '2021-04-06'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/AndheJMEmDw/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: Bade Bahari - باد بهاری
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2021-04-06'
+    references:
+    - source: youtu.be-andhejmemdw
+      quote: |-
+        "publishDate":"2021-04-05T22:09:57-07:00"
+      locator: Native YouTube publishDate for AndheJMEmDw; UTC calendar day 2021-04-06 (native offset day 2021-04-05; UTC day 2021-04-06)
+      accessed: '2026-11-26'

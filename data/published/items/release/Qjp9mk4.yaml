@@ -17,14 +17,6 @@ statements:
       quote: '#KouroshBabaei Kourosh Babaei: #Kamancheh'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2020-11-19'
-    references:
-    - source: youtu.be-ohlyuo1yuxs
-      quote: '2020-11-19'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/OHlYuO1YUXs/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: 'Concert - #Chahargah #Honar_university 1374 - 1995  #KouroshBabaei کنسرت دستگاه چهارگاه دانشگاه هنر'
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2020-11-19'
+    references:
+    - source: youtu.be-ohlyuo1yuxs
+      quote: |-
+        "publishDate":"2020-11-19T14:48:06-08:00"
+      locator: Native YouTube publishDate for OHlYuO1YUXs; source-offset calendar day 2020-11-19 (native offset day 2020-11-19; UTC day 2020-11-19)
+      accessed: '2026-11-26'

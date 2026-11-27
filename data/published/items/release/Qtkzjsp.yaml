@@ -28,14 +28,6 @@ statements:
       quote: Gelareh Pour
       accessed: '2026-11-21'
       locator: Publishing channel
-  release date:
-  - value:
-      date: '2026-10-20'
-    references:
-    - source: www.youtube.com-watch-v-s8ofw5cxowu
-      quote: '2026-10-20T01:56:29-07:00'
-      accessed: '2026-11-21'
-      locator: Upload timestamp
   cover art:
   - value: https://i.ytimg.com/vi/S8ofw5cxowU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gNigTMA8=&rs=AOn4CLAeZZsJSH-M_cKx4IRUikNOHtpYzg
     qualifiers:
@@ -51,3 +43,12 @@ statements:
       quote: Gelareh Pour
       accessed: '2026-11-21'
       locator: Publishing channel
+  platform posting date:
+  - value:
+      date: '2026-10-20'
+    references:
+    - source: www.youtube.com-watch-v-s8ofw5cxowu
+      quote: |-
+        "publishDate":"2026-10-20T01:56:29-07:00"
+      locator: Native YouTube publishDate for S8ofw5cxowU; source-offset calendar day 2026-10-20 (native offset day 2026-10-20; UTC day 2026-10-20)
+      accessed: '2026-11-26'

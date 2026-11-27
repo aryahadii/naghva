@@ -9,13 +9,6 @@ statements:
     - source: www.youtube.com-watch-v-jwuriztoj28
       quote: ای کاش…
       accessed: '2026-11-13'
-  release date:
-  - value:
-      date: '2023-11-25'
-    references:
-    - source: www.youtube.com-watch-v-jwuriztoj28
-      quote: '"publishDate":"2023-11-25T12:04:27-08:00"'
-      accessed: '2026-11-13'
   performer:
   - value: Q2vwhg6
     references:
@@ -48,3 +41,12 @@ statements:
     - source: www.youtube.com-watch-v-jwuriztoj28
       quote: ای کاش…
       accessed: '2026-11-13'
+  platform posting date:
+  - value:
+      date: '2023-11-25'
+    references:
+    - source: www.youtube.com-watch-v-jwuriztoj28
+      quote: |-
+        "publishDate":"2023-11-25T12:04:27-08:00"
+      locator: Native YouTube publishDate for jWurIZtoJ28; source-offset calendar day 2023-11-25 (native offset day 2023-11-25; UTC day 2023-11-25)
+      accessed: '2026-11-26'

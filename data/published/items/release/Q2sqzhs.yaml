@@ -11,14 +11,6 @@ statements:
         a daf, a frame drum that is mostly used in Middle East and India.
       accessed: 2026-11-21
       locator: Presenter’s description
-  release date:
-  - value:
-      date: '2011-10-28'
-    references:
-    - source: youtu.be-bk9s4rztrea
-      quote: '2011-10-28'
-      accessed: 2026-11-21
-      locator: Native video publication date
   listen link:
   - value: https://youtu.be/Bk9S4rztrEA
     references:
@@ -46,3 +38,12 @@ statements:
         a daf, a frame drum that is mostly used in Middle East and India.
       accessed: 2026-11-21
       locator: Presenter’s description
+  platform posting date:
+  - value:
+      date: '2011-10-28'
+    references:
+    - source: youtu.be-bk9s4rztrea
+      quote: |-
+        "publishDate":"2011-10-27T18:01:09-07:00"
+      locator: Native YouTube publishDate for Bk9S4rztrEA; UTC calendar day 2011-10-28 (native offset day 2011-10-27; UTC day 2011-10-28)
+      accessed: '2026-11-26'

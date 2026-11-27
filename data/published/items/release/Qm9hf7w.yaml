@@ -49,14 +49,6 @@ statements:
       quote: Michael K. Harrist
       accessed: '2026-11-21'
       locator: Performance description personnel
-  release date:
-  - value:
-      date: '2024-08-02'
-    references:
-    - source: www.youtube.com-watch-v-c7u9x1q1jfa
-      quote: '2024-08-02'
-      accessed: '2026-11-21'
-      locator: YouTube publication date, player metadata
   listen link:
   - value: https://www.youtube.com/watch?v=C7u9X1Q1jfA
     references:
@@ -83,3 +75,12 @@ statements:
       quote: Labyrinth Musical Workshop Ontario
       accessed: '2026-11-21'
       locator: YouTube oEmbed uploader
+  platform posting date:
+  - value:
+      date: '2024-08-02'
+    references:
+    - source: www.youtube.com-watch-v-c7u9x1q1jfa
+      quote: |-
+        "publishDate":"2024-08-02T13:16:22-07:00"
+      locator: Native YouTube publishDate for C7u9X1Q1jfA; source-offset calendar day 2024-08-02 (native offset day 2024-08-02; UTC day 2024-08-02)
+      accessed: '2026-11-26'

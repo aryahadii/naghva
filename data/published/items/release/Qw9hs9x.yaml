@@ -12,14 +12,6 @@ statements:
         Music offices.
       accessed: 2026-11-21
       locator: Presenter’s description
-  release date:
-  - value:
-      date: '2011-11-28'
-    references:
-    - source: youtu.be-4cwij0tzpr4
-      quote: '2011-11-28'
-      accessed: 2026-11-21
-      locator: Native video publication date
   listen link:
   - value: https://youtu.be/4cwIj0tzPr4
     references:
@@ -50,3 +42,12 @@ statements:
         Music offices.
       accessed: 2026-11-21
       locator: Presenter’s description
+  platform posting date:
+  - value:
+      date: '2011-11-28'
+    references:
+    - source: youtu.be-4cwij0tzpr4
+      quote: |-
+        "publishDate":"2011-11-27T22:06:06-08:00"
+      locator: Native YouTube publishDate for 4cwIj0tzPr4; UTC calendar day 2011-11-28 (native offset day 2011-11-27; UTC day 2011-11-28)
+      accessed: '2026-11-26'

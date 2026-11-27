@@ -9,13 +9,6 @@ statements:
     - source: www.youtube.com-watch-v-1oifqnj7dh8
       quote: بند باز
       accessed: '2026-11-13'
-  release date:
-  - value:
-      date: '2024-02-09'
-    references:
-    - source: www.youtube.com-watch-v-1oifqnj7dh8
-      quote: '"publishDate":"2024-02-09T02:59:52-08:00"'
-      accessed: '2026-11-13'
   performer:
   - value: Q2vwhg6
     references:
@@ -45,3 +38,12 @@ statements:
     - source: www.youtube.com-watch-v-1oifqnj7dh8
       quote: بند باز
       accessed: '2026-11-13'
+  platform posting date:
+  - value:
+      date: '2024-02-09'
+    references:
+    - source: www.youtube.com-watch-v-1oifqnj7dh8
+      quote: |-
+        "publishDate":"2024-02-09T02:59:52-08:00"
+      locator: Native YouTube publishDate for 1oifqNJ7dh8; source-offset calendar day 2024-02-09 (native offset day 2024-02-09; UTC day 2024-02-09)
+      accessed: '2026-11-26'

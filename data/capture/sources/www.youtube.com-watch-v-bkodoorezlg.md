@@ -61,3 +61,11 @@ Page text, read 2026-11-13.
 The published recording is 339 seconds. The 2023 animated video is shorter (260 seconds) and is held as an unresolved edit; it is not substituted for this complete 2022 rock version.
 
 Wayback availability API queried2026-11-13; returned availableHTTP200snapshot 20230320203013. Snapshot contents were not reread.
+
+> "videoId":"BkODOOrEZLg"
+
+Native exact video identity, original read 2026-11-26.
+
+Date-scope recheck: this native field dates publication of the exact linked
+YouTube clip, not a musical first issue or a performance. Preserve the existing
+chosen source-offset calendar day 2022-10-14 (native offset day 2022-10-14; UTC day 2022-10-14).

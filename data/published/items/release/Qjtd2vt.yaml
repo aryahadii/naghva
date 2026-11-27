@@ -17,14 +17,6 @@ statements:
       quote: 'کوروش بابایی: کمانچه'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2024-05-10'
-    references:
-    - source: youtu.be-jcmaqgz5xmm
-      quote: '2024-05-10'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/jCmaqgZ5XmM/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: آخرین کنسرت تور اول آمریکا استاد شهرام ناظری و گروه سرواد
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2024-05-10'
+    references:
+    - source: youtu.be-jcmaqgz5xmm
+      quote: |-
+        "publishDate":"2024-05-09T20:10:36-07:00"
+      locator: Native YouTube publishDate for jCmaqgZ5XmM; UTC calendar day 2024-05-10 (native offset day 2024-05-09; UTC day 2024-05-10)
+      accessed: '2026-11-26'

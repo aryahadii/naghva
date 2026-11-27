@@ -9,13 +9,6 @@ statements:
     - source: www.youtube.com-watch-v-hj3amoiuj8k
       quote: دیوانه
       accessed: '2026-11-13'
-  release date:
-  - value:
-      date: '2024-03-09'
-    references:
-    - source: www.youtube.com-watch-v-hj3amoiuj8k
-      quote: '"publishDate":"2024-03-09T01:11:04-08:00"'
-      accessed: '2026-11-13'
   performer:
   - value: Q93kt5y
     references:
@@ -56,3 +49,12 @@ statements:
     - source: www.youtube.com-watch-v-hj3amoiuj8k
       quote: دیوانه
       accessed: '2026-11-13'
+  platform posting date:
+  - value:
+      date: '2024-03-09'
+    references:
+    - source: www.youtube.com-watch-v-hj3amoiuj8k
+      quote: |-
+        "publishDate":"2024-03-09T01:11:04-08:00"
+      locator: Native YouTube publishDate for HJ3amoiuj8k; source-offset calendar day 2024-03-09 (native offset day 2024-03-09; UTC day 2024-03-09)
+      accessed: '2026-11-26'

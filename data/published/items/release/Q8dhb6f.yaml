@@ -23,14 +23,6 @@ statements:
       quote: 'Kourosh Babaei: #kamancheh '
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2023-05-29'
-    references:
-    - source: youtu.be-fncbngbtnjc
-      quote: '2023-05-29'
-      accessed: 2026-11-21
-      locator: YouTube publication date
   listen link:
   - value: https://www.youtube.com/watch?v=FNcBnGbtnjc
     references:
@@ -45,3 +37,12 @@ statements:
       quote: Trio - Borderless Band - Nava | Improvisation سه نوازی کمانچه، عود، تار
       accessed: 2026-11-21
       locator: Published film title
+  platform posting date:
+  - value:
+      date: '2023-05-29'
+    references:
+    - source: youtu.be-fncbngbtnjc
+      quote: |-
+        "publishDate":"2023-05-29T08:16:14-07:00"
+      locator: Native YouTube publishDate for FNcBnGbtnjc; source-offset calendar day 2023-05-29 (native offset day 2023-05-29; UTC day 2023-05-29)
+      accessed: '2026-11-26'
