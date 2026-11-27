@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2026-07-15'
     references:
-    - source: music.apple.com-us-album-renew-old-songs-6784343906
-      quote: '2026-07-15'
-      accessed: 2026-11-21
-      locator: Edition release date
+    - source: music.apple.com-us-song-hal-ke-divaneh-shodam-6784343916
+      quote: '"datePublished":"2026-07-15"'
+      locator: application/ld+json.audio exact MusicRecording 6784343916 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   performer:
   - value: Q3v55f7
     references:

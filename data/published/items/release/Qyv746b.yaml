@@ -42,10 +42,10 @@ statements:
   - value:
       date: '2025-05-15'
     references:
-    - source: music.apple.com-us-album-sheydayi-feat-pedram-khavarzamini-1853913337
-      quote: '2025-05-15'
-      accessed: '2026-11-21'
-      locator: Apple Music edition issue date
+    - source: music.apple.com-us-song-goli-jan-feat-pedram-khavarzamini-1853913343
+      quote: '"datePublished":"2025-05-15"'
+      locator: application/ld+json.audio exact MusicRecording 1853913343 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/52/15/5a521506-91e6-29ad-779d-04ca97eae7d4/199900026415.jpg/1200x630bb.jpg
     qualifiers:

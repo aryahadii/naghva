@@ -34,10 +34,10 @@ statements:
   - value:
       date: '2026-09-18'
     references:
-    - source: music.apple.com-us-album-susa-6811038940
-      quote: '2026-09-18'
-      accessed: '2026-11-21'
-      locator: Digital edition release
+    - source: music.apple.com-us-song-mobarak-6811038963
+      quote: '"datePublished":"2026-09-18"'
+      locator: application/ld+json.audio exact MusicRecording 6811038963 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   listen link:
   - value: https://music.apple.com/us/song/mobarak/6811038963
     references:

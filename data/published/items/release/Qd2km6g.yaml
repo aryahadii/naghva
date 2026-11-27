@@ -79,10 +79,10 @@ statements:
   - value:
       date: '2025-11-22'
     references:
-    - source: music.apple.com-us-album-jane-hazin-1858465428
-      quote: '2025-11-22'
-      accessed: '2026-11-21'
-      locator: Apple Music edition issue date
+    - source: music.apple.com-us-song-jane-hazin-1858465636
+      quote: '"datePublished":"2025-11-22"'
+      locator: application/ld+json.audio exact MusicRecording 1858465636 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/67/e4/60/67e460da-2ace-e179-27cb-e186b8fd6367/199806540077.jpg/1200x630bb.jpg
     qualifiers:

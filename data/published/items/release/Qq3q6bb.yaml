@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2018-01-01'
     references:
-    - source: quartetdiminished.bandcamp.com-album-station-two
-      quote: released January 1, 2018
-      accessed: 2026-11-21
-      locator: Release date
+    - source: music.apple.com-us-song-cluster-1749103636
+      quote: '"datePublished":"2018-01-01"'
+      locator: application/ld+json.audio exact MusicRecording 1749103636 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   performer:
   - value: Qh8f5qv
     references:

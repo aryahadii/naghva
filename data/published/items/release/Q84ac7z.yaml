@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2020-10-09'
     references:
-    - source: music.apple.com-at-album-on-boit-lumumba-1533160744
-      quote: '2020-10-09'
-      accessed: 2026-11-21
-      locator: Digital issue date
+    - source: music.apple.com-at-song-lhistoire-dun-fleuve-pt-3-1533160993
+      quote: '"datePublished":"2020-10-09"'
+      locator: application/ld+json.audio exact MusicRecording 1533160993 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ef/e2/5c/efe25c92-f5ca-bf84-fc32-4e0287e75467/730099047852.jpg/1200x630bb.jpg
     references:
