@@ -14,9 +14,11 @@ statements:
   - value: compilation
     references:
     - source: davidsait.bandcamp.com-album-sixty-interpretations-of-sixty-seconds
-      quote: Sixty Interpretations of Sixty Seconds | Various Artists | David Sait
-      accessed: '2026-11-21'
-      locator: Publisher page title
+      quote: makes this compilation an extremely exciting listen.
+      accessed: '2026-11-27'
+      locator: Own data-tralbum.current.about compilation sentence, product 112100480; verified current page and declared
+        actual snapshot https://web.archive.org/web/20250620155410/https://davidsait.bandcamp.com/album/sixty-interpretations-of-sixty-seconds.
+        No generic album wrapper inference.
   release date:
   - value:
       date: '2010-08-04'

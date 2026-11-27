@@ -47,10 +47,12 @@ statements:
   release type:
   - value: album
     references:
-    - source: music.apple.com-us-album-saali-n-c3-b3-1054128162
-      quote: Saali Nó · Golbang · 2003-01-01
-      accessed: 2026-11-21
-      locator: Album billing and date
+    - source: open.spotify.com-album-3xzoraahhnjaeyb6t1oqnx
+      quote: '"album_type":"album"'
+      accessed: '2026-11-27'
+      locator: Archived actual snapshot https://web.archive.org/web/20190921042033/https://open.spotify.com/album/3XzoRAaHhnjAeYB6T1oqnX;
+        Spotify.Entity own product 3XzoRAaHhnjAeYB6T1oqnX album_type (2019 literal JSON); current ALBUM enum separately
+        verified.
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music19/v4/5d/8d/5d/5d8d5de2-bb1a-338d-24a4-85717f946ae9/mzm.imwkbkmf.jpg/1200x630bb.jpg
     references:

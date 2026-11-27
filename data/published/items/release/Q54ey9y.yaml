@@ -47,10 +47,13 @@ statements:
   release type:
   - value: album
     references:
-    - source: music.apple.com-us-album-serene-hope-1224189811
-      quote: Serene Hope · Marjan Vahdat · 2017-04-28
-      accessed: 2026-11-21
-      locator: Album artist and issue date
+    - source: open.spotify.com-album-6ywcpasvrrm6xpdhpqj20o
+      quote: '"description":"Listen to Serene Hope on Spotify \u00B7 Album \u00B7 Marjan Vahdat \u00B7 2017 \u00B7 10
+        songs"'
+      accessed: '2026-11-27'
+      locator: Archived actual snapshot https://web.archive.org/web/20250725085327/https://open.spotify.com/album/6ywCpASvRrm6xPdHpqJ20O;
+        own JSON-LD description explicitly labels Serene Hope Album. Current ALBUM enum verified separately; generic
+        MusicAlbum wrapper not format evidence.
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/59/67/ad/5967ad55-22b8-5fb6-4c17-4424f0b5d0eb/cover.jpg/1200x630bb.jpg
     references:

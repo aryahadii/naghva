@@ -54,7 +54,9 @@ statements:
   release type:
   - value: album
     references:
-    - source: music.apple.com-de-album-sarmast-intoxicated-204644229
-      quote: Sarmast (Intoxicated)
-      accessed: 2026-11-21
-      locator: Native title
+    - source: open.spotify.com-album-5fbxrcw5xqmzvlxbut3hhg
+      quote: '"album_type":"album"'
+      accessed: '2026-11-27'
+      locator: Archived actual snapshot https://web.archive.org/web/20190824025731/https://open.spotify.com/album/5fBxrcw5XQMzVLXBUT3HHG;
+        Spotify.Entity own product 5fBxrcw5XQMzVLXBUT3HHG album_type (2019 literal JSON); current ALBUM enum separately
+        verified.
