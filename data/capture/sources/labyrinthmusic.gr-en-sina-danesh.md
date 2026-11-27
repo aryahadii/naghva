@@ -50,3 +50,11 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > born in 1987 in Qa’em-Shahr
+
+> Group Albums: • "Evocation of the Beloved" (Yād-e Yār) – Ensemble performance with Varshān, directed by Mehrdād Ālami
+
+Personal CV, Group Albums entry, original read 2026-11-26.
+
+This passage supports participation/billing and the edition identity. It
+does not specify the performed instrument on the exact recording. Later
+edition personnel are not transferred to an earlier recording.
