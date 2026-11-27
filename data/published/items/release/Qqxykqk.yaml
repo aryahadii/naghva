@@ -82,12 +82,16 @@ statements:
       quote: October 30, 2023
       accessed: '2026-11-08'
     - source: open.spotify.com-album-0ddmrm0kcezcpu1d3tva7c
-      quote: name="music:release_date" content="2023-10-30"
+      quote: |-
+        name="music:release_date" content="2023-10-30"
       accessed: '2026-11-08'
     rank: preferred
+  platform posting date:
   - value:
       date: '2023-11-01'
     references:
     - source: www.youtube.com-watch-v-ffhwzsbgyls
-      quote: '"uploadDate":"2023-11-01T03:49:31-07:00"'
-      accessed: '2026-11-08'
+      quote: |-
+        "publishDate":"2023-11-01T03:49:31-07:00"
+      locator: Native YouTube publishDate for FfHwzSBGYLs; source-offset calendar day 2023-11-01 (native offset day 2023-11-01; UTC day 2023-11-01)
+      accessed: '2026-11-26'

@@ -17,14 +17,6 @@ statements:
       quote: 'تهیه و تنظیم ، نوازنده کمانچه و سرپرست ارکستر : کوروش بابایی'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2025-12-30'
-    references:
-    - source: youtu.be-nl9qmembetk
-      quote: '2025-12-30'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/nl9QMEMbetk/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: Layli Gilaki - Mandana Khazraei - Kourosh Babaei  لیلی - گیلکی ماندانا خضرایی - موسیقی کوروش بابایی
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2025-12-30'
+    references:
+    - source: youtu.be-nl9qmembetk
+      quote: |-
+        "publishDate":"2025-12-30T11:16:35-08:00"
+      locator: Native YouTube publishDate for nl9QMEMbetk; source-offset calendar day 2025-12-30 (native offset day 2025-12-30; UTC day 2025-12-30)
+      accessed: '2026-11-26'

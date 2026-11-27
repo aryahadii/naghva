@@ -21,19 +21,16 @@ statements:
       date: '2022-02-01'
     references:
     - source: soundcloud.com-sanin9000-to-bordi
-      quote: '"release_date":"2022-02-01T00:00:00Z"'
+      quote: |-
+        "release_date":"2022-02-01T00:00:00Z"
       accessed: '2026-11-08'
     - source: soundcloud.com-sanin9000-khelghat
-      quote: '"release_date":"2022-02-01T00:00:00Z"'
+      quote: |-
+        "release_date":"2022-02-01T00:00:00Z"
       accessed: '2026-11-08'
     - source: soundcloud.com-sanin9000-yek-shab
-      quote: '"release_date":"2022-02-01T00:00:00Z"'
-      accessed: '2026-11-08'
-  - value:
-      date: '2022-02-03'
-    references:
-    - source: www.youtube.com-watch-v-fdqydizdyji
-      quote: '"uploadDate":"2022-02-03T20:30:09-08:00"'
+      quote: |-
+        "release_date":"2022-02-01T00:00:00Z"
       accessed: '2026-11-08'
   release type:
   - value: single
@@ -115,3 +112,12 @@ statements:
     qualifiers:
       role:
       - lyricist
+  platform posting date:
+  - value:
+      date: '2022-02-03'
+    references:
+    - source: www.youtube.com-watch-v-fdqydizdyji
+      quote: |-
+        "publishDate":"2022-02-03T20:30:09-08:00"
+      locator: Native YouTube publishDate for fdQydIZDyjI; source-offset calendar day 2022-02-03 (native offset day 2022-02-03; UTC day 2022-02-04)
+      accessed: '2026-11-26'

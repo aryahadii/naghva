@@ -26,14 +26,6 @@ statements:
       quote: Fronted by the powerful Nina Saeidi
       accessed: 2026-11-21
       locator: Vocalist identified by festival
-  release date:
-  - value:
-      date: '2026-06-03'
-    references:
-    - source: youtu.be-ll0ytpvciio
-      quote: '2026-06-03'
-      accessed: 2026-11-21
-      locator: Film publication date
   cover art:
   - value: https://i.ytimg.com/vi/Ll0ytpVcIio/hqdefault.jpg
     references:
@@ -48,3 +40,12 @@ statements:
       quote: 🔥 LOWEN Bring Middle Eastern Metal Magic to Bloodstock 2025 🤘 | Live at Sophie Lancaster Stage
       accessed: 2026-11-21
       locator: Festival film title
+  platform posting date:
+  - value:
+      date: '2026-06-03'
+    references:
+    - source: youtu.be-ll0ytpvciio
+      quote: |-
+        "publishDate":"2026-06-03T10:00:08-07:00"
+      locator: Native YouTube publishDate for Ll0ytpVcIio; source-offset calendar day 2026-06-03 (native offset day 2026-06-03; UTC day 2026-06-03)
+      accessed: '2026-11-26'

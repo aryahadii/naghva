@@ -47,11 +47,12 @@ statements:
       quote: kiyarash davoudi
       accessed: '2026-11-21'
       locator: Original uploader
-  release date:
+  platform posting date:
   - value:
       date: '2024-01-06'
     references:
     - source: www.youtube.com-watch-v-ahwyebce__g
-      quote: '2024-01-06'
-      accessed: '2026-11-21'
-      locator: Official YouTube channel feed, upload date
+      quote: |-
+        "publishDate":"2024-01-06T12:17:58-08:00"
+      locator: Native YouTube publishDate for aHWyEBCe__g; source-offset calendar day 2024-01-06 (native offset day 2024-01-06; UTC day 2024-01-06)
+      accessed: '2026-11-26'

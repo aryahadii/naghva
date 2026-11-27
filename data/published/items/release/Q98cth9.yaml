@@ -28,14 +28,6 @@ statements:
       quote: Mitra Sumara "Kofriam" live
       accessed: '2026-11-21'
       locator: Official video title
-  release date:
-  - value:
-      date: '2018-07-08'
-    references:
-    - source: www.youtube.com-watchv-1tcj79r5rqg
-      quote: '20180708'
-      accessed: '2026-11-21'
-      locator: YouTube publication date (YYYYMMDD)
   cover art:
   - value: https://i.ytimg.com/vi_webp/1tcj79r5Rqg/maxresdefault.webp
     references:
@@ -47,3 +39,12 @@ statements:
       credit:
         text: Mitra Sumara, via YouTube
         language: en
+  platform posting date:
+  - value:
+      date: '2018-07-08'
+    references:
+    - source: www.youtube.com-watchv-1tcj79r5rqg
+      quote: |-
+        "publishDate":"2018-07-08T12:50:47-07:00"
+      locator: Native YouTube publishDate for 1tcj79r5Rqg; source-offset calendar day 2018-07-08 (native offset day 2018-07-08; UTC day 2018-07-08)
+      accessed: '2026-11-26'

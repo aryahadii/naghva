@@ -18,14 +18,6 @@ statements:
       quote: 'Music : Temp-Illusion'
       locator: Performance credits
       accessed: '2026-11-21'
-  release date:
-  - value:
-      date: '2024-01-20'
-    references:
-    - source: youtube.com-watch-v-xhwkwoqaqk4
-      quote: '2024-01-20T09:57:24-08:00'
-      locator: Video publication metadata
-      accessed: '2026-11-21'
   listen link:
   - value: https://www.youtube.com/watch?v=xHWKwoqaqK4
     references:
@@ -41,3 +33,12 @@ statements:
       credit:
         text: Amir B. Ash on YouTube
         language: en
+  platform posting date:
+  - value:
+      date: '2024-01-20'
+    references:
+    - source: youtube.com-watch-v-xhwkwoqaqk4
+      quote: |-
+        "publishDate":"2024-01-20T09:57:24-08:00"
+      locator: Native YouTube publishDate for xHWKwoqaqK4; source-offset calendar day 2024-01-20 (native offset day 2024-01-20; UTC day 2024-01-20)
+      accessed: '2026-11-26'

@@ -47,3 +47,11 @@ playerMicroformatRenderer publication metadata; recording upload, not the live p
 Official video thumbnail, same published recording image; whole frame inspected. Read 2026-11-13.
 
 Only the artist-authored description and structured page metadata were used; no spoken testimony or interview transcription is claimed. Full written description inspected, including engineering and video credits. Those roles are not forced into unsupported structured role terms. Music-video and audio-edition dates remain distinct in source findings; where they differ by days the public recording uses year precision.
+
+> "videoId":"GjM_Mzz9OEs"
+
+Native exact video identity, original read 2026-11-26.
+
+Date-scope recheck: this native field dates publication of the exact linked
+YouTube clip, not a musical first issue or a performance. Preserve the existing
+chosen source-offset calendar day 2024-09-26 (native offset day 2024-09-26; UTC day 2024-09-26).

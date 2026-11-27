@@ -19,14 +19,6 @@ statements:
       quote: Pishdaramad Abu Ata, By Ostad Ali Asghar Bahari
       accessed: '2026-11-21'
       locator: YouTube oEmbed title
-  release date:
-  - value:
-      date: '2021-03-05'
-    references:
-    - source: www.youtube.com-watch-v-tw3kosgnbzw
-      quote: '2021-03-05'
-      accessed: '2026-11-21'
-      locator: Official artist YouTube feed upload date
   listen link:
   - value: https://www.youtube.com/watch?v=tw3KoSgnBZw
     references:
@@ -62,3 +54,12 @@ statements:
       quote: By Ostad Ali Asghar Bahari
       accessed: '2026-11-21'
       locator: Composition or arrangement credit
+  platform posting date:
+  - value:
+      date: '2021-03-05'
+    references:
+    - source: www.youtube.com-watch-v-tw3kosgnbzw
+      quote: |-
+        "publishDate":"2021-03-05T10:02:13-08:00"
+      locator: Native YouTube publishDate for tw3KoSgnBZw; source-offset calendar day 2021-03-05 (native offset day 2021-03-05; UTC day 2021-03-05)
+      accessed: '2026-11-26'

@@ -17,14 +17,6 @@ statements:
       quote: Roqe Moment - Kourosh Babaei - Shahkaman - improvisation and “Eastern memories” Live in Roqe Studio.
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2023-03-13'
-    references:
-    - source: youtu.be-jxkrrhed6d4
-      quote: '2023-03-13'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/JXKRRHED6d4/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: Roqe Moment - Kourosh Babaei - Shahkaman - improvisation and “Eastern memories” Live in Roqe Studio.
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2023-03-13'
+    references:
+    - source: youtu.be-jxkrrhed6d4
+      quote: |-
+        "publishDate":"2023-03-13T10:27:09-07:00"
+      locator: Native YouTube publishDate for JXKRRHED6d4; source-offset calendar day 2023-03-13 (native offset day 2023-03-13; UTC day 2023-03-13)
+      accessed: '2026-11-26'

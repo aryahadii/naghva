@@ -9,13 +9,6 @@ statements:
     - source: www.youtube.com-watch-v-cqcgjxtoiuk
       quote: گربه و ماهی
       accessed: '2026-11-13'
-  release date:
-  - value:
-      date: '2018-08-02'
-    references:
-    - source: www.youtube.com-watch-v-cqcgjxtoiuk
-      quote: '"publishDate":"2018-08-02T10:46:41-07:00"'
-      accessed: '2026-11-13'
   performer:
   - value: Q2vwhg6
     qualifiers:
@@ -53,3 +46,12 @@ statements:
     - source: www.youtube.com-watch-v-cqcgjxtoiuk
       quote: گربه و ماهی
       accessed: '2026-11-13'
+  platform posting date:
+  - value:
+      date: '2018-08-02'
+    references:
+    - source: www.youtube.com-watch-v-cqcgjxtoiuk
+      quote: |-
+        "publishDate":"2018-08-02T10:46:41-07:00"
+      locator: Native YouTube publishDate for CqcGJxTOiUk; source-offset calendar day 2018-08-02 (native offset day 2018-08-02; UTC day 2018-08-02)
+      accessed: '2026-11-26'

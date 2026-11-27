@@ -19,14 +19,6 @@ statements:
       quote: '"Naghsh-e Jahan" (Ehsan Matoori)'
       accessed: 2026-11-21
       locator: Publisher’s credit
-  release date:
-  - value:
-      date: '2018-10-03'
-    references:
-    - source: youtu.be-1zeerkpzxu0
-      quote: '2018-10-03'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/1ZEERKpzXu0/hqdefault.jpg
     references:
@@ -41,3 +33,12 @@ statements:
       quote: '"Naghsh-e Jahan"/"Snowman" at GMW 2018'
       accessed: 2026-11-21
       locator: Film title
+  platform posting date:
+  - value:
+      date: '2018-10-03'
+    references:
+    - source: youtu.be-1zeerkpzxu0
+      quote: |-
+        "publishDate":"2018-10-03T09:04:44-07:00"
+      locator: Native YouTube publishDate for 1ZEERKpzXu0; source-offset calendar day 2018-10-03 (native offset day 2018-10-03; UTC day 2018-10-03)
+      accessed: '2026-11-26'

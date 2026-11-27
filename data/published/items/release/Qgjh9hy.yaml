@@ -17,14 +17,6 @@ statements:
       quote: ' • آهنگساز، نوازنده کمانچه و سرپرست ارکستر: کوروش بابایی'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2025-12-23'
-    references:
-    - source: youtu.be-jow4xlkcmus
-      quote: '2025-12-23'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/Jow4XLKCMus/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: Gelavij - Golafshan  گِلآویژ گل افشان - کوروش بابایی - رضا رکنی - بنفشه صادقی
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2025-12-23'
+    references:
+    - source: youtu.be-jow4xlkcmus
+      quote: |-
+        "publishDate":"2025-12-23T08:24:57-08:00"
+      locator: Native YouTube publishDate for Jow4XLKCMus; source-offset calendar day 2025-12-23 (native offset day 2025-12-23; UTC day 2025-12-23)
+      accessed: '2026-11-26'

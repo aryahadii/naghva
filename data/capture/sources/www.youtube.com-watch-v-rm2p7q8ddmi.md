@@ -37,3 +37,17 @@ Original video thumbnail, read 2026-11-21.
 > Gelareh Pour
 
 Publishing channel, read 2026-11-21.
+
+> "videoId":"rm2P7q8dDmI"
+
+Native exact video identity, original read 2026-11-26.
+
+> "publishDate":"2021-09-09T03:28:39-07:00"
+
+Native platform publication timestamp, retaining its source UTC offset, original read 2026-11-26.
+
+Date-scope recheck: this native field dates publication of the exact linked
+YouTube clip, not a musical first issue or a performance. Preserve the existing
+chosen source-offset calendar day 2021-09-09 (native offset day 2021-09-09; UTC day 2021-09-09).
+Uploader authority remains unresolved. This timestamp is platform metadata;
+it does not establish that the account belongs to an artist or label.

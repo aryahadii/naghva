@@ -49,14 +49,6 @@ statements:
       quote: Kelly Thoma
       accessed: '2026-11-21'
       locator: Performance description personnel
-  release date:
-  - value:
-      date: '2018-08-01'
-    references:
-    - source: www.youtube.com-watch-v-x6tfl0yvdvy
-      quote: '2018-08-01'
-      accessed: '2026-11-21'
-      locator: YouTube publication date, player metadata
   listen link:
   - value: https://www.youtube.com/watch?v=x6tFL0yvDvY
     references:
@@ -83,3 +75,12 @@ statements:
       quote: Labyrinth Musical Workshop Ontario
       accessed: '2026-11-21'
       locator: YouTube oEmbed uploader
+  platform posting date:
+  - value:
+      date: '2018-08-01'
+    references:
+    - source: www.youtube.com-watch-v-x6tfl0yvdvy
+      quote: |-
+        "publishDate":"2018-08-01T20:43:05-07:00"
+      locator: Native YouTube publishDate for x6tFL0yvDvY; source-offset calendar day 2018-08-01 (native offset day 2018-08-01; UTC day 2018-08-02)
+      accessed: '2026-11-26'

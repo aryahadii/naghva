@@ -17,14 +17,6 @@ statements:
       quote: 'کمانچه و سرپرست گروه : کوروش بابایی'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2026-01-18'
-    references:
-    - source: youtu.be-bqgnfu4rnqo
-      quote: '2026-01-18'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/bqgnFu4Rnqo/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: '#tvshow  #music #موسیقی شو تلوزیونی یکساعته موسیقی - ماندانا خضرایی - رضا رکنی - تارا - کوروش بابایی'
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2026-01-18'
+    references:
+    - source: youtu.be-bqgnfu4rnqo
+      quote: |-
+        "publishDate":"2026-01-17T16:09:26-08:00"
+      locator: Native YouTube publishDate for bqgnFu4Rnqo; UTC calendar day 2026-01-18 (native offset day 2026-01-17; UTC day 2026-01-18)
+      accessed: '2026-11-26'

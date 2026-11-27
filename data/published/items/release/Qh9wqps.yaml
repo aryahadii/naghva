@@ -24,14 +24,6 @@ statements:
       quote: 'Classic Persian Pop: Mitra Sumara'
       accessed: '2026-11-21'
       locator: Official video title
-  release date:
-  - value:
-      date: '2015-07-22'
-    references:
-    - source: www.youtube.com-watchv-vu9tm6h3rfc
-      quote: '20150722'
-      accessed: '2026-11-21'
-      locator: YouTube publication date (YYYYMMDD)
   cover art:
   - value: https://i.ytimg.com/vi/vu9tm6H3RFc/hqdefault.jpg
     references:
@@ -43,3 +35,12 @@ statements:
       credit:
         text: Smithsonian National Museum of Asian Art, via YouTube
         language: en
+  platform posting date:
+  - value:
+      date: '2015-07-22'
+    references:
+    - source: www.youtube.com-watchv-vu9tm6h3rfc
+      quote: |-
+        "publishDate":"2015-07-22T10:58:47-07:00"
+      locator: Native YouTube publishDate for vu9tm6H3RFc; source-offset calendar day 2015-07-22 (native offset day 2015-07-22; UTC day 2015-07-22)
+      accessed: '2026-11-26'

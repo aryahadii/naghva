@@ -17,14 +17,6 @@ statements:
       quote: 'آهنگساز، نوازنده کمانچه و سرپرست ارکستر : کوروش بابایی'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2025-12-29'
-    references:
-    - source: youtu.be-ag7fnw4zhgo
-      quote: '2025-12-29'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/Ag7FnW4zhGo/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: Shahre Setareh- Kourosh Babaei - Mandana Khazraee شهر ستاره بارون - کوروش بابایی - ماندانا خضرایی
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2025-12-29'
+    references:
+    - source: youtu.be-ag7fnw4zhgo
+      quote: |-
+        "publishDate":"2025-12-29T08:24:08-08:00"
+      locator: Native YouTube publishDate for Ag7FnW4zhGo; source-offset calendar day 2025-12-29 (native offset day 2025-12-29; UTC day 2025-12-29)
+      accessed: '2026-11-26'

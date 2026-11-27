@@ -35,3 +35,13 @@ Page text, read 2026-11-13.
 Page text, read 2026-11-13.
 
 Wayback availability API queried 2026-11-13; returned available HTTP-200 snapshot 20240227134556. Snapshot contents were not reread.
+
+> "videoId":"jwdTfr0JbJg"
+
+Native exact video identity, original read 2026-11-26.
+
+Date-scope recheck: this native field dates publication of the exact linked
+YouTube clip, not a musical first issue or a performance. Preserve the existing
+chosen source-offset calendar day 2023-11-29 (native offset day 2023-11-29; UTC day 2023-11-29).
+Uploader authority remains unresolved. This timestamp is platform metadata;
+it does not establish that the account belongs to an artist or label.

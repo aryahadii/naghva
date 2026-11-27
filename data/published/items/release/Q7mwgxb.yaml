@@ -10,14 +10,6 @@ statements:
       quote: |-
         II  Largo
       accessed: '2026-11-13'
-  release date:
-  - value:
-      date: '2021-08-17'
-    references:
-    - source: www.youtube.com-watch-v-llvd_n67inu
-      quote: |-
-        "publishDate":"2021-08-17T11:57:48-07:00"
-      accessed: '2026-11-13'
   performer:
   - value: Q2vwhg6
     references:
@@ -43,3 +35,12 @@ statements:
       quote: |-
         II  Largo
       accessed: '2026-11-13'
+  platform posting date:
+  - value:
+      date: '2021-08-17'
+    references:
+    - source: www.youtube.com-watch-v-llvd_n67inu
+      quote: |-
+        "publishDate":"2021-08-17T11:57:48-07:00"
+      locator: Native YouTube publishDate for lLVD_N67iNU; source-offset calendar day 2021-08-17 (native offset day 2021-08-17; UTC day 2021-08-17)
+      accessed: '2026-11-26'

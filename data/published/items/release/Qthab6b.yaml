@@ -10,14 +10,6 @@ statements:
       quote: |-
         Marde Ankabouti (Acoustic)
       accessed: '2026-11-13'
-  release date:
-  - value:
-      date: '2022-10-29'
-    references:
-    - source: www.youtube.com-watch-v-qvgbqaoj0r8
-      quote: |-
-        "publishDate":"2022-10-29T15:17:06-07:00"
-      accessed: '2026-11-13'
   performer:
   - value: Qcbarbs
     qualifiers:
@@ -80,3 +72,12 @@ statements:
       quote: |-
         Marde Ankabouti (Acoustic)
       accessed: '2026-11-13'
+  platform posting date:
+  - value:
+      date: '2022-10-29'
+    references:
+    - source: www.youtube.com-watch-v-qvgbqaoj0r8
+      quote: |-
+        "publishDate":"2022-10-29T15:17:06-07:00"
+      locator: Native YouTube publishDate for qvGBQaOJ0r8; source-offset calendar day 2022-10-29 (native offset day 2022-10-29; UTC day 2022-10-29)
+      accessed: '2026-11-26'

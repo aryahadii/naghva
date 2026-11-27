@@ -17,14 +17,6 @@ statements:
       quote: 'Kamancheh Solo: Kourosh Babaei - Vocal Solo: Mahdieh Mohammadkhani Sorvad Ensemble Atlanta May 2025 '
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2025-08-17'
-    references:
-    - source: youtu.be-gel6tvalpbu
-      quote: '2025-08-17'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/Gel6TVAlPBU/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: 'Kamancheh Solo: Kourosh Babaei - Vocal Solo: Mahdieh Mohammadkhani Sorvad Ensemble Atlanta 2025'
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2025-08-17'
+    references:
+    - source: youtu.be-gel6tvalpbu
+      quote: |-
+        "publishDate":"2025-08-17T12:55:46-07:00"
+      locator: Native YouTube publishDate for Gel6TVAlPBU; source-offset calendar day 2025-08-17 (native offset day 2025-08-17; UTC day 2025-08-17)
+      accessed: '2026-11-26'

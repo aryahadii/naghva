@@ -54,3 +54,15 @@ about:
 > افسوس من از فرداست که نبود و نیست
 
 Video title, upload date from the watch page metadata, channel name (channel UCIWGFvwLZTBTqy0gk3PnV_Q) and description lines, read 2026-11-08.
+
+> "videoId":"UNEv8GVYQ2E"
+
+Native exact video identity, original read 2026-11-26.
+
+> "publishDate":"2013-08-31T13:35:35-07:00"
+
+Native platform publication timestamp, retaining its source UTC offset, original read 2026-11-26.
+
+Date-scope recheck: this native field dates publication of the exact linked
+YouTube clip, not a musical first issue or a performance. Preserve the existing
+chosen source-offset calendar day 2013-08-31 (native offset day 2013-08-31; UTC day 2013-08-31).

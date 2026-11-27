@@ -35,14 +35,6 @@ statements:
       quote: Arash Sharghi
       accessed: '2026-11-21'
       locator: Official video credits
-  release date:
-  - value:
-      date: '2021-01-05'
-    references:
-    - source: www.youtube.com-watch-v--udl-c9qcdm
-      quote: '2021-01-05'
-      accessed: '2026-11-21'
-      locator: Official artist YouTube feed upload date
   listen link:
   - value: https://www.youtube.com/watch?v=-uDl-c9qCdM
     references:
@@ -69,3 +61,12 @@ statements:
       quote: Payam Yousefi
       accessed: '2026-11-21'
       locator: Artist publishing channel
+  platform posting date:
+  - value:
+      date: '2021-01-05'
+    references:
+    - source: www.youtube.com-watch-v--udl-c9qcdm
+      quote: |-
+        "publishDate":"2021-01-05T11:33:27-08:00"
+      locator: Native YouTube publishDate for -uDl-c9qCdM; source-offset calendar day 2021-01-05 (native offset day 2021-01-05; UTC day 2021-01-05)
+      accessed: '2026-11-26'

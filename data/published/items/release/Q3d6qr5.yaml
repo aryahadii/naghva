@@ -42,10 +42,12 @@ statements:
     qualifiers:
       role:
       - composer
-  release date:
+  platform posting date:
   - value:
       date: '2022-09-27'
     references:
     - source: www.youtube.com-watch-v-ra6iy6cp1u4
-      quote: '"uploadDate":"2022-09-27T13:09:33-07:00"'
-      accessed: '2026-11-08'
+      quote: |-
+        "publishDate":"2022-09-27T13:09:33-07:00"
+      locator: Native YouTube publishDate for RA6iy6cp1u4; source-offset calendar day 2022-09-27 (native offset day 2022-09-27; UTC day 2022-09-27)
+      accessed: '2026-11-26'

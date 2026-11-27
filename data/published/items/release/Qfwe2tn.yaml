@@ -17,14 +17,6 @@ statements:
       quote: ' کمانچه: کوروش بابایی'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2025-12-26'
-    references:
-    - source: youtu.be-wyutskzj9ta
-      quote: '2025-12-26'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/wYUTsKzj9tA/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: Mola Mamad jan ملا ممد جان
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2025-12-26'
+    references:
+    - source: youtu.be-wyutskzj9ta
+      quote: |-
+        "publishDate":"2025-12-25T21:01:12-08:00"
+      locator: Native YouTube publishDate for wYUTsKzj9tA; UTC calendar day 2025-12-26 (native offset day 2025-12-25; UTC day 2025-12-26)
+      accessed: '2026-11-26'

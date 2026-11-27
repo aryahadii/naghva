@@ -56,11 +56,12 @@ statements:
       quote: https://i.ytimg.com/vi/zXVL__GoYvA/maxresdefault.jpg
       accessed: '2026-11-21'
       locator: Concert film image
-  release date:
+  platform posting date:
   - value:
       date: '2023-07-01'
     references:
     - source: www.youtube.com-watch-v-zxvl__goyva
-      quote: '2023-07-01'
-      accessed: '2026-11-21'
-      locator: Presenter upload
+      quote: |-
+        "publishDate":"2023-07-01T11:00:08-07:00"
+      locator: Native YouTube publishDate for zXVL__GoYvA; source-offset calendar day 2023-07-01 (native offset day 2023-07-01; UTC day 2023-07-01)
+      accessed: '2026-11-26'

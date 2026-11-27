@@ -17,14 +17,6 @@ statements:
       quote: 'آهنگساز/ کمانچه: کوروش بابایی'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2026-03-25'
-    references:
-    - source: youtu.be-rcq65r3muzw
-      quote: '2026-03-25'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/rcQ65R3mUzw/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: گرز کاوه   نوروز ۱۴۰۵ صدای آمریکا Gorze Kaveh Nowrouz 1405 VOA
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2026-03-25'
+    references:
+    - source: youtu.be-rcq65r3muzw
+      quote: |-
+        "publishDate":"2026-03-25T09:01:24-07:00"
+      locator: Native YouTube publishDate for rcQ65R3mUzw; source-offset calendar day 2026-03-25 (native offset day 2026-03-25; UTC day 2026-03-25)
+      accessed: '2026-11-26'

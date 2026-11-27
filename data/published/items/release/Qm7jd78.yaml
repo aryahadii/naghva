@@ -17,14 +17,6 @@ statements:
       quote: 'Kamancheh & Kamancheh Alto: Kourosh Babaei'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2020-09-07'
-    references:
-    - source: youtu.be-moziab-fple
-      quote: '2020-09-07'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/MoziAb-fPLE/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: Noh Un - نُه آن - قطعه ای برای کمانچه و ارکستر - Kamancheh
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2020-09-07'
+    references:
+    - source: youtu.be-moziab-fple
+      quote: |-
+        "publishDate":"2020-09-07T11:09:11-07:00"
+      locator: Native YouTube publishDate for MoziAb-fPLE; source-offset calendar day 2020-09-07 (native offset day 2020-09-07; UTC day 2020-09-07)
+      accessed: '2026-11-26'

@@ -19,14 +19,6 @@ statements:
       quote: 'Payam Yousef : Kamanche Chahargah'
       accessed: '2026-11-21'
       locator: YouTube oEmbed title
-  release date:
-  - value:
-      date: '2011-05-27'
-    references:
-    - source: www.youtube.com-watch-v-axu0xijbajy
-      quote: '2011-05-27'
-      accessed: '2026-11-21'
-      locator: Official artist YouTube feed upload date
   listen link:
   - value: https://www.youtube.com/watch?v=aXu0XIjbAJY
     references:
@@ -53,3 +45,12 @@ statements:
       quote: Payam Yousefi
       accessed: '2026-11-21'
       locator: Artist publishing channel
+  platform posting date:
+  - value:
+      date: '2011-05-27'
+    references:
+    - source: www.youtube.com-watch-v-axu0xijbajy
+      quote: |-
+        "publishDate":"2011-05-27T10:37:21-07:00"
+      locator: Native YouTube publishDate for aXu0XIjbAJY; source-offset calendar day 2011-05-27 (native offset day 2011-05-27; UTC day 2011-05-27)
+      accessed: '2026-11-26'

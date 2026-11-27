@@ -28,14 +28,6 @@ statements:
       quote: Iranian Music Festival Australia
       accessed: '2026-11-21'
       locator: Publishing channel
-  release date:
-  - value:
-      date: '2025-11-17'
-    references:
-    - source: www.youtube.com-watch-v-r6aq8e3ihvs
-      quote: '2025-11-17T02:33:12-08:00'
-      accessed: '2026-11-21'
-      locator: Upload timestamp
   cover art:
   - value: https://i.ytimg.com/vi/r6Aq8e3Ihvs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFQgSihyMA8=&rs=AOn4CLAdqvtZKLmpk3edVsZHAeU6aFASPA
     qualifiers:
@@ -51,3 +43,12 @@ statements:
       quote: Iranian Music Festival Australia
       accessed: '2026-11-21'
       locator: Publishing channel
+  platform posting date:
+  - value:
+      date: '2025-11-17'
+    references:
+    - source: www.youtube.com-watch-v-r6aq8e3ihvs
+      quote: |-
+        "publishDate":"2025-11-17T02:33:12-08:00"
+      locator: Native YouTube publishDate for r6Aq8e3Ihvs; source-offset calendar day 2025-11-17 (native offset day 2025-11-17; UTC day 2025-11-17)
+      accessed: '2026-11-26'

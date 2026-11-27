@@ -27,14 +27,6 @@ statements:
       quote: Behnam Masoumi
       accessed: '2026-11-21'
       locator: Official video credits
-  release date:
-  - value:
-      date: '2022-04-11'
-    references:
-    - source: www.youtube.com-watch-v-t-oepxdt6ra
-      quote: '2022-04-11'
-      accessed: '2026-11-21'
-      locator: Official artist YouTube feed upload date
   listen link:
   - value: https://www.youtube.com/watch?v=t-OePXdT6rA
     references:
@@ -61,3 +53,12 @@ statements:
       quote: Payam Yousefi
       accessed: '2026-11-21'
       locator: Artist publishing channel
+  platform posting date:
+  - value:
+      date: '2022-04-11'
+    references:
+    - source: www.youtube.com-watch-v-t-oepxdt6ra
+      quote: |-
+        "publishDate":"2022-04-11T14:46:04-07:00"
+      locator: Native YouTube publishDate for t-OePXdT6rA; source-offset calendar day 2022-04-11 (native offset day 2022-04-11; UTC day 2022-04-11)
+      accessed: '2026-11-26'

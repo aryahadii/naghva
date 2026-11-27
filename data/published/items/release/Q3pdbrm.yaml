@@ -44,11 +44,12 @@ statements:
       quote: https://i.ytimg.com/vi/_yusl0taAg8/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgTig-MA8=&rs=AOn4CLCutymAcbqFOJHsMr2DFvsjLLUY9Q
       accessed: '2026-11-21'
       locator: Publisher’s original thumbnail
-  release date:
+  platform posting date:
   - value:
       date: '2021-05-02'
     references:
     - source: www.youtube.com-watch-v-_yusl0taag8
-      quote: '2021-05-02'
-      accessed: '2026-11-21'
-      locator: Film publication
+      quote: |-
+        "publishDate":"2021-05-02T04:44:27-07:00"
+      locator: Native YouTube publishDate for _yusl0taAg8; source-offset calendar day 2021-05-02 (native offset day 2021-05-02; UTC day 2021-05-02)
+      accessed: '2026-11-26'

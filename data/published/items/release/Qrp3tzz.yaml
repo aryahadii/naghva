@@ -28,14 +28,6 @@ statements:
       quote: Melbourne Recital Centre
       accessed: '2026-11-21'
       locator: Publishing channel
-  release date:
-  - value:
-      date: '2021-02-27'
-    references:
-    - source: www.youtube.com-watch-v-uxn106acugo
-      quote: '2021-02-27T00:00:13-08:00'
-      accessed: '2026-11-21'
-      locator: Upload timestamp
   cover art:
   - value: https://i.ytimg.com/vi/UXn106aCuGo/maxresdefault.jpg
     qualifiers:
@@ -51,3 +43,12 @@ statements:
       quote: Melbourne Recital Centre
       accessed: '2026-11-21'
       locator: Publishing channel
+  platform posting date:
+  - value:
+      date: '2021-02-27'
+    references:
+    - source: www.youtube.com-watch-v-uxn106acugo
+      quote: |-
+        "publishDate":"2021-02-27T00:00:13-08:00"
+      locator: Native YouTube publishDate for UXn106aCuGo; source-offset calendar day 2021-02-27 (native offset day 2021-02-27; UTC day 2021-02-27)
+      accessed: '2026-11-26'

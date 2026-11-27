@@ -26,14 +26,6 @@ statements:
       quote: Roots Revival Series 6 - Hazara Music with Elaha Soroor - الهه سرور (Full Concert)
       accessed: 2026-11-21
       locator: Video title
-  release date:
-  - value:
-      date: '2024-06-12'
-    references:
-    - source: youtu.be-2ptyq3rypno
-      quote: '2024-06-12'
-      accessed: 2026-11-21
-      locator: Uploader publication date
   listen link:
   - value: https://youtu.be/2pTyQ3rYpNo
     references:
@@ -41,3 +33,12 @@ statements:
       quote: Roots Revival Series 6 - Hazara Music with Elaha Soroor - الهه سرور (Full Concert)
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2024-06-12'
+    references:
+    - source: youtu.be-2ptyq3rypno
+      quote: |-
+        "publishDate":"2024-06-12T02:00:11-07:00"
+      locator: Native YouTube publishDate for 2pTyQ3rYpNo; source-offset calendar day 2024-06-12 (native offset day 2024-06-12; UTC day 2024-06-12)
+      accessed: '2026-11-26'

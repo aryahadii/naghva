@@ -17,14 +17,6 @@ statements:
       quote: Kourosh Babaei Kamancheh Solo کمانچه سلو کوروش بابایی
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2023-11-22'
-    references:
-    - source: youtu.be-pbb2lhwdhjc
-      quote: '2023-11-22'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/PBB2LhWDhJc/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: Kourosh Babaei Kamancheh Solo کمانچه سلو کوروش بابایی
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2023-11-22'
+    references:
+    - source: youtu.be-pbb2lhwdhjc
+      quote: |-
+        "publishDate":"2023-11-21T18:58:42-08:00"
+      locator: Native YouTube publishDate for PBB2LhWDhJc; UTC calendar day 2023-11-22 (native offset day 2023-11-21; UTC day 2023-11-22)
+      accessed: '2026-11-26'

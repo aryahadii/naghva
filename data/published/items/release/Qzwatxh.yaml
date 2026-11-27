@@ -53,10 +53,12 @@ statements:
     qualifiers:
       role:
       - lyricist
-  release date:
+  platform posting date:
   - value:
       date: '2022-02-02'
     references:
     - source: www.youtube.com-watch-v--bomr_fwaxu
-      quote: '"uploadDate":"2022-02-02T13:48:48-08:00"'
-      accessed: '2026-11-08'
+      quote: |-
+        "publishDate":"2022-02-02T13:48:48-08:00"
+      locator: Native YouTube publishDate for -bOMr_FWaXU; source-offset calendar day 2022-02-02 (native offset day 2022-02-02; UTC day 2022-02-02)
+      accessed: '2026-11-26'

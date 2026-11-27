@@ -17,14 +17,6 @@ statements:
       quote: Kourosh Babaei / Kamancheh
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2020-10-10'
-    references:
-    - source: youtu.be-envswshvwsg
-      quote: '2020-10-10'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/envswShvWsg/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: Najva   Live @ SWC 27 Sep 2020
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2020-10-10'
+    references:
+    - source: youtu.be-envswshvwsg
+      quote: |-
+        "publishDate":"2020-10-10T12:56:59-07:00"
+      locator: Native YouTube publishDate for envswShvWsg; source-offset calendar day 2020-10-10 (native offset day 2020-10-10; UTC day 2020-10-10)
+      accessed: '2026-11-26'

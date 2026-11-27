@@ -49,14 +49,6 @@ statements:
       quote: Kelly Thoma
       accessed: '2026-11-21'
       locator: Performance description personnel
-  release date:
-  - value:
-      date: '2025-09-30'
-    references:
-    - source: www.youtube.com-watch-v-avsju65xaek
-      quote: '2025-09-30'
-      accessed: '2026-11-21'
-      locator: YouTube publication date, player metadata
   listen link:
   - value: https://www.youtube.com/watch?v=AVSjU65XAEk
     references:
@@ -83,3 +75,12 @@ statements:
       quote: Araz Salek
       accessed: '2026-11-21'
       locator: YouTube oEmbed uploader
+  platform posting date:
+  - value:
+      date: '2025-09-30'
+    references:
+    - source: www.youtube.com-watch-v-avsju65xaek
+      quote: |-
+        "publishDate":"2025-09-30T17:22:29-07:00"
+      locator: Native YouTube publishDate for AVSjU65XAEk; source-offset calendar day 2025-09-30 (native offset day 2025-09-30; UTC day 2025-10-01)
+      accessed: '2026-11-26'

@@ -17,14 +17,6 @@ statements:
       quote: 'بخش کوتاهی از سلو کمانچه کوروش بابایی در کنسرت مژگان شجریان و گروه سرواد - جشنواره تیرگان ۲۰۲۳ '
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2023-07-24'
-    references:
-    - source: youtu.be-llqpibt9vju
-      quote: '2023-07-24'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/LLQPIbt9vJU/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: Kourosh Babaei Kamancheh Solo - Mojgan Shajarian and Sorvad Band- سلو کمانچه کوروش بابایی
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2023-07-24'
+    references:
+    - source: youtu.be-llqpibt9vju
+      quote: |-
+        "publishDate":"2023-07-24T11:46:21-07:00"
+      locator: Native YouTube publishDate for LLQPIbt9vJU; source-offset calendar day 2023-07-24 (native offset day 2023-07-24; UTC day 2023-07-24)
+      accessed: '2026-11-26'

@@ -9,13 +9,6 @@ statements:
     - source: www.youtube.com-watch-v-vdj03pbyl9c
       quote: یک قرن جای ما خالی بود
       accessed: '2026-11-13'
-  release date:
-  - value:
-      date: '2023-04-04'
-    references:
-    - source: www.youtube.com-watch-v-vdj03pbyl9c
-      quote: '"publishDate":"2023-04-04T17:46:32-07:00"'
-      accessed: '2026-11-13'
   performer:
   - value: Q2vwhg6
     references:
@@ -38,3 +31,12 @@ statements:
     - source: www.youtube.com-watch-v-vdj03pbyl9c
       quote: یک قرن جای ما خالی بود
       accessed: '2026-11-13'
+  platform posting date:
+  - value:
+      date: '2023-04-04'
+    references:
+    - source: www.youtube.com-watch-v-vdj03pbyl9c
+      quote: |-
+        "publishDate":"2023-04-04T17:46:32-07:00"
+      locator: Native YouTube publishDate for VdJ03Pbyl9c; source-offset calendar day 2023-04-04 (native offset day 2023-04-04; UTC day 2023-04-05)
+      accessed: '2026-11-26'

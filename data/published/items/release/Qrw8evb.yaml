@@ -27,14 +27,6 @@ statements:
       quote: Negar Bouban (oud, vocals)
       accessed: 2026-11-21
       locator: Festival film, cast
-  release date:
-  - value:
-      date: '2024-04-03'
-    references:
-    - source: youtu.be-og_thykgv_e
-      quote: '20240403'
-      accessed: 2026-11-21
-      locator: Publisher upload date
   listen link:
   - value: https://youtu.be/og_thYkGv_E
     references:
@@ -49,3 +41,12 @@ statements:
       quote: TAMBURI MUNDI FESTIVAL 02.04.2024 - Rhythmus der Sehnsucht - Musik aus der Heimat der Daf
       accessed: 2026-11-21
       locator: Festival film, programme
+  platform posting date:
+  - value:
+      date: '2024-04-03'
+    references:
+    - source: youtu.be-og_thykgv_e
+      quote: |-
+        "publishDate":"2024-04-03T02:53:15-07:00"
+      locator: Native YouTube publishDate for og_thYkGv_E; source-offset calendar day 2024-04-03 (native offset day 2024-04-03; UTC day 2024-04-03)
+      accessed: '2026-11-26'

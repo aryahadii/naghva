@@ -9,13 +9,6 @@ statements:
     - source: www.youtube.com-watch-v-xjkshogwj-w
       quote: Mazurka by Kaveh Salehi
       accessed: '2026-11-13'
-  release date:
-  - value:
-      date: '2023-07-21'
-    references:
-    - source: www.youtube.com-watch-v-xjkshogwj-w
-      quote: '"publishDate":"2023-07-21T08:30:51-07:00"'
-      accessed: '2026-11-13'
   performer:
   - value: Q2vwhg6
     references:
@@ -46,3 +39,12 @@ statements:
     - source: www.youtube.com-watch-v-xjkshogwj-w
       quote: Mazurka by Kaveh Salehi
       accessed: '2026-11-13'
+  platform posting date:
+  - value:
+      date: '2023-07-21'
+    references:
+    - source: www.youtube.com-watch-v-xjkshogwj-w
+      quote: |-
+        "publishDate":"2023-07-21T08:30:51-07:00"
+      locator: Native YouTube publishDate for XjkshOGwj-w; source-offset calendar day 2023-07-21 (native offset day 2023-07-21; UTC day 2023-07-21)
+      accessed: '2026-11-26'

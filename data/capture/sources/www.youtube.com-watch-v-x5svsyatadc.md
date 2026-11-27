@@ -70,3 +70,15 @@ about:
 > Sare peeche rahayee
 
 Video title, upload date from the watch page metadata, channel name (channel UC2T02szCCNjPZRC6mOy8ZQg) and description lines, read 2026-11-08.
+
+> "videoId":"x5SvsyAtadc"
+
+Native exact video identity, original read 2026-11-26.
+
+> "publishDate":"2023-05-15T21:00:08-07:00"
+
+Native platform publication timestamp, retaining its source UTC offset, original read 2026-11-26.
+
+Date-scope recheck: this native field dates publication of the exact linked
+YouTube clip, not a musical first issue or a performance. Preserve the existing
+chosen source-offset calendar day 2023-05-15 (native offset day 2023-05-15; UTC day 2023-05-16).

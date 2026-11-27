@@ -17,14 +17,6 @@ statements:
       quote: اجرای قطعه می زده شب اثر استاد پرویز یاحقی اجرای شاهکمان کورش بابایی
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2023-08-16'
-    references:
-    - source: youtu.be-u5adffxjl1i
-      quote: '2023-08-16'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/U5adFfxJl1I/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: می زده شب اثر پرویز یاحقی شاهکمان کوروش بابایی May Zadeh Shab Shahkaman
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2023-08-16'
+    references:
+    - source: youtu.be-u5adffxjl1i
+      quote: |-
+        "publishDate":"2023-08-16T10:50:20-07:00"
+      locator: Native YouTube publishDate for U5adFfxJl1I; source-offset calendar day 2023-08-16 (native offset day 2023-08-16; UTC day 2023-08-16)
+      accessed: '2026-11-26'

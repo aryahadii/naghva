@@ -35,14 +35,6 @@ statements:
       quote: Maryam Molla
       accessed: '2026-11-21'
       locator: Official video credits
-  release date:
-  - value:
-      date: '2021-07-05'
-    references:
-    - source: www.youtube.com-watch-v-rjy4sd4najw
-      quote: '2021-07-05'
-      accessed: '2026-11-21'
-      locator: Official artist YouTube feed upload date
   listen link:
   - value: https://www.youtube.com/watch?v=rJy4Sd4NAjw
     references:
@@ -78,3 +70,12 @@ statements:
       quote: by, Ali Akbar Shahnazi
       accessed: '2026-11-21'
       locator: Composition or arrangement credit
+  platform posting date:
+  - value:
+      date: '2021-07-05'
+    references:
+    - source: www.youtube.com-watch-v-rjy4sd4najw
+      quote: |-
+        "publishDate":"2021-07-04T22:51:00-07:00"
+      locator: Native YouTube publishDate for rJy4Sd4NAjw; UTC calendar day 2021-07-05 (native offset day 2021-07-04; UTC day 2021-07-05)
+      accessed: '2026-11-26'

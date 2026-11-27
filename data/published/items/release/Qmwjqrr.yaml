@@ -35,14 +35,6 @@ statements:
       quote: Simin Tander - vocals
       accessed: 2026-11-21
       locator: Performer credits
-  release date:
-  - value:
-      date: '2024-04-16'
-    references:
-    - source: youtu.be-y9ic2ta7tbk
-      quote: '2024-04-16'
-      accessed: 2026-11-21
-      locator: Uploader publication date
   listen link:
   - value: https://youtu.be/Y9Ic2ta7TBk
     references:
@@ -50,3 +42,12 @@ statements:
       quote: Roots Revival Series 5 -  Pashto Music & Poetry Interpretation with Simin Tander (Full Concert)
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2024-04-16'
+    references:
+    - source: youtu.be-y9ic2ta7tbk
+      quote: |-
+        "publishDate":"2024-04-16T01:19:15-07:00"
+      locator: Native YouTube publishDate for Y9Ic2ta7TBk; source-offset calendar day 2024-04-16 (native offset day 2024-04-16; UTC day 2024-04-16)
+      accessed: '2026-11-26'

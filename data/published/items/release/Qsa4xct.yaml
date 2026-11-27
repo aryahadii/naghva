@@ -17,14 +17,6 @@ statements:
       quote: Borderless Band Concert in Lawrence church
       accessed: 2026-11-21
       locator: Artist identifies the ensemble
-  release date:
-  - value:
-      date: '2022-12-17'
-    references:
-    - source: youtu.be-yyuua25thiu
-      quote: '2022-12-17'
-      accessed: 2026-11-21
-      locator: YouTube publication date
   listen link:
   - value: https://www.youtube.com/watch?v=YyUUa25thiU
     references:
@@ -39,3 +31,12 @@ statements:
       quote: Borderless Band Concert in Lawrence church
       accessed: 2026-11-21
       locator: Published film title
+  platform posting date:
+  - value:
+      date: '2022-12-17'
+    references:
+    - source: youtu.be-yyuua25thiu
+      quote: |-
+        "publishDate":"2022-12-17T10:53:42-08:00"
+      locator: Native YouTube publishDate for YyUUa25thiU; source-offset calendar day 2022-12-17 (native offset day 2022-12-17; UTC day 2022-12-17)
+      accessed: '2026-11-26'

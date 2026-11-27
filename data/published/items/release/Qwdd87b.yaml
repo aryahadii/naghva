@@ -17,14 +17,6 @@ statements:
       quote: '‎کوروش بابایی: کمانچه'
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2024-05-11'
-    references:
-    - source: youtu.be-eui-w_kx30c
-      quote: '2024-05-11'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/EUi-W_kx30c/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: بخش کوتاهی از تمرین گروه سرواد و استاد شهرام ناظری
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2024-05-11'
+    references:
+    - source: youtu.be-eui-w_kx30c
+      quote: |-
+        "publishDate":"2024-05-11T08:45:22-07:00"
+      locator: Native YouTube publishDate for EUi-W_kx30c; source-offset calendar day 2024-05-11 (native offset day 2024-05-11; UTC day 2024-05-11)
+      accessed: '2026-11-26'

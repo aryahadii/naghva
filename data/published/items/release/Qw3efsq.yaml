@@ -9,13 +9,6 @@ statements:
     - source: www.youtube.com-watch-v-nm_m1szj1qq
       quote: چراغ آسمون شب
       accessed: '2026-11-13'
-  release date:
-  - value:
-      date: '2023-04-02'
-    references:
-    - source: www.youtube.com-watch-v-nm_m1szj1qq
-      quote: '"publishDate":"2023-04-02T07:36:10-07:00"'
-      accessed: '2026-11-13'
   performer:
   - value: Q2vwhg6
     references:
@@ -38,3 +31,12 @@ statements:
     - source: www.youtube.com-watch-v-nm_m1szj1qq
       quote: چراغ آسمون شب
       accessed: '2026-11-13'
+  platform posting date:
+  - value:
+      date: '2023-04-02'
+    references:
+    - source: www.youtube.com-watch-v-nm_m1szj1qq
+      quote: |-
+        "publishDate":"2023-04-02T07:36:10-07:00"
+      locator: Native YouTube publishDate for nm_M1szJ1QQ; source-offset calendar day 2023-04-02 (native offset day 2023-04-02; UTC day 2023-04-02)
+      accessed: '2026-11-26'

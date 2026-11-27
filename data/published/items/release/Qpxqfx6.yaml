@@ -35,11 +35,12 @@ statements:
       credit:
         text: Farzane Zamen, via YouTube
         language: en
-  release date:
+  platform posting date:
   - value:
       date: '2015-11-25'
     references:
     - source: www.youtube.com-watchv-_swptfymsdm
-      quote: '20151125'
-      accessed: '2026-11-21'
-      locator: Video upload date (YouTube metadata, YYYYMMDD)
+      quote: |-
+        "publishDate":"2015-11-25T13:41:26-08:00"
+      locator: Native YouTube publishDate for _sWPtfymSDM; source-offset calendar day 2015-11-25 (native offset day 2015-11-25; UTC day 2015-11-25)
+      accessed: '2026-11-26'

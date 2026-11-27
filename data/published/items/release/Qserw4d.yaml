@@ -17,14 +17,6 @@ statements:
       quote: Solo Kamancheh Dashti-Esfahan Kourosh Babaei سلو بداهه نوازی کمانچه کوروش بابایی
       accessed: 2026-11-21
       locator: Instrumentalist identified in the artist’s film
-  release date:
-  - value:
-      date: '2024-11-10'
-    references:
-    - source: youtu.be-ldyn7gyyogo
-      quote: '2024-11-10'
-      accessed: 2026-11-21
-      locator: Publication date
   cover art:
   - value: https://i.ytimg.com/vi/LdYN7gYYoGo/hqdefault.jpg
     references:
@@ -39,3 +31,12 @@ statements:
       quote: Solo Kamancheh Dashti-Esfahan Kourosh Babaei سلو بداهه نوازی کمانچه کوروش بابایی
       accessed: 2026-11-21
       locator: Video title
+  platform posting date:
+  - value:
+      date: '2024-11-10'
+    references:
+    - source: youtu.be-ldyn7gyyogo
+      quote: |-
+        "publishDate":"2024-11-10T08:29:54-08:00"
+      locator: Native YouTube publishDate for LdYN7gYYoGo; source-offset calendar day 2024-11-10 (native offset day 2024-11-10; UTC day 2024-11-10)
+      accessed: '2026-11-26'

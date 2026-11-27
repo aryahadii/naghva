@@ -52,11 +52,12 @@ statements:
       quote: https://i.ytimg.com/vi/QTRfpiGUOJY/maxresdefault.jpg
       accessed: '2026-11-21'
       locator: Publisher’s original thumbnail
-  release date:
+  platform posting date:
   - value:
       date: '2019-10-05'
     references:
     - source: www.youtube.com-watch-v-qtrfpiguojy
-      quote: '2019-10-05'
-      accessed: '2026-11-21'
-      locator: Film publication
+      quote: |-
+        "publishDate":"2019-10-05T18:48:57-07:00"
+      locator: Native YouTube publishDate for QTRfpiGUOJY; source-offset calendar day 2019-10-05 (native offset day 2019-10-05; UTC day 2019-10-06)
+      accessed: '2026-11-26'
