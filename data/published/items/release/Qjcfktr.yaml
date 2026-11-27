@@ -78,6 +78,15 @@ statements:
       quote: released November 8, 2024
       accessed: '2026-11-21'
       locator: Bandcamp date
+  - value:
+      date: '2024-10-25'
+    rank: normal
+    references:
+    - source: music.apple.com-us-album-tapestry-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton-1761964815
+      quote: '"datePublished":"2024-10-25"'
+      accessed: '2026-11-27'
+      locator: Own exact MusicAlbum1761964815 jsonld[0].datePublished; same-object type/name/URL captured; saved live
+        original and actual whole snapshot20250927070035 verified. Whole digital catalogue metadata only.
   cover art:
   - value: https://f4.bcbits.com/img/a3480374628_10.jpg
     qualifiers:
