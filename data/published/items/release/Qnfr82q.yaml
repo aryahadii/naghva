@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2025-09-08'
     references:
-    - source: music.apple.com-us-album-i-skymningslandet-ep-1838755780
-      quote: '2025-09-08'
-      accessed: 2026-11-21
-      locator: MusicAlbum datePublished
+    - source: music.apple.com-us-song-skymningslandet-1838755781
+      quote: '"datePublished":"2025-09-08"'
+      locator: application/ld+json.audio exact MusicRecording 1838755781 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   performer:
   - value: Q8w88jv
     references:
