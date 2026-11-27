@@ -34,10 +34,10 @@ statements:
   - value:
       date: '2012-01-01'
     references:
-    - source: music.apple.com-us-album-in-the-colour-of-the-night-1705287322
-      quote: '2012-01-01'
-      accessed: 2026-11-21
-      locator: Storefront release date
+    - source: open.spotify.com-track-206s9wl2nicb8xnka6balx
+      quote: '"datePublished":"2012-01-01"'
+      locator: Own MusicRecording.datePublished; recording catalogue metadata, stored precision retained
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/68/71/e6/6871e617-33d2-0ba8-a5bd-cdf314fd6a6c/cover.jpg/1200x630bb.jpg
     references:
