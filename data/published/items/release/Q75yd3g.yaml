@@ -30,10 +30,10 @@ statements:
   - value:
       date: '2012'
     references:
-    - source: music.apple.com-us-album-suite-for-just-steel-guitar-1748915925
-      quote: '2012'
-      accessed: 2026-11-21
-      locator: Digital issue’s stated release date
+    - source: music.apple.com-us-song-one-day-tehran-1748916192
+      quote: '"datePublished":"2012-01-01"'
+      locator: application/ld+json.audio exact MusicRecording 1748916192 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9b/d3/8a/9bd38ae3-1fb1-6cf3-e68a-422b6be781c7/198391747236.jpg/1200x630bb.jpg
     references:

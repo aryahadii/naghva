@@ -27,10 +27,10 @@ statements:
   - value:
       date: '2025-12-12'
     references:
-    - source: music.apple.com-us-album-bigah-1859682009
-      quote: '2025-12-12'
-      accessed: '2026-11-21'
-      locator: Digital edition release
+    - source: music.apple.com-us-song-mokhalef-1859682021
+      quote: '"datePublished":"2025-12-12"'
+      locator: application/ld+json.audio exact MusicRecording 1859682021 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   listen link:
   - value: https://music.apple.com/us/song/mokhalef/1859682021
     references:

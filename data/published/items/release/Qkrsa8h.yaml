@@ -45,10 +45,10 @@ statements:
   - value:
       date: '2026-01-30'
     references:
-    - source: sheentrio1.bandcamp.com-album-transitory
-      quote: 30 Jan 2026 00:00:00 GMT
-      locator: Original publication date
-      accessed: '2026-11-21'
+    - source: music.apple.com-us-song-unexpected-rock-1847584521
+      quote: '"datePublished":"2026-01-30"'
+      locator: application/ld+json.audio exact MusicRecording 1847584521 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a3965670141_10.jpg
     references:

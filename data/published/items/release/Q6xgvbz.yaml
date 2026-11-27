@@ -41,10 +41,10 @@ statements:
   - value:
       date: '2014-05-12'
     references:
-    - source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
-      quote: '2014-05-12'
-      accessed: '2026-11-21'
-      locator: First digital issue
+    - source: music.apple.com-us-song-av-c3-a2z-e-afsh-c3-a2ri-t-c3-a2r-solo-feat-ariya-pirat-c3-a2i-848988840
+      quote: '"datePublished":"2014-05-12"'
+      locator: application/ld+json.audio exact MusicRecording 848988840 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   listen link:
   - value: https://music.apple.com/us/song/av%C3%A2z-e-afsh%C3%A2ri-t%C3%A2r-solo-feat-ariya-pirat%C3%A2i/848988840
     references:

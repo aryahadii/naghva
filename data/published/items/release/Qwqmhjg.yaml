@@ -27,10 +27,10 @@ statements:
   - value:
       date: '2011-11-29'
     references:
-    - source: music.apple.com-us-album-in-the-footprints-of-rumi-485327100
-      quote: '2011-11-29'
-      accessed: '2026-11-21'
-      locator: Digital edition release
+    - source: music.apple.com-us-song-masnavi-485327108
+      quote: '"datePublished":"2011-11-29"'
+      locator: application/ld+json.audio exact MusicRecording 485327108 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   listen link:
   - value: https://music.apple.com/us/song/masnavi/485327108
     references:

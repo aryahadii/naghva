@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2020-04-03'
     references:
-    - source: music.apple.com-us-album-manhattan-manhattan-undying-original-motion-picture-1497457532
-      quote: '2020-04-03'
-      accessed: 2026-11-21
-      locator: Edition date
+    - source: music.apple.com-us-song-in-spectre-1497457811
+      quote: '"datePublished":"2020-04-03"'
+      locator: application/ld+json.audio exact MusicRecording 1497457811 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/91/37/95/913795d4-3f70-cb7b-dd86-783b1f307460/859736175830_cover.jpg/1200x630bb.jpg
     references:

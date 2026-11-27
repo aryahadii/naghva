@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2019-02-16'
     references:
-    - source: siamak-jahangiri-ap1455167911
-      quote: '2019-02-16'
-      accessed: '2026-11-21'
-      locator: Edition release date
+    - source: music.apple.com-us-song-pishdar-c3-a2mad-e-afsh-c3-a2ri-va-c3-a2v-c3-a2z-1455167923
+      quote: '"datePublished":"2019-02-16"'
+      locator: application/ld+json.audio exact MusicRecording 1455167923 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/15/83/a6/1583a63f-7543-ad1f-555b-0ab3dbb60f2d/193428746398.jpg/1200x630wp-60.jpg
     references:
