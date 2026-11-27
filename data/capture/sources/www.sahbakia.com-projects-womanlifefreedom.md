@@ -17,3 +17,7 @@ Words set for the chorus, read 2026-11-21.
 > written for the San Francisco Girls Chorus
 
 Choral commission and dedication, read 2026-11-21.
+
+> Music: Sahba Aminikia
+
+Portfolio credit block under Woman, Life, Freedom!; exact embedded video0969WmxdeH4, read 2026-11-27.

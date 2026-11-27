@@ -203,6 +203,7 @@
     "jalaliMonths": ["Farvardin", "Ordibehesht", "Khordad", "Tir", "Mordad", "Shahrivar", "Mehr", "Aban", "Azar", "Dey", "Bahman", "Esfand"]
   },
   "roles": {
+    "conductor": "conductor",
     "musical director": "musical director",
     "compiler": "compiler",
     "researcher": "researcher",
