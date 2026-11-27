@@ -29,10 +29,10 @@ statements:
   - value:
       date: '2017-04-21'
     references:
-    - source: tabeah.bandcamp.com-album-stars-at-eye-height-2017
-      quote: 21 Apr 2017 00:00:00 GMT
-      locator: Original publication date
-      accessed: '2026-11-21'
+    - source: open.spotify.com-track-3w6q93au0utzbfgi7vzv4p
+      quote: '"datePublished":"2017-04-21"'
+      locator: application/ld+json exact MusicRecording 3w6Q93Au0UtzbFGi7vzV4P datePublished; same-object @type/identity/name context captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a2718218947_10.jpg
     references:

@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2020-09-19'
     references:
-    - source: music.apple.com-us-album-sonidos-de-la-savia-feat-regard-persan-1533449642
-      quote: '2020-09-19'
-      accessed: '2026-11-21'
-      locator: Issue date
+    - source: open.spotify.com-track-4rolc86aytcuciaucemvfo
+      quote: '"datePublished":"2020-09-19"'
+      locator: application/ld+json exact MusicRecording 4rOLc86aYTcucIaucemvFo datePublished; same-object @type/identity/name context captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/07/b3/ab/07b3aba2-e05d-8b47-c6ef-5515832cb77d/195448940596.jpg/1200x630wp-60.jpg
     references:

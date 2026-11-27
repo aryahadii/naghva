@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2022-01-20'
     references:
-    - source: music.apple.com-us-album-story-of-rast-panjgah-1609382833
-      quote: '2022-01-20'
-      accessed: '2026-11-21'
-      locator: Release metadata
+    - source: music.apple.com-us-song-story-of-nava-1609382895
+      quote: '"datePublished":"2022-01-20"'
+      locator: application/ld+json.audio exact MusicRecording 1609382895 datePublished; same-object @type/identity/name context captured separately.
+      accessed: '2026-11-27'
   listen link:
   - value: https://music.apple.com/us/song/story-of-nava/1609382895
     references:
