@@ -34,10 +34,10 @@ statements:
   - value:
       date: '2007-05-25'
     references:
-    - source: music.apple.com-us-album-whos-yo-daddy-264972246
-      quote: '2007-05-25'
-      accessed: 2026-11-21
-      locator: MusicAlbum datePublished
+    - source: music.apple.com-us-song-nasle-man-o-toh-264972341
+      quote: '"datePublished":"2007-05-25"'
+      locator: application/ld+json.audio exact MusicRecording 264972341 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music/74/72/ef/mzi.yzmfvdbd.tif/600x600bb-60.jpg
     references:

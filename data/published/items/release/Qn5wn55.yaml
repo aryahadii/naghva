@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2020-06-05'
     references:
-    - source: music.apple.com-us-album-redemption-1728282095
-      quote: '2020-06-05'
-      accessed: 2026-11-21
-      locator: Edition date
+    - source: music.apple.com-us-song-clever-dawn-1728282426
+      quote: '"datePublished":"2020-06-05"'
+      locator: application/ld+json.audio exact MusicRecording 1728282426 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d9/8d/a8/d98da890-8768-b645-b2f5-9d48701ffe49/859783537001_cover.jpg/1200x630bb.jpg
     references:

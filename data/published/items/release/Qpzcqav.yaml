@@ -42,10 +42,10 @@ statements:
   - value:
       date: '2003-09-23'
     references:
-    - source: music.apple.com-us-album-zikr-1442840752-uo-4
-      quote: '2003-09-23'
-      accessed: '2026-11-21'
-      locator: Apple Music edition issue date
+    - source: music.apple.com-us-song-badeban-1442841434
+      quote: '"datePublished":"2003-09-23"'
+      locator: application/ld+json.audio exact MusicRecording 1442841434 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/2e/f8/01/2ef8018d-f769-6cda-b579-4c3c661468de/cover.jpg/1200x630bb.jpg
     qualifiers:

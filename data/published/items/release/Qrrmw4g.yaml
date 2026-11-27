@@ -42,10 +42,10 @@ statements:
   - value:
       date: '2017-11-03'
     references:
-    - source: music.apple.com-us-album-siwan-nahnou-houm-1442291803
-      quote: '2017-11-03'
-      accessed: '2026-11-21'
-      locator: Apple Music edition issue date
+    - source: music.apple.com-us-song-zemzemeh-1442292572
+      quote: '"datePublished":"2017-11-03"'
+      locator: application/ld+json.audio exact MusicRecording 1442292572 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/a3/1d/2c/a31d2c7e-2642-cc74-1815-e7b106f6308e/00602557895643.rgb.jpg/1200x630bb.jpg
     qualifiers:

@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2017-01-01'
     references:
-    - source: music.apple.com-us-album-pekawe-live-1847875375
-      quote: '2017-01-01'
-      locator: Original edition date
-      accessed: '2026-11-21'
+    - source: music.apple.com-us-song-deltangi-live-1847875376
+      quote: '"datePublished":"2017-01-01"'
+      locator: application/ld+json.audio exact MusicRecording 1847875376 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/55/bc/d4/55bcd403-ace7-7dac-de4b-60b82bbb8494/057829890619.png/632x632bb-60.jpg
     references:

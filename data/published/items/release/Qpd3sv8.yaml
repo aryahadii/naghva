@@ -39,10 +39,10 @@ statements:
   - value:
       date: '2026-01-08'
     references:
-    - source: music.apple.com-us-album-1868165829
-      quote: '2026-01-08'
-      locator: Published artist, title or credits
-      accessed: '2026-11-21'
+    - source: music.apple.com-us-song-masnavi-feat-samin-ghorbani-ali-boustan-ramtin-nazarijou-1868166037
+      quote: '"datePublished":"2026-01-08"'
+      locator: application/ld+json.audio exact MusicRecording 1868166037 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/9f/b3/1a9fb350-5867-b3a2-a482-9e18e96df06f/artwork.jpg/1200x630bb.jpg
     references:

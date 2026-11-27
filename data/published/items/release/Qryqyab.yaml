@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2019-11-15'
     references:
-    - source: music.apple.com-us-album-out-of-control-ep-1484087986
-      quote: '2019-11-15'
-      locator: Edition date
-      accessed: '2026-11-21'
+    - source: music.apple.com-us-song-intro-1484087987
+      quote: '"datePublished":"2019-11-15"'
+      locator: application/ld+json.audio exact MusicRecording 1484087987 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/66/f6/33/66f63320-2e64-9bed-edb1-2c434048dddf/63577.jpg/632x632bb-60.jpg
     references:

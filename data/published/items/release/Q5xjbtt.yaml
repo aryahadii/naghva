@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2025-09-19'
     references:
-    - source: music.apple.com-us-album-lights-and-shadows-1837455926
-      quote: '2025-09-19'
-      accessed: 2026-11-21
-      locator: Edition release date
+    - source: music.apple.com-us-song-luminous-dream-1837455940
+      quote: '"datePublished":"2025-09-19"'
+      locator: application/ld+json.audio exact MusicRecording 1837455940 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   performer:
   - value: Q3v55f7
     references:
