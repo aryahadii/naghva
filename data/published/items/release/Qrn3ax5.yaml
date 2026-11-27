@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2016-09-17'
     references:
-    - source: music.apple.com-us-album-regard-persan-1161851672
-      quote: '2016-09-17'
-      accessed: '2026-11-21'
-      locator: Issue date
+    - source: regardpersan.bandcamp.com-track-turquise
+      quote: '"datePublished":"17 Sep 2016 00:00:00 GMT"'
+      locator: application/ld+json exact MusicRecording https://regardpersan.bandcamp.com/track/turquise datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/3c/11/27/3c1127e7-d051-9447-b299-08a92e35be93/753070790783.jpg/1200x630wp-60.jpg
     references:
