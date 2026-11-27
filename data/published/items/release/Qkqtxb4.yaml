@@ -38,10 +38,10 @@ statements:
   - value:
       date: '2026-04-24'
     references:
-    - source: music.apple.com-us-album-badjens-ep-1888643548
-      quote: '2026-04-24'
-      accessed: '2026-11-21'
-      locator: Digital issue date
+    - source: music.apple.com-us-song-kho-masho-1888643553
+      quote: '{"@type":"MusicRecording","name":"Kho Masho","url":"https://music.apple.com/us/song/kho-masho/1888643553","datePublished":"2026-04-24"'
+      locator: Native application/ld+json.audio MusicRecording, exact track 1888643553, datePublished
+      accessed: '2026-11-27'
   listen link:
   - value: https://music.apple.com/us/song/kho-masho/1888643553
     references:

@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2015-12-21'
     references:
-    - source: music.apple.com-us-album-mens-the-musical-the-soundtrack-1071519482
-      quote: '2015-12-21'
-      accessed: 2026-11-21
-      locator: MusicAlbum datePublished
+    - source: music.apple.com-us-song-redan-de-gamla-grekerna-1071521202
+      quote: '{"@type":"MusicRecording","name":"Redan de gamla grekerna","url":"https://music.apple.com/us/song/redan-de-gamla-grekerna/1071521202","datePublished":"2015-12-21"'
+      locator: Native application/ld+json.audio MusicRecording, exact track 1071521202, datePublished
+      accessed: '2026-11-27'
   performer:
   - value: Q8w88jv
     references:

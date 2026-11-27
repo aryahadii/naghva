@@ -57,10 +57,10 @@ statements:
   - value:
       date: '2018-02-20'
     references:
-    - source: music.apple.com-us-album-gozargah-1350948051
-      quote: '2018-02-20'
-      accessed: '2026-11-21'
-      locator: Digital issue date
+    - source: music.apple.com-us-song-gozargah-1350948056
+      quote: '{"@type":"MusicRecording","name":"Gozargah","url":"https://music.apple.com/us/song/gozargah/1350948056","datePublished":"2018-02-20"'
+      locator: Native application/ld+json.audio MusicRecording, exact track 1350948056, datePublished
+      accessed: '2026-11-27'
   contributor:
   - value: Qy88zyz
     qualifiers:

@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2010-01-01'
     references:
-    - source: music.apple.com-us-album-geramawe-1598931350
-      quote: '2010-01-01'
-      locator: Original edition date
-      accessed: '2026-11-21'
+    - source: music.apple.com-us-song-wayadi-salan-1598931355
+      quote: '{"@type":"MusicRecording","name":"Wayadi Salan","url":"https://music.apple.com/us/song/wayadi-salan/1598931355","datePublished":"2010-01-01"'
+      locator: Native application/ld+json.audio MusicRecording, exact track 1598931355, datePublished
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3d/ef/82/3def8213-28c9-f6d5-f39d-c5064da4d428/692531133663.png/632x632bb-60.jpg
     references:

@@ -33,10 +33,10 @@ statements:
   - value:
       date: '2011-11-29'
     references:
-    - source: music.apple.com-us-album-in-the-footprints-of-rumi-485327100
-      quote: '2011-11-29'
-      accessed: '2026-11-21'
-      locator: Digital edition release
+    - source: music.apple.com-us-song-avaz-485328077
+      quote: '{"@type":"MusicRecording","name":"Avaz","url":"https://music.apple.com/us/song/avaz/485328077","datePublished":"2011-11-29"'
+      locator: Native application/ld+json.audio MusicRecording, exact track 485328077, datePublished
+      accessed: '2026-11-27'
   listen link:
   - value: https://music.apple.com/us/song/avaz/485328077
     references:
