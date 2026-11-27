@@ -130,3 +130,160 @@ script#serialized-server-data$[0].data.seoData.ogSongs[10].attributes.releaseDat
 script#serialized-server-data$[0].data.seoData.ogSongs[10].relationships.albums — same archived own Song 1439568623; source version and read UTC above.
 
 Existing catalogue date value, precision, rank and other facts are retained. Physical first issue and audio/master/edition equivalence are not inferred. Live recording metadata remains separate private corroboration and is not quoted as content of this whole source.
+
+
+Archived whole-page own Song release-date context
+
+ARCHIVED WHOLE PAGE — actual snapshot https://web.archive.org/web/20250122100830/https://music.apple.com/us/album/that-very-nay-i-am/1439568369
+
+Original whole URI: https://music.apple.com/us/album/that-very-nay-i-am/1439568369
+
+Actual native archive read UTC: 2026-11-27T09:42:12.984666+00:00; raw SHA256 f0a1bceef356d4da36ef57734c07b8749368633d58dff46bfbc3adf881581987.
+
+These are literal inline Song resource fields in this ACTUAL ARCHIVED WHOLE version. They are not asserted to occur in the current live whole page. No whole Album date or upload date is used.
+
+Own Song 1439568612 — Saz & Avaz I; direct parent 1439568369.
+
+Whole MusicAlbum 1439568369; complete programme 12/12 IDs: 1439568370, 1439568611, 1439568612, 1439568616, 1439568617, 1439568618, 1439568619, 1439568620, 1439568621, 1439568622, 1439568623, 1439568624.
+
+> "id":"1439568612"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[2].id — same archived own Song 1439568612; source version and read UTC above.
+
+> "type":"songs"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[2].type — same archived own Song 1439568612; source version and read UTC above.
+
+> "name":"Saz & Avaz I"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[2].attributes.name — same archived own Song 1439568612; source version and read UTC above.
+
+> "releaseDate":"2018-10-02"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[2].attributes.releaseDate — same archived own Song 1439568612; source version and read UTC above.
+
+> "albums":{"href":"/v1/catalog/us/songs/1439568612/albums?l=en-US","data":[{"id":"1439568369","type":"albums","href":"/v1/catalog/us/albums/1439568369?l=en-US"}]}
+
+script#serialized-server-data$[0].data.seoData.ogSongs[2].relationships.albums — same archived own Song 1439568612; source version and read UTC above.
+
+Own Song 1439568611 — Bang–e Ney; direct parent 1439568369.
+
+Whole MusicAlbum 1439568369; complete programme 12/12 IDs: 1439568370, 1439568611, 1439568612, 1439568616, 1439568617, 1439568618, 1439568619, 1439568620, 1439568621, 1439568622, 1439568623, 1439568624.
+
+> "id":"1439568611"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[1].id — same archived own Song 1439568611; source version and read UTC above.
+
+> "type":"songs"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[1].type — same archived own Song 1439568611; source version and read UTC above.
+
+> "name":"Bang–e Ney"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[1].attributes.name — same archived own Song 1439568611; source version and read UTC above.
+
+> "releaseDate":"2018-10-02"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[1].attributes.releaseDate — same archived own Song 1439568611; source version and read UTC above.
+
+> "albums":{"href":"/v1/catalog/us/songs/1439568611/albums?l=en-US","data":[{"id":"1439568369","type":"albums","href":"/v1/catalog/us/albums/1439568369?l=en-US"}]}
+
+script#serialized-server-data$[0].data.seoData.ogSongs[1].relationships.albums — same archived own Song 1439568611; source version and read UTC above.
+
+Own Song 1439568622 — Sharh–e Hejran; direct parent 1439568369.
+
+Whole MusicAlbum 1439568369; complete programme 12/12 IDs: 1439568370, 1439568611, 1439568612, 1439568616, 1439568617, 1439568618, 1439568619, 1439568620, 1439568621, 1439568622, 1439568623, 1439568624.
+
+> "id":"1439568622"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[9].id — same archived own Song 1439568622; source version and read UTC above.
+
+> "type":"songs"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[9].type — same archived own Song 1439568622; source version and read UTC above.
+
+> "name":"Sharh–e Hejran"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[9].attributes.name — same archived own Song 1439568622; source version and read UTC above.
+
+> "releaseDate":"2018-10-02"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[9].attributes.releaseDate — same archived own Song 1439568622; source version and read UTC above.
+
+> "albums":{"href":"/v1/catalog/us/songs/1439568622/albums?l=en-US","data":[{"id":"1439568369","type":"albums","href":"/v1/catalog/us/albums/1439568369?l=en-US"}]}
+
+script#serialized-server-data$[0].data.seoData.ogSongs[9].relationships.albums — same archived own Song 1439568622; source version and read UTC above.
+
+Own Song 1439568619 — Saz & Avaz III; direct parent 1439568369.
+
+Whole MusicAlbum 1439568369; complete programme 12/12 IDs: 1439568370, 1439568611, 1439568612, 1439568616, 1439568617, 1439568618, 1439568619, 1439568620, 1439568621, 1439568622, 1439568623, 1439568624.
+
+> "id":"1439568619"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[6].id — same archived own Song 1439568619; source version and read UTC above.
+
+> "type":"songs"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[6].type — same archived own Song 1439568619; source version and read UTC above.
+
+> "name":"Saz & Avaz III"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[6].attributes.name — same archived own Song 1439568619; source version and read UTC above.
+
+> "releaseDate":"2018-10-02"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[6].attributes.releaseDate — same archived own Song 1439568619; source version and read UTC above.
+
+> "albums":{"href":"/v1/catalog/us/songs/1439568619/albums?l=en-US","data":[{"id":"1439568369","type":"albums","href":"/v1/catalog/us/albums/1439568369?l=en-US"}]}
+
+script#serialized-server-data$[0].data.seoData.ogSongs[6].relationships.albums — same archived own Song 1439568619; source version and read UTC above.
+
+Own Song 1439568620 — Nay & Nafas; direct parent 1439568369.
+
+Whole MusicAlbum 1439568369; complete programme 12/12 IDs: 1439568370, 1439568611, 1439568612, 1439568616, 1439568617, 1439568618, 1439568619, 1439568620, 1439568621, 1439568622, 1439568623, 1439568624.
+
+> "id":"1439568620"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[7].id — same archived own Song 1439568620; source version and read UTC above.
+
+> "type":"songs"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[7].type — same archived own Song 1439568620; source version and read UTC above.
+
+> "name":"Nay & Nafas"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[7].attributes.name — same archived own Song 1439568620; source version and read UTC above.
+
+> "releaseDate":"2018-10-02"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[7].attributes.releaseDate — same archived own Song 1439568620; source version and read UTC above.
+
+> "albums":{"href":"/v1/catalog/us/songs/1439568620/albums?l=en-US","data":[{"id":"1439568369","type":"albums","href":"/v1/catalog/us/albums/1439568369?l=en-US"}]}
+
+script#serialized-server-data$[0].data.seoData.ogSongs[7].relationships.albums — same archived own Song 1439568620; source version and read UTC above.
+
+Own Song 1439568621 — Saz & Avaz IV; direct parent 1439568369.
+
+Whole MusicAlbum 1439568369; complete programme 12/12 IDs: 1439568370, 1439568611, 1439568612, 1439568616, 1439568617, 1439568618, 1439568619, 1439568620, 1439568621, 1439568622, 1439568623, 1439568624.
+
+> "id":"1439568621"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[8].id — same archived own Song 1439568621; source version and read UTC above.
+
+> "type":"songs"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[8].type — same archived own Song 1439568621; source version and read UTC above.
+
+> "name":"Saz & Avaz IV"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[8].attributes.name — same archived own Song 1439568621; source version and read UTC above.
+
+> "releaseDate":"2018-10-02"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[8].attributes.releaseDate — same archived own Song 1439568621; source version and read UTC above.
+
+> "albums":{"href":"/v1/catalog/us/songs/1439568621/albums?l=en-US","data":[{"id":"1439568369","type":"albums","href":"/v1/catalog/us/albums/1439568369?l=en-US"}]}
+
+script#serialized-server-data$[0].data.seoData.ogSongs[8].relationships.albums — same archived own Song 1439568621; source version and read UTC above.
+
+Existing catalogue date value, precision, rank and other facts are retained. Physical first issue and audio/master/edition equivalence are not inferred. Live recording metadata remains separate private corroboration and is not quoted as content of this whole source.

@@ -91,3 +91,112 @@ script#serialized-server-data$[0].data.seoData.ogSongs[1].attributes.releaseDate
 script#serialized-server-data$[0].data.seoData.ogSongs[1].relationships.albums — same archived own Song 598850792; source version and read UTC above.
 
 Existing catalogue date value, precision, rank and other facts are retained. Physical first issue and audio/master/edition equivalence are not inferred. Live recording metadata remains separate private corroboration and is not quoted as content of this whole source.
+
+
+Archived whole-page own Song release-date context
+
+ARCHIVED WHOLE PAGE — actual snapshot https://web.archive.org/web/20230708074212/https://music.apple.com/us/album/no-ceiling/598850721
+
+Original whole URI: https://music.apple.com/us/album/no-ceiling/598850721
+
+Actual native archive read UTC: 2026-11-27T09:42:12.878009+00:00; raw SHA256 b5d24a7a9189c6aee1f12aaa777922b85c76cd9c6aa702d084f0cd49f6c641ae.
+
+These are literal inline Song resource fields in this ACTUAL ARCHIVED WHOLE version. They are not asserted to occur in the current live whole page. No whole Album date or upload date is used.
+
+Own Song 598850800 — Town On the Sea; direct parent 598850721.
+
+Whole MusicAlbum 598850721; complete programme 10/10 IDs: 598850791, 598850792, 598850793, 598850794, 598850795, 598850796, 598850797, 598850798, 598850799, 598850800.
+
+> "id":"598850800"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[9].id — same archived own Song 598850800; source version and read UTC above.
+
+> "type":"songs"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[9].type — same archived own Song 598850800; source version and read UTC above.
+
+> "name":"Town On the Sea"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[9].attributes.name — same archived own Song 598850800; source version and read UTC above.
+
+> "releaseDate":"2008-03-18"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[9].attributes.releaseDate — same archived own Song 598850800; source version and read UTC above.
+
+> "albums":{"href":"/v1/catalog/us/songs/598850800/albums?l=en-US","data":[{"id":"598850721","type":"albums","href":"/v1/catalog/us/albums/598850721?l=en-US"}]}
+
+script#serialized-server-data$[0].data.seoData.ogSongs[9].relationships.albums — same archived own Song 598850800; source version and read UTC above.
+
+Own Song 598850797 — Ay Dar Shekasteh; direct parent 598850721.
+
+Whole MusicAlbum 598850721; complete programme 10/10 IDs: 598850791, 598850792, 598850793, 598850794, 598850795, 598850796, 598850797, 598850798, 598850799, 598850800.
+
+> "id":"598850797"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[6].id — same archived own Song 598850797; source version and read UTC above.
+
+> "type":"songs"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[6].type — same archived own Song 598850797; source version and read UTC above.
+
+> "name":"Ay Dar Shekasteh"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[6].attributes.name — same archived own Song 598850797; source version and read UTC above.
+
+> "releaseDate":"2008-03-18"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[6].attributes.releaseDate — same archived own Song 598850797; source version and read UTC above.
+
+> "albums":{"href":"/v1/catalog/us/songs/598850797/albums?l=en-US","data":[{"id":"598850721","type":"albums","href":"/v1/catalog/us/albums/598850721?l=en-US"}]}
+
+script#serialized-server-data$[0].data.seoData.ogSongs[6].relationships.albums — same archived own Song 598850797; source version and read UTC above.
+
+Own Song 598850791 — Middle of Fire; direct parent 598850721.
+
+Whole MusicAlbum 598850721; complete programme 10/10 IDs: 598850791, 598850792, 598850793, 598850794, 598850795, 598850796, 598850797, 598850798, 598850799, 598850800.
+
+> "id":"598850791"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[0].id — same archived own Song 598850791; source version and read UTC above.
+
+> "type":"songs"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[0].type — same archived own Song 598850791; source version and read UTC above.
+
+> "name":"Middle of Fire"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[0].attributes.name — same archived own Song 598850791; source version and read UTC above.
+
+> "releaseDate":"2008-03-18"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[0].attributes.releaseDate — same archived own Song 598850791; source version and read UTC above.
+
+> "albums":{"href":"/v1/catalog/us/songs/598850791/albums?l=en-US","data":[{"id":"598850721","type":"albums","href":"/v1/catalog/us/albums/598850721?l=en-US"}]}
+
+script#serialized-server-data$[0].data.seoData.ogSongs[0].relationships.albums — same archived own Song 598850791; source version and read UTC above.
+
+Own Song 598850796 — Mast; direct parent 598850721.
+
+Whole MusicAlbum 598850721; complete programme 10/10 IDs: 598850791, 598850792, 598850793, 598850794, 598850795, 598850796, 598850797, 598850798, 598850799, 598850800.
+
+> "id":"598850796"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[5].id — same archived own Song 598850796; source version and read UTC above.
+
+> "type":"songs"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[5].type — same archived own Song 598850796; source version and read UTC above.
+
+> "name":"Mast"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[5].attributes.name — same archived own Song 598850796; source version and read UTC above.
+
+> "releaseDate":"2008-03-18"
+
+script#serialized-server-data$[0].data.seoData.ogSongs[5].attributes.releaseDate — same archived own Song 598850796; source version and read UTC above.
+
+> "albums":{"href":"/v1/catalog/us/songs/598850796/albums?l=en-US","data":[{"id":"598850721","type":"albums","href":"/v1/catalog/us/albums/598850721?l=en-US"}]}
+
+script#serialized-server-data$[0].data.seoData.ogSongs[5].relationships.albums — same archived own Song 598850796; source version and read UTC above.
+
+Existing catalogue date value, precision, rank and other facts are retained. Physical first issue and audio/master/edition equivalence are not inferred. Live recording metadata remains separate private corroboration and is not quoted as content of this whole source.
