@@ -19,11 +19,15 @@ statements:
       quote: Siâvash Imâni, tar
       accessed: 2026-11-21
       locator: BnF’s 2023 Mahoor CD credits
-  release date:
-  - value:
-      date: '2023'
+  programme segment of:
+  - value: Qhsdr8t
     references:
     - source: catalogue.bnf.fr-ark-12148-cb485137129
       quote: Âvâz-e Dashti (6 min 01 s)
-      accessed: 2026-11-21
-      locator: Separately indexed performance on Mahoor’s physical CD
+      locator: Réunit grouped section in exact Mahoor MCD-634 physical edition; no physical-track ordinal
+      accessed: '2026-11-27'
+    - source: mahoor.com-en-cd-20707-the-spring-bare-stalk-3
+      quote: |-
+        Code : MCD-634
+      locator: Same edition; complete 73-cut native label listing, not a six-track ordinal
+      accessed: '2026-11-27'
