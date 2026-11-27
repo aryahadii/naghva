@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2023-11-10'
     references:
-    - source: music.apple.com-us-album-dream-1707611244
-      quote: '2023-11-10'
-      accessed: '2026-11-21'
-      locator: Release metadata
+    - source: music.apple.com-us-song-talagh-1707611885
+      quote: '{"@type":"MusicRecording","name":"Talagh","url":"https://music.apple.com/us/song/talagh/1707611885","datePublished":"2023-11-10"'
+      locator: Native application/ld+json.audio MusicRecording, exact track 1707611885, datePublished
+      accessed: '2026-11-27'
   listen link:
   - value: https://music.apple.com/us/song/talagh/1707611885
     references:

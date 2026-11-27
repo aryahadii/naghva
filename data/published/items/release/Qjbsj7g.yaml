@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2024-07-26'
     references:
-    - source: music.apple.com-us-album-a-billion-years-too-soon-instrumentals-1812855372
-      quote: '2024-07-26'
-      locator: Edition date
-      accessed: '2026-11-21'
+    - source: music.apple.com-us-song-one-last-time-instrumental-1812855878
+      quote: '{"@type":"MusicRecording","name":"One Last Time (Instrumental)","url":"https://music.apple.com/us/song/one-last-time-instrumental/1812855878","datePublished":"2024-07-26"'
+      locator: Native application/ld+json.audio MusicRecording, exact track 1812855878, datePublished
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/14/36/49/1436490f-72ac-22b5-da07-4b8b188d8c06/199350509476.jpg/632x632bb-60.jpg
     references:
