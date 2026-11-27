@@ -22,9 +22,11 @@ statements:
       date: '2008-03-18'
     references:
     - source: music.apple.com-us-album-no-ceiling-598850721
-      quote: '2008-03-18'
-      accessed: 2026-11-21
-      locator: Release date
+      quote: '"releaseDate":"2008-03-18"'
+      accessed: '2026-11-27'
+      locator: Archived whole source version https://web.archive.org/web/20230708074212/https://music.apple.com/us/album/no-ceiling/598850721;
+        script#serialized-server-data$[0].data.seoData.ogSongs[0].attributes.releaseDate; exact Song 598850791 / type
+        songs / name Middle of Fire / direct parent Album 598850721. Not a current live whole-page field.
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/dc/80/3f/dc803ffa-5849-9cf6-2f61-536044213843/707541956826.jpg/632x632bb-60.jpg
     references:
