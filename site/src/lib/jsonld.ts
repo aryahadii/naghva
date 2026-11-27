@@ -81,6 +81,9 @@ export function artistJsonLd(
     const listen = (r.statements['listen link'] ?? []).filter((s) => s.rank !== 'deprecated').map((s) => String(s.value));
     const cover = imageOf(r, 'cover art', COVER_WIDTHS);
     const component = isComponent(r);
+    // Storage also holds films and videos; unknown form is not an album.
+    const musical = component || best(r.statements['release type']).some((s) =>
+      albumTypes.has(s.value as string) || s.value === 'single');
     const inAlbum = linked(record, r.statements['track of'])
       .filter((parent) => parent.type === 'release' && parent.id !== r.id
         && best(parent.statements['release type']).some((s) => albumTypes.has(s.value as string))
@@ -90,14 +93,14 @@ export function artistJsonLd(
         return path ? [{ '@type': 'MusicAlbum', ...names(parent, lang), url: new URL(path, site).href }] : [];
       });
     return {
-      '@type': component ? 'MusicRecording' : 'MusicAlbum',
+      '@type': component ? 'MusicRecording' : musical ? 'MusicAlbum' : 'CreativeWork',
       ...names(r, lang),
       url: `${page}#${encodeURIComponent(r.anchor ?? r.id)}`,
-      byArtist: recordingArtists(record, r).map((p) => p.id === artist.id ? { '@id': id } : {
+      ...(musical ? { byArtist: recordingArtists(record, r).map((p) => p.id === artist.id ? { '@id': id } : {
         '@type': p.type === 'act' ? 'MusicGroup' : 'Person',
         ...names(p, lang),
         ...(p.page ? { '@id': `${new URL(url(lang, p.page), site).href}#artist`, ...at(p) } : {}),
-      }),
+      }) } : {}),
       ...(component && inAlbum.length ? { inAlbum } : {}),
       ...(date ? { datePublished: date } : {}),
       ...(cover ? { image: imageLd(cover, site) } : {}),
@@ -108,7 +111,7 @@ export function artistJsonLd(
   const groupReleases = new Set(artist.type === 'act' ? artist.releases : []);
   const groupAlbums = releases.filter((r, index) => r['@type'] === 'MusicAlbum' && groupReleases.has(catalogue[index].id));
   const groupTracks = releases.filter((r, index) => r['@type'] === 'MusicRecording' && groupReleases.has(catalogue[index].id));
-  const standalone = releases.filter((_, index) => !groupReleases.has(catalogue[index].id));
+  const standalone = releases.filter((r, index) => r['@type'] === 'CreativeWork' || !groupReleases.has(catalogue[index].id));
   if (groupAlbums.length) node.album = groupAlbums;
   if (groupTracks.length) node.track = groupTracks;
 

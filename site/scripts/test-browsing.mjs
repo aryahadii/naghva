@@ -198,7 +198,8 @@ test('a contributor can browse a recording on their page with the original perfo
     const graph = artistJsonLd(published, composer, lang, new URL('https://example.org'))['@graph'];
     const album = graph.find((node) => node.url?.endsWith('#' + encodeURIComponent(panels[0].anchor)));
     assert.ok(album);
-    assert.ok(album.byArtist.every((performer) => performer['@id'] !== graph[0]['@id']));
+    if (album['@type'] === 'CreativeWork') assert.equal(album.byArtist, undefined);
+    else assert.ok(album.byArtist.every((performer) => performer['@id'] !== graph[0]['@id']));
   }
 });
 
@@ -295,5 +296,32 @@ test('a group lists component recordings as tracks rather than albums', () => {
     assert.ok(graph[0].track.length);
     assert.ok(graph[0].track.every((node) => node['@type'] === 'MusicRecording'));
     assert.ok((graph[0].album ?? []).every((node) => node['@type'] === 'MusicAlbum'));
+  }
+});
+
+
+test('unknown catalogue forms stay generic without losing person or group entries', () => {
+  const site = new URL('https://example.org');
+  for (const lang of ['en', 'fa']) {
+    for (const [artistId, releaseId] of [['Qd5zat9', 'Qjsmsth'], ['Qvp2b3f', 'Qxj9g55']]) {
+      const graph = artistJsonLd(published, published.items[artistId], lang, site)['@graph'];
+      const entry = graph.find((node) => node.url?.endsWith('#' + encodeURIComponent(published.items[releaseId].anchor)));
+      assert.equal(entry?.['@type'], 'CreativeWork', `${lang} ${releaseId}`);
+      assert.equal(entry.byArtist, undefined);
+      assert.equal(entry.inAlbum, undefined);
+    }
+    const whole = (id) => best(published.items[id].statements['release type']).length
+      && !['track of', 'programme segment of'].some((property) => best(published.items[id].statements[property]).length);
+    const group = Object.values(published.items).find((item) => item.type === 'act' && item.page && item.releases.some(whole));
+    assert.ok(group);
+    const release = structuredClone(published.items[group.releases.find(whole)]);
+    delete release.statements['release type'];
+    const record = { ...published, items: { ...published.items, [release.id]: release } };
+    const graph = artistJsonLd(record, group, lang, site)['@graph'];
+    const entry = graph.find((node) => node.url?.endsWith('#' + encodeURIComponent(release.anchor)));
+    assert.equal(entry?.['@type'], 'CreativeWork', 'untyped group entry remains in the root graph');
+    assert.equal(entry.byArtist, undefined);
+    assert.ok(!(graph[0].album ?? []).some((node) => node.url === entry.url));
+    assert.ok(!(graph[0].track ?? []).some((node) => node.url === entry.url));
   }
 });
