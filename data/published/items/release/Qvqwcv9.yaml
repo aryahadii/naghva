@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2021-09-08'
     references:
-    - source: siamak-jahangiri-ap1639250168
-      quote: '2021-09-08'
-      accessed: '2026-11-21'
-      locator: Edition release date
+    - source: music.apple.com-us-song-moqaddame-terme-feat-behzad-mirzayi-1639250169
+      quote: '"datePublished":"2021-09-08"'
+      locator: application/ld+json.audio exact MusicRecording 1639250169 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/84/f9/4e/84f94e9a-4ddb-5927-d6e1-2ec2e2082ec4/6260608007434.jpg/1200x630wp-60.jpg
     references:

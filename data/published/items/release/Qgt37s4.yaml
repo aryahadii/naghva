@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2015-04-01'
     references:
-    - source: siamak-jahangiri-ap6782796635
-      quote: '2015-04-01'
-      accessed: '2026-11-21'
-      locator: Edition release date
+    - source: music.apple.com-us-song-makhan-feat-simin-behbahani-6782796895
+      quote: '"datePublished":"2015-04-01"'
+      locator: application/ld+json.audio exact MusicRecording 6782796895 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/a5/e0/faa5e0de-b10a-8ac7-fff9-0abf9f069a36/199806601303.jpg/1200x630wp-60.jpg
     references:

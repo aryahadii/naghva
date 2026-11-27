@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2024-04-12'
     references:
-    - source: music.apple.com-us-album-our-sorrow-1727139986
-      quote: '2024-04-12'
-      accessed: 2026-11-21
-      locator: Edition release date
+    - source: music.apple.com-us-song-for-the-rain-1727139989
+      quote: '"datePublished":"2024-04-12"'
+      locator: application/ld+json.audio exact MusicRecording 1727139989 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   performer:
   - value: Qwh5yn8
     references:
