@@ -18,7 +18,8 @@ statements:
       accessed: '2026-11-21'
       locator: Playlist, live session
   release date:
-  - value:
+  - rank: deprecated
+    value:
       date: '2012-06-09'
     references:
     - source: www.wfmu.org-playlists-shows-45512
