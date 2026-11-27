@@ -12,14 +12,16 @@ statements:
       locator: Earlier CD track list
   performer:
   - value: Q9y35r9
-    qualifiers:
-      role:
-      - santur
     references:
     - source: deploy.musik-sammler.de-release-bahram-bashir-sama-cd-1765551
-      quote: Dele Divane · 14:24
+      quote: |-
+        Dele Divane · 14:24
       accessed: 2026-11-21
       locator: Earlier CD track list
+    - source: rythmes-croises.org-bahramji-bashir-master-disciple
+      quote: premier CD de BAHRAM (sans JI!) & BASHIR, Sama, paru en 1997 sur un label portugais, Nazca Music
+      locator: Earlier 1997 Sama CD identity; not later recording personnel
+      accessed: '2026-11-26'
   track of:
   - value: Qg35bga
     references:

@@ -14,15 +14,15 @@ statements:
   - value: album
     references:
     - source: labyrinthmusic.gr-en-sina-danesh
-      quote: Evocation of the Beloved
-      locator: Original programme, liner notes or performer credit
-      accessed: '2026-11-21'
+      quote: |-
+        Group Albums: • "Evocation of the Beloved" (Yād-e Yār) – Ensemble performance with Varshān, directed by Mehrdād Ālami
+      locator: Explicit Group Albums heading in personal CV
+      accessed: '2026-11-26'
   performer:
   - value: Qq6ap28
     references:
     - source: labyrinthmusic.gr-en-sina-danesh
-      quote: Evocation of the Beloved
-      locator: Original programme, liner notes or performer credit
-      accessed: '2026-11-21'
-    qualifiers:
-      role: kamancheh
+      quote: |-
+        Group Albums: • "Evocation of the Beloved" (Yād-e Yār) – Ensemble performance with Varshān, directed by Mehrdād Ālami
+      locator: Personal CV Group Albums ensemble-performance entry
+      accessed: '2026-11-26'
