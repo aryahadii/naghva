@@ -22,9 +22,9 @@ statements:
       date: '2018-06-08'
     references:
     - source: music.apple.com-us-album-tahdig-1386951010
-      quote: '2018-06-08'
-      accessed: '2026-11-21'
-      locator: Release metadata
+      quote: '"releaseDate":"2018-06-08"'
+      accessed: '2026-11-27'
+      locator: Archived whole source version https://web.archive.org/web/20231215165436/https://music.apple.com/us/album/tahdig/1386951010; script#serialized-server-data$[0].data.seoData.ogSongs[6].attributes.releaseDate; exact Song 1386951694 / type songs / name Donya vafa Nadare / direct parent Album 1386951010. Not a current live whole-page field.
   listen link:
   - value: https://music.apple.com/us/song/donya-vafa-nadare/1386951694
     references:

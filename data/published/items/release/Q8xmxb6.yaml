@@ -15,9 +15,9 @@ statements:
       date: '2020-11-19'
     references:
     - source: siamak-jahangiri-ap1541079949
-      quote: '2020-11-19'
-      accessed: '2026-11-21'
-      locator: Edition release date
+      quote: \"releaseDate\":\"2020-11-19\"
+      accessed: '2026-11-27'
+      locator: 'Actual archived whole Apple Music snapshot 20201120052751; escaped embedded JSON, own Song.attributes.releaseDate; read 2026-11-27T10:34:39.976457+00:00; DECODED script#shoebox-media-api-cache-amp-music cache[''\uf8ff.catalog.us.albums.1541079949.art.5burl.5d.f.extend.5balbums.5d.editorialartwork.extend.offers.2cpopularity.2ceditorialvideo.fields.5bartists.5d.name.2curl.include.5bsongs.5d.artists.2ccomposers.include.tracks.2cartists.l.en-us.omit.5bresource.5d.autos.views.appears-on.2cmore-by-artist.2crelated-videos.2cother-versions.2cyou-might-also-like.2cvideo-extras.2caudio-extras'']$.d[0].relationships.tracks.data[6].attributes.releaseDate; raw HTML byte offset 151146; ownership: exact own Album.relationships.tracks.data -> Song1541079956, parent1541079949; decoded field is interpretation, quoted substring is actual escaped HTML.'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ee/89/6d/ee896d18-3883-a277-cba8-6a9c2af68bc6/artwork.jpg/1200x630wp-60.jpg
     references:

@@ -22,9 +22,9 @@ statements:
       date: '2011-08-27'
     references:
     - source: music.apple.com-us-album-behind-the-seas-471973945
-      quote: '2011-08-27'
-      accessed: 2026-11-21
-      locator: Release date
+      quote: \"releaseDate\":\"2011-08-27\"
+      accessed: '2026-11-27'
+      locator: 'Actual archived whole Apple Music snapshot 20220812041517; escaped embedded JSON, own Song.attributes.releaseDate; read 2026-11-27T10:35:00.201355+00:00; DECODED script#shoebox-media-api-cache-amp-music cache[''\uf8ff.catalog.us.albums.471973945.art.5burl.5d.f.extend.5balbums.5d.editorialartwork.extend.offers.2ceditorialvideo.fields.5balbums.3aalbums.5d.artistname.2cartisturl.2cartwork.2ccontentrating.2ceditorialartwork.2cname.2cplayparams.2creleasedate.2curl.fields.5bartists.5d.name.2curl.fields.5brecord-labels.5d.name.2curl.include.5bmusic-videos.5d.artists.2ccomposers.include.5bsongs.5d.artists.2ccomposers.include.tracks.2cartists.2crecord-labels.l.en-us.meta.5balbums.3atracks.5d.popularity.omit.5bresource.5d.autos.platform.web.views.appears-on.2cmore-by-artist.2crelated-videos.2cother-versions.2cyou-might-also-like.2cvideo-extras.2caudio-extras'']$.d[0].relationships.tracks.data[7].attributes.releaseDate; raw HTML byte offset 210343; ownership: exact own Album.relationships.tracks.data -> Song471974056, parent471973945; decoded field is interpretation, quoted substring is actual escaped HTML.'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music/e7/c9/62/mzi.wjiurdbd.jpg/600x600bb-60.jpg
     references:
