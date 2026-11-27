@@ -4,7 +4,7 @@ import type { SiteRecord } from '../../src/lib/record';
 
 const record = JSON.parse(readFileSync(new URL('../../generated/record.json', import.meta.url), 'utf8')) as SiteRecord;
 // Routes recorded before the unsupported date claims were withdrawn.
-const routes: { [id: string]: string | null } = {
+const routes: { [id: string]: string } = {
   Qwbzhbx: '/cyminology-syr/#echoes-stereo-bounce-wbz',
   Qh38w63: '/blurred-vision-qrz/#amistad-de-fuego-h38',
   Qd7wfzq: '/nazanin-noori-k45/#apology-d7w',
@@ -12,7 +12,7 @@ const routes: { [id: string]: string | null } = {
   Qtfhf3g: '/blurred-vision-qrz/#silent-rain-tfh',
   Qdpnkd4: '/blurred-vision-qrz/#silent-rain-dpn',
   Q28sz4c: '/blurred-vision-qrz/#into-the-night-28s',
-  Qgjsffz: null,
+  Qgjsffz: '/nazanin-noori-k45/#die-legende-von-paul-und-paula-gjs',
 };
 const withdrawn = Object.keys(routes);
 const oldFragments: { [id: string]: string } = {
@@ -28,10 +28,6 @@ const oldFragments: { [id: string]: string } = {
 const bookmarks = withdrawn.map((id) => [oldFragments[id], id] as const);
 const destination = (id: string, lang: string) => {
   const host = record.items[record.panelHosts?.[id] ?? ''];
-  if (id === 'Qgjsffz') {
-    expect(host).toBeUndefined();
-    return null;
-  }
   expect(host?.page).toBeTruthy();
   const path = `/${lang}/${host.page}/#${record.items[id].anchor}`;
   expect(path).toBe(`/${lang}${routes[id]}`);
@@ -50,17 +46,9 @@ for (const lang of ['en', 'fa'] as const) {
       expect(record.items[id].statements['release date']).toBeUndefined();
       await page.goto(`/${lang}/timeline/#${fragment}`);
       const path = destination(id, lang);
-      if (path) {
-        await expect(page).toHaveURL(new URL(path, page.url()).href);
-        await expect(page.locator('#release-dialog')).toBeVisible();
-        await expect(page.locator('#release-dialog')).toHaveAttribute('aria-labelledby', `dialog-${record.items[id].anchor}-title`);
-      } else {
-        // Paul und Paula never had a recording panel: preserve its undated name.
-        await expect(page.locator(`#${fragment}`)).toBeVisible();
-        await expect(page.locator(`#${fragment}`)).toBeInViewport();
-        await expect(page.locator(`#${fragment}`)).toHaveText(record.items[id].names[lang]!.text);
-        await expect(page.locator(`#${fragment}`)).not.toHaveClass(/\bentry\b/);
-      }
+      await expect(page).toHaveURL(new URL(path, page.url()).href);
+      await expect(page.locator('#release-dialog')).toBeVisible();
+      await expect(page.locator('#release-dialog')).toHaveAttribute('aria-labelledby', `dialog-${record.items[id].anchor}-title`);
     });
   }
   test(`${lang}: same-document and direct bookmark hops preserve Back navigation`, async ({ page }) => {
@@ -93,10 +81,13 @@ test.describe('without JavaScript', () => {
         await expect(bookmark).toHaveText(record.items[id].names[lang]!.text);
         await expect(bookmark).not.toHaveClass(/\bentry\b/);
         const path = destination(id, lang);
-        if (path) {
-          await expect(bookmark).toHaveAttribute('href', path);
-          await bookmark.click();
-          await expect(page).toHaveURL(new URL(path, page.url()).href);
+        await expect(bookmark).toHaveAttribute('href', path);
+        await bookmark.click();
+        await expect(page).toHaveURL(new URL(path, page.url()).href);
+        if (id === 'Qgjsffz') {
+          const panel = page.locator(`[id="${record.items[id].anchor}"]`);
+          await expect(panel).toBeVisible();
+          await expect(panel.locator('.release-title')).toHaveText(record.items[id].names[lang]!.text);
         }
       });
     }
