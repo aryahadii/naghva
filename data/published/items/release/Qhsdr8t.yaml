@@ -16,22 +16,17 @@ statements:
       role:
       - tar
     references:
-    - source: labyrinthmusic.gr-en-siavash-imani
-      quote: The Spring Bare Stalk vol. 3
-      accessed: 2026-11-22
-      locator: Mahoor, 2023
+    - source: mahoor.com-en-cd-20707-the-spring-bare-stalk-3
+      quote: |-
+        Târ: Siâvash Imâni
+      locator: Exact MCD-634 product performer credit
+      accessed: '2026-11-27'
   release date:
   - value:
       date: '2023'
     references:
-    - source: labyrinthmusic.gr-en-siavash-imani
-      quote: The Spring Bare Stalk vol. 3
-      accessed: 2026-11-22
-      locator: Mahoor, 2023
-  release type:
-  - value: album
-    references:
-    - source: labyrinthmusic.gr-en-siavash-imani
-      quote: The Spring Bare Stalk vol. 3
-      accessed: 2026-11-22
-      locator: Mahoor, 2023
+    - source: mahoor.com-en-cd-20707-the-spring-bare-stalk-3
+      quote: |-
+        Publish Year : 2023
+      locator: Exact MCD-634 whole publication year, not separately issued sections
+      accessed: '2026-11-27'

@@ -25,3 +25,16 @@ Group history, interview or original programme, read 2026-11-21.
 > Founded in 2010 as part of the BAHAR Cultural Association, the Paris-Est Philharmonic Orchestra
 
 Orchestra history published by Bahar.
+
+> Listen to us
+
+Actual first-person own-listening catalogue heading on Bahar Choir official homepage, read 2026-11-27 at 02:34 UTC.
+
+> spotify:album:7Gvmyi06assVqRapptY9Tr
+
+Actual Spotify whole-album embed uri in the same Listen to us DOM section comp-miym49l6, one of three whole releases; not an individual-track listing or related-album recommendation, read 2026-11-27 at 02:34 UTC.
+
+The official first-person catalogue supports existing unqualified whole-
+project participation. It does not say Bahar sings on every track, and no
+all-track or instrument claim is added. The separately documented 2022
+concert and this 2023 Spotify edition are not asserted audio-equivalent.

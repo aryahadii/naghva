@@ -34,30 +34,39 @@ statements:
       quote: https://i.scdn.co/image/ab67616d0000b2737d0231ca7198622c78441dbd
       accessed: '2026-11-21'
       locator: Original Spotify og:image metadata
-  release date:
-  - value:
-      date: '2023-05-16'
-    references:
-    - source: spotify-bahar-voice-of-peace-2023
-      quote: May 16, 2023
-      accessed: '2026-11-21'
-      locator: Label copyright and publication date in Spotify’s original listing
   performer:
   - value: Qb85b99
     references:
     - source: open.spotify.com-embed-album-7gvmyi06assvqrappty9tr
-      quote: Arash Fouladvand
-      accessed: '2026-11-21'
-      locator: Group history, interview or original programme
+      quote: Arash Fouladvand, Orchestre Philharmonique de Paris-Est, Bahar Choir Group
+      locator: Exact native entity.trackList[4].subtitle, track 5 of 13; URI spotify:track:3NTuglL5OYV7HqSRfv0GDN
+      accessed: '2026-11-27'
   - value: Qtk427w
     references:
     - source: open.spotify.com-embed-album-7gvmyi06assvqrappty9tr
-      quote: Orchestre Philharmonique de Paris-Est
-      accessed: '2026-11-21'
-      locator: Group history, interview or original programme
+      quote: Arash Fouladvand, Orchestre Philharmonique de Paris-Est, Bahar Choir Group
+      locator: Exact native entity.trackList[4].subtitle, track 5 of 13; URI spotify:track:3NTuglL5OYV7HqSRfv0GDN
+      accessed: '2026-11-27'
   - value: Qs4s44j
     references:
     - source: open.spotify.com-embed-album-7gvmyi06assvqrappty9tr
-      quote: Bahar Choir Group
-      accessed: '2026-11-21'
-      locator: Group history, interview or original programme
+      quote: Arash Fouladvand, Orchestre Philharmonique de Paris-Est, Bahar Choir Group
+      locator: Exact native entity.trackList[4].subtitle, track 5 of 13; URI spotify:track:3NTuglL5OYV7HqSRfv0GDN
+      accessed: '2026-11-27'
+  track of:
+  - value: Qstsngc
+    references:
+    - source: open.spotify.com-embed-album-7gvmyi06assvqrappty9tr
+      quote: |-
+        spotify:track:3NTuglL5OYV7HqSRfv0GDN
+      locator: Spotify album track 5 of 13, native entity.trackList[4], exact album 7Gvmyi06assVqRapptY9Tr; full ordered list, URI, title and billing captured
+      accessed: '2026-11-27'
+  release date:
+  - value:
+      date: '2023-05-16'
+    references:
+    - source: open.spotify.com-track-3ntugll5oyv7hqsrfv0gdn
+      quote: |-
+        "datePublished":"2023-05-16"
+      locator: Native JSON-LD MusicRecording @id https://open.spotify.com/track/3NTuglL5OYV7HqSRfv0GDN; directly scoped track publication metadata, not album-only date or physical first-issue proof
+      accessed: '2026-11-27'

@@ -12,11 +12,19 @@ statements:
       locator: Group history, interview or original programme
   release type:
   - value: album
+    rank: normal
     references:
-    - source: open.spotify.com-embed-album-7gvmyi06assvqrappty9tr
-      quote: Voice Of Peace, Voice Of Solidarity
-      accessed: '2026-11-21'
-      locator: Group history, interview or original programme
+    - source: spotify-bahar-voice-of-peace-2023
+      quote: Arash Fouladvand · Album · 2023 · 13 songs
+      locator: Verified archivedSpotifyog:description, snapshot2025-08-22T03:05:57Z atsamealbumID; archivedAlbumclassification
+      accessed: '2026-11-27'
+  - value: compilation
+    rank: normal
+    references:
+    - source: spotify-bahar-voice-of-peace-2023
+      quote: Arash Fouladvand · compilation · 2023 · 13 songs
+      locator: Original Spotify album page og:description, exactalbum7Gvmyi06assVqRapptY9Tr; current2026read, not olderarchive
+      accessed: '2026-11-27'
   listen link:
   - value: https://open.spotify.com/album/7Gvmyi06assVqRapptY9Tr
     references:
@@ -27,16 +35,21 @@ statements:
   performer:
   - value: Qs4s44j
     references:
-    - source: open.spotify.com-embed-album-7gvmyi06assvqrappty9tr
-      quote: Bahar Choir Group
-      accessed: '2026-11-21'
-      locator: Group history, interview or original programme
+    - source: www.baharchoir.com
+      quote: Listen to us
+      locator: Official Bahar Choir own-listening catalogue, Listen to us; exact whole Spotify album 7Gvmyi06assVqRapptY9Tr, not track-only billing
+      accessed: '2026-11-27'
+    - source: www.baharchoir.com
+      quote: |-
+        spotify:album:7Gvmyi06assVqRapptY9Tr
+      locator: Official Bahar Choir own-listening catalogue, Listen to us; exact whole Spotify album 7Gvmyi06assVqRapptY9Tr, not track-only billing
+      accessed: '2026-11-27'
   - value: Qb85b99
     references:
     - source: open.spotify.com-embed-album-7gvmyi06assvqrappty9tr
-      quote: Voice Of Peace, Voice Of Solidarity
-      accessed: '2026-11-21'
-      locator: Group history, interview or original programme
+      quote: Arash Fouladvand
+      locator: Native album entity.subtitle, wholeheader billing (not individualtrack subtitle)
+      accessed: '2026-11-27'
   cover art:
   - value: https://i.scdn.co/image/ab67616d0000b2737d0231ca7198622c78441dbd
     qualifiers:
