@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2022-06-06'
     references:
-    - source: siamak-jahangiri-ap1629982331
-      quote: '2022-06-06'
-      accessed: '2026-11-21'
-      locator: Edition release date
+    - source: music.apple.com-us-song-sazo-avaze-dashti-1629982776
+      quote: '{"@type":"MusicRecording","name":"Sazo Avaze Dashti","url":"https://music.apple.com/us/song/sazo-avaze-dashti/1629982776","datePublished":"2022-06-06"'
+      locator: Native application/ld+json.audio MusicRecording, exact track 1629982776, datePublished
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6f/0b/b7/6f0bb73d-3e55-42bc-5d4e-1beac877c232/196925155250.jpg/1200x630wp-60.jpg
     references:

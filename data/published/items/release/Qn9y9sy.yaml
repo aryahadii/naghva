@@ -39,10 +39,10 @@ statements:
   - value:
       date: '2025-04-02'
     references:
-    - source: music.apple.com-us-album-sar-c4-81b-1805200664
-      quote: '2025-04-02'
-      accessed: 2026-11-21
-      locator: Digital edition date
+    - source: music.apple.com-us-song-mandeer-feat-nima-hafezieh-1805200856
+      quote: '{"@type":"MusicRecording","name":"Mandeer (feat. Nima Hafezieh)","url":"https://music.apple.com/us/song/mandeer-feat-nima-hafezieh/1805200856","datePublished":"2025-04-02"'
+      locator: Native application/ld+json.audio MusicRecording, exact track 1805200856, datePublished
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e8/a7/f0/e8a7f008-e445-efaa-6115-0e0594a6b787/199199392451.jpg/1200x630bb.jpg
     references:

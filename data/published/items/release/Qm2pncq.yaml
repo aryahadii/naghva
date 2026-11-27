@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2026-06-10'
     references:
-    - source: ahoora.bandcamp.com-album-we-were-here-tehran-2011
-      quote: released June 10, 2026
-      accessed: 2026-11-21
-      locator: Release date
+    - source: music.apple.com-us-song-partenza-6778950377
+      quote: '{"@type":"MusicRecording","name":"Partenza","url":"https://music.apple.com/us/song/partenza/6778950377","datePublished":"2026-06-10"'
+      locator: Native application/ld+json.audio MusicRecording, exact track 6778950377, datePublished
+      accessed: '2026-11-27'
   performer:
   - value: Qkb4887
     references:

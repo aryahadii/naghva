@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2007-09-30'
     references:
-    - source: ahoora.bandcamp.com-album-all-in-blood-with-you
-      quote: released September 30, 2007
-      accessed: 2026-11-21
-      locator: Release date
+    - source: music.apple.com-us-song-a-history-of-extinction-6800489038
+      quote: '{"@type":"MusicRecording","name":"A History Of Extinction","url":"https://music.apple.com/us/song/a-history-of-extinction/6800489038","datePublished":"2007-09-30"'
+      locator: Native application/ld+json.audio MusicRecording, exact track 6800489038, datePublished
+      accessed: '2026-11-27'
   performer:
   - value: Qkb4887
     references:
