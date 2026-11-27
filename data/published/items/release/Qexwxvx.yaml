@@ -41,13 +41,12 @@ statements:
       accessed: 2026-11-21
       locator: Spotify native issue
   release type:
-  - value: live album
+  - value: ep
     references:
     - source: music.apple.com-us-album-live-in-concert-turkey-2021-live-at-beykoz-kundura-1768015691
-      quote: Live in Concert, Turkey (2021) [Live at Beykoz Kundura Cinema, Istanbul, 2021] - EP · Farshad Mohammadi
-        · Ayşegül Coşkun · Vahid Taj · 2021-07-01
-      accessed: 2026-11-21
-      locator: Digital edition, date and artist billing
+      quote: '"name":"Live in Concert, Turkey (2021) [Live at Beykoz Kundura Cinema, Istanbul, 2021] - EP"'
+      accessed: '2026-11-27'
+      locator: Own exact Apple album 1768015691 JSON-LD name; explicit product EP label, not generic MusicAlbum wrapper
   release date:
   - value:
       date: '2021-07-01'
