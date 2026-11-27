@@ -46,10 +46,10 @@ statements:
   - value:
       date: '2021-02-26'
     references:
-    - source: music.apple.com-us-album-endeavor-1531973256
-      quote: '2021-02-26'
-      accessed: '2026-11-21'
-      locator: Original release or upload date
+    - source: themuckersband.bandcamp.com-track-to-the-core-of-the-sun
+      quote: '"datePublished":"26 Feb 2021 00:00:00 GMT"'
+      locator: application/ld+json exact MusicRecording https://themuckersband.bandcamp.com/track/to-the-core-of-the-sun datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a2953404952_10.jpg
     qualifiers:

@@ -45,10 +45,10 @@ statements:
   - value:
       date: '2018-06-28'
     references:
-    - source: eishanensemble.bandcamp.com-album-nim-dong
-      quote: released June 28, 2018
-      accessed: '2026-11-21'
-      locator: Release date
+    - source: eishanensemble.bandcamp.com-track-behind-the-window
+      quote: '"datePublished":"28 Jun 2018 00:00:00 GMT"'
+      locator: application/ld+json exact MusicRecording https://eishanensemble.bandcamp.com/track/behind-the-window datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a3499513972_10.jpg
     qualifiers:
