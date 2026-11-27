@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2026-05-01'
     references:
-    - source: zojduet.bandcamp.com-album-may-the-devils-ear-be-deaf
-      quote: released May 1, 2026
-      accessed: '2026-11-21'
-      locator: Release credits, publication date
+    - source: zojduet.bandcamp.com-track-termites
+      quote: '"datePublished":"01 May 2026 00:00:00 GMT"'
+      locator: application/ld+json exact MusicRecording https://zojduet.bandcamp.com/track/termites datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a4180323479_10.jpg
     qualifiers:

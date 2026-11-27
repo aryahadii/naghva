@@ -67,10 +67,10 @@ statements:
   - value:
       date: '2024-11-08'
     references:
-    - source: vazesh.bandcamp.com-album-tapestry
-      quote: released November 8, 2024
-      accessed: '2026-11-21'
-      locator: Bandcamp date
+    - source: vazesh.bandcamp.com-track-zircon
+      quote: '"datePublished":"08 Nov 2024 00:00:00 GMT"'
+      locator: application/ld+json exact MusicRecording https://vazesh.bandcamp.com/track/zircon datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   contributor:
   - value: Qmgbz4h
     qualifiers:

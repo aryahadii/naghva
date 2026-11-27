@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2020-07-30'
     references:
-    - source: zojduet.bandcamp.com-album-b-r-n-kh-kestar-ash-rain-demo
-      quote: released July 30, 2020
-      accessed: '2026-11-21'
-      locator: Release credits, publication date
+    - source: zojduet.bandcamp.com-track-sadaf-kh-li-empty-shell
+      quote: '"datePublished":"30 Jul 2020 00:00:00 GMT"'
+      locator: application/ld+json exact MusicRecording https://zojduet.bandcamp.com/track/sadaf-kh-li-empty-shell datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a0046117388_10.jpg
     qualifiers:
