@@ -15,9 +15,11 @@ statements:
       date: '2019-02-20'
     references:
     - source: siamak-jahangiri-ap1463385430
-      quote: '2019-02-20'
-      accessed: '2026-11-21'
-      locator: Edition release date
+      quote: '"releaseDate":"2019-02-20"'
+      accessed: '2026-11-27'
+      locator: Archived whole source version https://web.archive.org/web/20240915034203/https://music.apple.com/us/album/an-unawaited-wayfarer/1463385430;
+        script#serialized-server-data$[0].data.seoData.ogSongs[1].attributes.releaseDate; exact Song 1463385432 / type
+        songs / name The Stranger / direct parent Album 1463385430. Not a current live whole-page field.
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3f/af/47/3faf47d2-49d6-5f9a-ce17-edbb7e0a51ce/6260608006970.jpg/1200x630wp-60.jpg
     references:

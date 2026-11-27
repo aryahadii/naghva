@@ -15,9 +15,11 @@ statements:
       date: '2018-10-02'
     references:
     - source: siamak-jahangiri-ap1439568369
-      quote: '2018-10-02'
-      accessed: '2026-11-21'
-      locator: Edition release date
+      quote: '"releaseDate":"2018-10-02"'
+      accessed: '2026-11-27'
+      locator: Archived whole source version https://web.archive.org/web/20250122100830/https://music.apple.com/us/album/that-very-nay-i-am/1439568369;
+        script#serialized-server-data$[0].data.seoData.ogSongs[10].attributes.releaseDate; exact Song 1439568623 / type
+        songs / name Beshno Az in Khamush, Pt. 1 / direct parent Album 1439568369. Not a current live whole-page field.
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/fb/f8/3d/fbf83d78-64f8-f224-be12-375ae5d0d159/6260608006253.jpg/1200x630wp-60.jpg
     references:
