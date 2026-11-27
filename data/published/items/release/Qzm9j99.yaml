@@ -30,10 +30,10 @@ statements:
   - value:
       date: '2024-10-04'
     references:
-    - source: lowen.bandcamp.com-album-do-not-go-to-war-with-the-demons-of-mazandaran-2
-      quote: released October 4, 2024
-      accessed: 2026-11-21
-      locator: Release details
+    - source: music.apple.com-us-song-ghazal-for-the-embrace-of-fire-1743831636
+      quote: '"datePublished":"2024-10-04"'
+      locator: application/ld+json.audio exact MusicRecording 1743831636 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a3840398926_10.jpg
     references:
