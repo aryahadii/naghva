@@ -13,3 +13,7 @@ Official video title and uploader, read 2026-11-21.
 > 2010-12-10
 
 Native public upload date, read 2026-11-21.
+
+> Performed by Mobius Trio
+
+Native description, opening line; exact videoOmPB_0qaCt0, read 2026-11-27.

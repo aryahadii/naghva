@@ -20,9 +20,18 @@ statements:
   - value: Qnessyd
     references:
     - source: youtu.be-1aqc54h5zsc
-      quote: Cymin Samawatie | ARTISTIC DIRECTOR
-      accessed: 2026-11-21
-      locator: Artistic direction
+      quote: Mariam Meetra, Cymin Samawatie, Roshanak Rafani, Asia Mehrabi | VOCALS
+      locator: Native description, Artists roster, VOCALS line
+      accessed: '2026-11-27'
+  - value: Qyy9hf9
+    qualifiers:
+      role:
+      - conductor
+    references:
+    - source: youtu.be-1aqc54h5zsc
+      quote: Cymin Samawatie, Mona Matbou Riahi, Tiago Moreira da Silva, Susanne Fröhlich, Taiko Saito | CONDUCTORS
+      locator: Native description, Artists roster, CONDUCTORS line
+      accessed: '2026-11-27'
   listen link:
   - value: https://youtu.be/1Aqc54h5zSc
     references:
@@ -38,14 +47,3 @@ statements:
       quote: '20230915'
       accessed: 2026-11-21
       locator: Video publication date
-  contributor:
-  - value: Qyy9hf9
-    qualifiers:
-      role:
-      - composer
-    references:
-    - source: youtu.be-1aqc54h5zsc
-      quote: (28:20) Andoh az marz megozarad (Suffering Crosses Borders), poem by Mariam Meetra, comprovisation
-        by Mona Matbou Riahi
-      accessed: 2026-11-21
-      locator: Original programme, 28:20

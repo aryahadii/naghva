@@ -12,14 +12,11 @@ statements:
       locator: 1997 CD catalogue and disc scan
   performer:
   - value: Q9y35r9
-    qualifiers:
-      role:
-      - santur
     references:
-    - source: deploy.musik-sammler.de-release-bahram-bashir-sama-cd-1765551
-      quote: Nazca Music / Naz 9705
-      accessed: 2026-11-21
-      locator: 1997 CD catalogue and disc scan
+    - source: rythmes-croises.org-bahramji-bashir-master-disciple
+      quote: premier CD de BAHRAM (sans JI!) & BASHIR, Sama, paru en 1997 sur un label portugais, Nazca Music
+      locator: Review paragraph distinguishing original1997NazcaSama from laterBlueFlameMaster&Disciple; explicit Bahram(sansJI) identity bridge
+      accessed: '2026-11-27'
   release type:
   - value: album
     references:

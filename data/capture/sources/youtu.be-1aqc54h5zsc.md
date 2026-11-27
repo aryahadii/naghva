@@ -77,3 +77,11 @@ Concert title, read 2026-11-21.
 > 2023-09-15
 
 Original issue date, read 2026-11-21.
+
+> Mariam Meetra, Cymin Samawatie, Roshanak Rafani, Asia Mehrabi | VOCALS
+
+Native description, Artists roster, VOCALS line, read 2026-11-27.
+
+> Cymin Samawatie, Mona Matbou Riahi, Tiago Moreira da Silva, Susanne Fröhlich, Taiko Saito | CONDUCTORS
+
+Native description, Artists roster, CONDUCTORS line, read 2026-11-27.
