@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2011-08-27'
     references:
-    - source: music.apple.com-us-album-behind-the-seas-471973945
-      quote: '2011-08-27'
-      accessed: 2026-11-21
-      locator: Release date
+    - source: music.apple.com-us-song-barafshan-471974063
+      quote: '"datePublished":"2011-08-27"'
+      locator: application/ld+json.audio exact MusicRecording 471974063 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music/e7/c9/62/mzi.wjiurdbd.jpg/600x600bb-60.jpg
     references:

@@ -51,10 +51,10 @@ statements:
   - value:
       date: '2020-05-15'
     references:
-    - source: eishanensemble.bandcamp.com-album-afternoon-tea-at-six
-      quote: released May 15, 2020
-      accessed: '2026-11-21'
-      locator: Release date
+    - source: eishanensemble.bandcamp.com-track-wind
+      quote: '"datePublished":"15 May 2020 00:00:00 GMT"'
+      locator: application/ld+json exact MusicRecording https://eishanensemble.bandcamp.com/track/wind datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a0538859971_10.jpg
     qualifiers:

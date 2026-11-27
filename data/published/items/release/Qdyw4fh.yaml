@@ -37,10 +37,10 @@ statements:
   - value:
       date: '2011-06-21'
     references:
-    - source: themast.bandcamp.com-album-wild-poppies
-      quote: released June 21, 2011
-      accessed: 2026-11-21
-      locator: Release date
+    - source: open.spotify.com-track-0j8lx8irgcith0d61tjn0o
+      quote: '"datePublished":"2011-06-21"'
+      locator: application/ld+json exact MusicRecording 0J8lX8IrGciTh0D61TJn0o datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a0701737205_2.jpg
     references:

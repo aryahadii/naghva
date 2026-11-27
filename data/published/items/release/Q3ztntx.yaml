@@ -27,10 +27,10 @@ statements:
   - value:
       date: '2022-05-27'
     references:
-    - source: music.apple.com-us-album-alideh-1620207611
-      quote: '2022-05-27'
-      accessed: '2026-11-21'
-      locator: Release metadata
+    - source: music.apple.com-us-song-zendegui-1620207833
+      quote: '"datePublished":"2022-05-27"'
+      locator: application/ld+json.audio exact MusicRecording 1620207833 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/d3/05/3a/d3053a87-d594-6bbd-3c9e-0e38df2aa29a/cover.jpg/632x632bb-60.jpg
     references:

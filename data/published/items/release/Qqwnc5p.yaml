@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2026-01-14'
     references:
-    - source: subran.bandcamp.com-album
-      quote: released January 14, 2026
-      accessed: 2026-11-21
-      locator: Original date
+    - source: subran.bandcamp.com-track-manuia-te-moana
+      quote: '"datePublished":"14 Jan 2026 00:00:00 GMT"'
+      locator: application/ld+json exact MusicRecording https://subran.bandcamp.com/track/manuia-te-moana datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   listen link:
   - value: https://subran.bandcamp.com/track/manuia-te-moana
     references:

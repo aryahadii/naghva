@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2025-01-18'
     references:
-    - source: siamak-jahangiri-ap6824610921
-      quote: '2025-01-18'
-      accessed: '2026-11-21'
-      locator: Edition release date
+    - source: music.apple.com-us-song-abu-ata-saqi-nameh-6824610939
+      quote: '"datePublished":"2025-01-18"'
+      locator: application/ld+json.audio exact MusicRecording 6824610939 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/13/32/fd/1332fda9-aa3e-b66f-5fe3-db5be8f02193/9008798788279_cover.jpg/1200x630wp-60.jpg
     references:

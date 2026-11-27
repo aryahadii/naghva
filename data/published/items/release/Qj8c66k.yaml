@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2021-05-07'
     references:
-    - source: eishanensemble.bandcamp.com-album-project-masnavi
-      quote: released May 7, 2021
-      accessed: '2026-11-21'
-      locator: Release date
+    - source: eishanensemble.bandcamp.com-track-shiraz
+      quote: '"datePublished":"07 May 2021 00:00:00 GMT"'
+      locator: application/ld+json exact MusicRecording https://eishanensemble.bandcamp.com/track/shiraz datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a1507087778_10.jpg
     qualifiers:

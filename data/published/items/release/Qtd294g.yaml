@@ -37,10 +37,10 @@ statements:
   - value:
       date: '2023-11-05'
     references:
-    - source: music.apple.com-us-album-1715579265
-      quote: '2023-11-05'
-      locator: Published artist, title or credits
-      accessed: '2026-11-21'
+    - source: music.apple.com-us-song-aseman-old-song-feat-samin-ghorbani-1715579477
+      quote: '"datePublished":"2023-11-05"'
+      locator: application/ld+json.audio exact MusicRecording 1715579477 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/09/65/86/096586a0-1430-d4d8-6354-e265dd3bd614/artwork.jpg/1200x630bb.jpg
     references:
