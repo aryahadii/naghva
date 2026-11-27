@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2019-10-11'
     references:
-    - source: music.apple.com-us-album-invisible-1483041196
-      quote: '2019-10-11'
-      accessed: '2026-11-21'
-      locator: Issue date
+    - source: music.apple.com-us-song-kamanche-solo-1483041203
+      quote: '"datePublished":"2019-10-11"'
+      locator: application/ld+json.audio exact MusicRecording 1483041203 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/52/8b/44/528b4464-db68-b5fd-1f33-4bf6edbc1edb/753070791179.jpg/1200x630wp-60.jpg
     references:

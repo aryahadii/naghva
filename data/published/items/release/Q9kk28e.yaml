@@ -33,10 +33,10 @@ statements:
   - value:
       date: '2025-10-24'
     references:
-    - source: music.apple.com-at-album-liminal-1847488054
-      quote: '2025-10-24'
-      accessed: 2026-11-21
-      locator: Digital edition issue date
+    - source: music.apple.com-at-song-intro-feat-reza-tavakoli-1847488055
+      quote: '"datePublished":"2025-10-24"'
+      locator: application/ld+json.audio exact MusicRecording 1847488055 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/43/62/f7436295-fbe5-087a-0394-6bb3522538e2/199800863837.jpg/1200x630bb.jpg
     references:

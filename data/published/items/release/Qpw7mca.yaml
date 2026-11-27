@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2021-09-12'
     references:
-    - source: music.apple.com-us-album-bote-jeghe-1586165677
-      quote: '2021-09-12'
-      accessed: '2026-11-21'
-      locator: Issue date
+    - source: music.apple.com-us-song-cascabel-azul-1586165679
+      quote: '"datePublished":"2021-09-12"'
+      locator: application/ld+json.audio exact MusicRecording 1586165679 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fa/84/d0/fa84d08c-b31d-676b-bf51-3dd5ff276dd2/198000933715.jpg/1200x630wp-60.jpg
     references:
