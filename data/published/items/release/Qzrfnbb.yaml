@@ -42,10 +42,10 @@ statements:
   - value:
       date: '2024-03-13'
     references:
-    - source: music.apple.com-us-album-so-faraway-ep-1771053704
-      quote: '2024-03-13'
-      accessed: '2026-11-21'
-      locator: Apple Music edition issue date
+    - source: music.apple.com-us-song-homayun-zarbi-khani-hesar-zang-e-shotor-joghatayi-segah-1771054099
+      quote: '"datePublished":"2024-03-13"'
+      locator: application/ld+json.audio exact MusicRecording 1771054099 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/a0/e7/41a0e7cf-149b-6428-2504-8d5df3450589/0759675966004.jpg/1200x630bb.jpg
     qualifiers:

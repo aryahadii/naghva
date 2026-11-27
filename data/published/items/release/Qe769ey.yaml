@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2026-06-10'
     references:
-    - source: ahoora.bandcamp.com-album-we-were-here-tehran-2011
-      quote: released June 10, 2026
-      accessed: 2026-11-21
-      locator: Release date
+    - source: music.apple.com-us-song-prayer-for-a-sleeping-city-6778950370
+      quote: '"datePublished":"2026-06-10"'
+      locator: application/ld+json.audio exact MusicRecording 6778950370 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   performer:
   - value: Qkb4887
     references:

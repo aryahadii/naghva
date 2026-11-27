@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2015-04-20'
     references:
-    - source: themast.bandcamp.com-album-1
-      quote: released April 20, 2015
-      accessed: 2026-11-21
-      locator: Release date
+    - source: open.spotify.com-track-65zy9meyetmvcjc4vlioao
+      quote: '"datePublished":"2015-04-20"'
+      locator: application/ld+json exact MusicRecording 65zY9MEYETmVCjC4vlIOao datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a3234590678_2.jpg
     references:

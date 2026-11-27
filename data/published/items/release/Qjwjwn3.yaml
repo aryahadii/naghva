@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2022-06-06'
     references:
-    - source: siamak-jahangiri-ap1629982331
-      quote: '2022-06-06'
-      accessed: '2026-11-21'
-      locator: Edition release date
+    - source: music.apple.com-us-song-tasnife-hasrate-ayeneh-1629983138
+      quote: '"datePublished":"2022-06-06"'
+      locator: application/ld+json.audio exact MusicRecording 1629983138 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/6f/0b/b7/6f0bb73d-3e55-42bc-5d4e-1beac877c232/196925155250.jpg/1200x630wp-60.jpg
     references:

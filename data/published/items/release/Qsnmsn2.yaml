@@ -30,10 +30,10 @@ statements:
   - value:
       date: '2023'
     references:
-    - source: www.radiopodcast.unam.mx-podcast-audio-45383
-      quote: “ASATIR”, publicado en 2023
-      accessed: '2026-11-21'
-      locator: Broadcaster description
+    - source: open.spotify.com-track-6vuxglj68oxzsrcan4zntd
+      quote: '"datePublished":"2023-11-01"'
+      locator: application/ld+json exact MusicRecording 6VUXGlj68oXzsrCAN4zNtD datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   listen link:
   - value: https://open.spotify.com/track/6VUXGlj68oXzsrCAN4zNtD
     references:

@@ -41,10 +41,10 @@ statements:
   - value:
       date: '2014-05-12'
     references:
-    - source: music.apple.com-us-album-iran-music-of-the-qajar-era-848988435
-      quote: '2014-05-12'
-      accessed: '2026-11-21'
-      locator: First digital issue
+    - source: music.apple.com-us-song-av-c3-a2z-e-afsh-c3-a2ri-tasnif-y-c3-a2ram-be-yek-la-pirhan-feat-pantea-848988818
+      quote: '"datePublished":"2014-05-12"'
+      locator: application/ld+json.audio exact MusicRecording 848988818 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   listen link:
   - value: https://music.apple.com/us/song/av%C3%A2z-e-afsh%C3%A2ri-tasnif-y%C3%A2ram-be-yek-la-pirhan-feat-pantea/848988818
     references:
