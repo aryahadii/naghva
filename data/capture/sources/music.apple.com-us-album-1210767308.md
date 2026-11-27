@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/1210767308
 title: ‎Stars At Eye-Height - Album by Tabeah - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Sheen Trio
 - Shabnam Parvaresh

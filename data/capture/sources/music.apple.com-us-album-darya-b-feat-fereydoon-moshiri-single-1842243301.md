@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/darya-b-feat-fereydoon-moshiri-single/1842243301
 title: Darya B (feat. Fereydoon Moshiri) - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

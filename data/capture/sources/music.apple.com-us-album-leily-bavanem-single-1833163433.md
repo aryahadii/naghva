@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/leily-bavanem-single/1833163433
 title: Leily Bavanem - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

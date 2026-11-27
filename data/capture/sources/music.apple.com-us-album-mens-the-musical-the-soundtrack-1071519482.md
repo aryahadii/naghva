@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/mens-the-musical-the-soundtrack/1071519482
 title: Mens The Musical (The Soundtrack)
-tier: own
+tier: discography
 language: en
 status: processed
 ---

@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/freedom-story-live-feat-borderless-band-single/1783206803
 title: Freedom Story (Live) [feat. Borderless Band] - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

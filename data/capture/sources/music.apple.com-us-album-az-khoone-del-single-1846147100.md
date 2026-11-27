@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/az-khoone-del-single/1846147100
 title: Az Khoone Del - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

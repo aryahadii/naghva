@@ -1,7 +1,7 @@
 ---
 url: https://open.spotify.com/album/67Y8JIhxSeQK8MPes7XPlM
 title: From the vaults vol 2 -In dub 2000-2009
-tier: own
+tier: discography
 language: en
 status: processed
 ---

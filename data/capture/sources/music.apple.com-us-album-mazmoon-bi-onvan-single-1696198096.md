@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/mazmoon-bi-onvan-single/1696198096
 title: Mazmoon Bi Onvan - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

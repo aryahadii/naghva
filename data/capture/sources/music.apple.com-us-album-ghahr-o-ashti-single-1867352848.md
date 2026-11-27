@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/ghahr-o-ashti-single/1867352848
 title: Ghahr O Ashti - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

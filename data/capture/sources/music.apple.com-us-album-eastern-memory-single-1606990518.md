@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/eastern-memory-single/1606990518
 title: Eastern Memory - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

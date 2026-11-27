@@ -4,7 +4,7 @@ archive: https://web.archive.org/web/20190817214356/https://open.spotify.com/tra
 title: Black Veil - song and lyrics by Marie Sahba | Spotify
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Marie Sahba
 ---

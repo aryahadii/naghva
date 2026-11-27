@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/ba-ye-boose-single/1516153090
 title: Ba Ye Boose - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/jodai-single/1727955600
 title: Jodai - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

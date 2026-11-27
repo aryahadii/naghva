@@ -1,7 +1,7 @@
 ---
 url: https://open.spotify.com/album/6wWKlLvLg6afpFkFriLp5o
 title: Dust and the Moon
-tier: own
+tier: discography
 language: en
 status: processed
 ---

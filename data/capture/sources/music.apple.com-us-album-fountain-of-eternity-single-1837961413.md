@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/fountain-of-eternity-single/1837961413
 title: Fountain of Eternity - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

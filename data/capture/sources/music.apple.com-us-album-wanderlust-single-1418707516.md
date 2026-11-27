@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/wanderlust-single/1418707516
 title: Wanderlust - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

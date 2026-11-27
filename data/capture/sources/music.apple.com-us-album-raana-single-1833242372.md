@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/raana-single/1833242372
 title: Raana - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

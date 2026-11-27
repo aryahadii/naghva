@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/chera-penhan-konam-single/1537906546
 title: Chera Penhan Konam - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

@@ -2,7 +2,7 @@
 url: https://open.spotify.com/album/45Y7dBF8qqIcNDy2uiJs0g
 archive: "https://web.archive.org/web/20240318052811/https://open.spotify.com/album/45Y7dBF8qqIcNDy2uiJs0g"
 title: Melode 360
-tier: own
+tier: discography
 language: en
 status: processed
 ---

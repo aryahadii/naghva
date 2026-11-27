@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/i-v%C3%A4ntan-p%C3%A5-sjulsm%C3%A4ss/1539686768
 title: I Väntan På Sjulsmäss
-tier: own
+tier: discography
 language: en
 status: processed
 ---

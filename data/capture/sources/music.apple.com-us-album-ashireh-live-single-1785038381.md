@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/ashireh-live-single/1785038381
 title: Ashireh (Live) - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

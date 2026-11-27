@@ -1,7 +1,7 @@
 ---
 url: https://open.spotify.com/album/70vhWnOJAfpbi9AAdzRD9r
 title: To Va Man
-tier: own
+tier: discography
 language: en
 status: processed
 ---

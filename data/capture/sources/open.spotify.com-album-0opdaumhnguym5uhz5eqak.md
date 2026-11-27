@@ -2,7 +2,7 @@
 url: https://open.spotify.com/album/0oPdaumhnGUym5Uhz5EQaK
 archive: "https://web.archive.org/web/20190124105500/https://open.spotify.com/album/0oPdaumhnGUym5Uhz5EQaK"
 title: United Colors of Ska 4.0
-tier: own
+tier: discography
 language: en
 status: processed
 ---

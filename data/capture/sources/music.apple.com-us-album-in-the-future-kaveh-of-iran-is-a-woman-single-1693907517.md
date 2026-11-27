@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/in-the-future-kaveh-of-iran-is-a-woman-single/1693907517
 title: In The Future, Kaveh of Iran Is A Woman - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

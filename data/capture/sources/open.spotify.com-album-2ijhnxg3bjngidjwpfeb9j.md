@@ -2,7 +2,7 @@
 url: https://open.spotify.com/album/2iJHnXg3BJngidJWpFeB9J
 archive: "https://web.archive.org/web/20150914213023/https://open.spotify.com/album/2iJHnXg3BJngidJWpFeB9J"
 title: '1'
-tier: own
+tier: discography
 language: en
 status: processed
 ---

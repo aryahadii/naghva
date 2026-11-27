@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/pardeye-rangin-single/1543961451
 title: Pardeye Rangin - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

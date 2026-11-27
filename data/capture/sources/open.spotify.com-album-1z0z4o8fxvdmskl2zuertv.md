@@ -1,7 +1,7 @@
 ---
 url: https://open.spotify.com/album/1z0z4o8FxvdMskl2ZueRtV
 title: Shahamat
-tier: own
+tier: discography
 language: en
 status: processed
 ---

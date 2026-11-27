@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/fasle-gol-feat-reza-rokni-tara-pirayandeh-single/1798592311
 title: Fasle Gol (feat. Reza Rokni & Tara Pirayandeh) - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

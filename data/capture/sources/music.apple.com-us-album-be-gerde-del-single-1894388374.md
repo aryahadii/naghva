@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/be-gerde-del-single/1894388374
 title: Be Gerde Del - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

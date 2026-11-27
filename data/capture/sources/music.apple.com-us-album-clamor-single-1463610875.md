@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/clamor-single/1463610875
 title: Clamor - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

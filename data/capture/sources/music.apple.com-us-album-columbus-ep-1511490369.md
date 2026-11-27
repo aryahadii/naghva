@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/columbus-ep/1511490369
 title: Columbus - EP
-tier: own
+tier: discography
 language: en
 status: processed
 ---

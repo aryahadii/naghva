@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/1616859852
 title: ‎Devotion - Album by Sasha Shlain & Jivan Gasparyan Jr. - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Sheen Trio
 - Shabnam Parvaresh

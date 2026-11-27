@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/sorood-e-soroor-single/1787449041
 title: Sorood-e Soroor - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

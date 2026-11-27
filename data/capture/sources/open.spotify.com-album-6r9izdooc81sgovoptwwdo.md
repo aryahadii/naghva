@@ -2,7 +2,7 @@
 url: https://open.spotify.com/album/6r9IZdoOC81sgovopTwWDO
 archive: "https://web.archive.org/web/20210304124651/https://open.spotify.com/album/6r9IZdoOC81sgovopTwWDO"
 title: UpUpUp
-tier: own
+tier: discography
 language: en
 status: processed
 ---

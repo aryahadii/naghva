@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/shiraz-single/1710302682
 title: Shiraz - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

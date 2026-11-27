@@ -3,7 +3,7 @@ url: https://open.spotify.com/track/3pyTfaBrgfryfWf4jLb8Q6
 title: South Indian Folk Melody - song and lyrics by Karvan | Spotify
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Abdulrahman Surizehi
 status: processed

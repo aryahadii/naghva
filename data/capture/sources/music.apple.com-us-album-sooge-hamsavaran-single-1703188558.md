@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/sooge-hamsavaran-single/1703188558
 title: Sooge Hamsavaran - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

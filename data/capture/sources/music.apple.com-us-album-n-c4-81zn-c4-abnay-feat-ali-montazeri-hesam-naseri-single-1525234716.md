@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/n%C4%81zn%C4%ABnay-feat-ali-montazeri-hesam-naseri-single/1525234716
 title: Nāznīnay (feat. Ali Montazeri & Hesam Naseri) - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/hay-golom-single/1612906539
 title: Hay Golom - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

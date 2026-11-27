@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/ey-iran-single/1852811104
 title: Ey Iran - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

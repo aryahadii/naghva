@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/rahaee-single/1601426660
 title: Rahaee - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

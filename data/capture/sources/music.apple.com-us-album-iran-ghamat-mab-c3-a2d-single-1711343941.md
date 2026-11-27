@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/iran-ghamat-mab%C3%A2d-single/1711343941
 title: Iran Ghamat Mabâd - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

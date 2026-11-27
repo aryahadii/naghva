@@ -3,7 +3,7 @@ url: https://open.spotify.com/track/6iQbDVME7gIaKONPjIj4N8
 title: Ghazal - song and lyrics by Karvan | Spotify
 kind: web page
 language: en
-tier: own
+tier: discography
 about:
 - Abdulrahman Surizehi
 status: processed

@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/album/el-sue%C3%B1o-single/1471721385
 archive: "https://web.archive.org/web/20211028031746/https://music.apple.com/us/album/el-sue%25C3%25B1o-single/1471721385"
 title: El Sueño - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

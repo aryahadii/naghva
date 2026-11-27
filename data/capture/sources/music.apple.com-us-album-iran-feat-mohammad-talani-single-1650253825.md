@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/iran-feat-mohammad-talani-single/1650253825
 title: Iran (feat. Mohammad Talani) - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

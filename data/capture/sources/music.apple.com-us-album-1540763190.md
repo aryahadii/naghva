@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/1540763190
 title: ‎Flicker - Album by Lukas Schwegmann Quintett - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Sheen Trio
 - Shabnam Parvaresh

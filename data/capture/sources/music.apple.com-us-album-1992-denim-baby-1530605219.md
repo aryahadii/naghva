@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/1992-denim-baby/1530605219
 title: ‎1992 Denim/Baby - Single - Album by King George VIII - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Marie Sahba
 ---

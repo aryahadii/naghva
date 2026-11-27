@@ -2,7 +2,7 @@
 url: https://open.spotify.com/album/0Xnske9WLrPC4zU7JPL6rm
 archive: "https://web.archive.org/web/20190820090750/https://open.spotify.com/album/0Xnske9WLrPC4zU7JPL6rm"
 title: Parcham
-tier: own
+tier: discography
 language: en
 status: processed
 ---

@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/my-iran-single/1889225212
 title: My Iran - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

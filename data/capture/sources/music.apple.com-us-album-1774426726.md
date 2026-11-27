@@ -3,7 +3,7 @@ url: https://music.apple.com/us/album/1774426726
 title: ‎Memos of Memory (Ost) - EP - Album by Henning Neidhardt Trio - Apple Music
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Sheen Trio
 - Shabnam Parvaresh

@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/experimental-link-ep/1731619490
 title: Experimental Link - EP
-tier: own
+tier: discography
 language: en
 status: processed
 ---

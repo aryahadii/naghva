@@ -4,7 +4,7 @@ archive: https://web.archive.org/web/20220802070250/https://open.spotify.com/alb
 title: Listen to Âwât - Album by Shadi Fathi | Spotify
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Shadi Fathi
 ---

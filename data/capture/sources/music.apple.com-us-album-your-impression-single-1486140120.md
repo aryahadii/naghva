@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/your-impression-single/1486140120
 title: Your Impression - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

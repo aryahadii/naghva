@@ -2,7 +2,7 @@
 url: https://music.apple.com/us/album/behind-the-seas/471973945
 archive: "https://web.archive.org/web/20220812041517/https://music.apple.com/us/album/behind-the-seas/471973945"
 title: Behind the Seas
-tier: own
+tier: discography
 language: en
 status: processed
 ---

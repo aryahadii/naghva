@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/whispers-of-solitude-single/1723532528
 title: Whispers of Solitude - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---

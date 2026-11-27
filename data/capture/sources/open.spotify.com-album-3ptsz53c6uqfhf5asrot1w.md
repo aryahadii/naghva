@@ -3,7 +3,7 @@ url: https://open.spotify.com/album/3PTSz53c6UQfHf5asroT1W
 title: Listen to Trall i farta - Compilation by Various Artists | Spotify
 status: processed
 language: en
-tier: own
+tier: discography
 about:
 - Javid Afsari Rad
 ---

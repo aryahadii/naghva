@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/renew-old-songs/6784343906
 title: Renew Old Songs
-tier: own
+tier: discography
 language: en
 status: processed
 ---

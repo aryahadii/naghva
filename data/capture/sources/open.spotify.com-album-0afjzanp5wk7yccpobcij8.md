@@ -2,7 +2,7 @@
 url: https://open.spotify.com/album/0aFjZANp5Wk7yCcPoBcIj8
 archive: "https://web.archive.org/web/20190820092707/https://open.spotify.com/album/0aFjZANp5Wk7yCcPoBcIj8"
 title: Who's Yo' Daddy?
-tier: own
+tier: discography
 language: en
 status: processed
 ---

@@ -1,7 +1,7 @@
 ---
 url: https://music.apple.com/us/album/az-khone-javanane-vatan-single/1878663369
 title: Az Khon'e Javanan'e Vatan - Single
-tier: own
+tier: discography
 language: en
 status: processed
 ---
