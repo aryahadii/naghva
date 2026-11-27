@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2014-06-18'
     references:
-    - source: siamak-jahangiri-ap1693166078
-      quote: '2014-06-18'
-      accessed: '2026-11-21'
-      locator: Edition release date
+    - source: music.apple.com-us-song-taknavazie-setar-1693166236
+      quote: '"datePublished":"2014-06-18"'
+      locator: application/ld+json.audio exact MusicRecording 1693166236 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/19/3d/35/193d35ae-adde-ea61-b7af-62b8e51bb2ed/197189165139.jpg/1200x630wp-60.jpg
     references:

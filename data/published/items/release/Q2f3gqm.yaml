@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2015-12-21'
     references:
-    - source: music.apple.com-us-album-mens-the-musical-the-soundtrack-1071519482
-      quote: '2015-12-21'
-      accessed: 2026-11-21
-      locator: MusicAlbum datePublished
+    - source: music.apple.com-us-song-s-c3-a5-g-c3-a5r-det-till-1071519488
+      quote: '"datePublished":"2015-12-21"'
+      locator: application/ld+json.audio exact MusicRecording 1071519488 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   performer:
   - value: Q8w88jv
     references:

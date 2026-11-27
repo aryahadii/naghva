@@ -57,10 +57,10 @@ statements:
   - value:
       date: '2016-01-17'
     references:
-    - source: music.apple.com-us-album-hafez-1076395652
-      quote: '2016-01-17'
-      accessed: '2026-11-21'
-      locator: Release date
+    - source: music.apple.com-us-song-zam-c3-a2neh-1076396745
+      quote: '"datePublished":"2016-01-17"'
+      locator: application/ld+json.audio exact MusicRecording 1076396745 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   track of:
   - value: Qcpxqrw
     references:
