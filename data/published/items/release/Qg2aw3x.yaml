@@ -45,10 +45,10 @@ statements:
   - value:
       date: '2010-11-13'
     references:
-    - source: music.apple.com-us-album-gheseye-zirzamin-feat-y-a-s-404218373
-      quote: '2010-11-13'
-      accessed: '2026-11-21'
-      locator: Issue date
+    - source: open.spotify.com-track-2irwzz9wioihfvdgqfac3k
+      quote: '"datePublished":"2010-11-13"'
+      locator: application/ld+json exact MusicRecording 2IRWZz9wIOiHFvdGQFaC3k datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   track of:
   - value: Qh4abrk
     references:

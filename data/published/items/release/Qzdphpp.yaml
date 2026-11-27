@@ -14,10 +14,10 @@ statements:
   - value:
       date: '2019-02-20'
     references:
-    - source: siamak-jahangiri-ap1463385430
-      quote: '2019-02-20'
-      accessed: '2026-11-21'
-      locator: Edition release date
+    - source: music.apple.com-us-song-quest-1463385440
+      quote: '"datePublished":"2019-02-20"'
+      locator: application/ld+json.audio exact MusicRecording 1463385440 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/3f/af/47/3faf47d2-49d6-5f9a-ce17-edbb7e0a51ce/6260608006970.jpg/1200x630wp-60.jpg
     references:
