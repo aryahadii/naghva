@@ -61,10 +61,18 @@ statements:
   - value:
       date: '2024-11-08'
     references:
-    - source: vazesh.bandcamp.com-album-tapestry
-      quote: released November 8, 2024
-      accessed: '2026-11-21'
-      locator: Bandcamp date
+    - source: vazesh.bandcamp.com-track-saffron
+      quote: '"datePublished":"08 Nov 2024 00:00:00 GMT"'
+      accessed: '2026-11-27'
+      locator: Native jsonld[0] MusicRecording datePublished; exact https://vazesh.bandcamp.com/track/saffron; current.release_date
+        null, album_release_date fallback
+  - value:
+      date: '2024-10-25'
+    references:
+    - source: music.apple.com-us-song-saffron-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton-1761965040
+      quote: '"datePublished":"2024-10-25"'
+      accessed: '2026-11-27'
+      locator: Native jsonld[0].audio MusicRecording datePublished; exact 1761965040
   contributor:
   - value: Qmgbz4h
     qualifiers:

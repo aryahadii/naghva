@@ -67,10 +67,25 @@ statements:
   - value:
       date: '2024-11-08'
     references:
-    - source: vazesh.bandcamp.com-album-tapestry
-      quote: released November 8, 2024
-      accessed: '2026-11-21'
-      locator: Bandcamp date
+    - source: vazesh.bandcamp.com-track-demitasse
+      quote: '"datePublished":"08 Nov 2024 00:00:00 GMT"'
+      accessed: '2026-11-27'
+      locator: Native jsonld[0] MusicRecording datePublished; exact https://vazesh.bandcamp.com/track/demitasse; current.release_date
+        null, album_release_date fallback
+  - value:
+      date: '2024-09-27'
+    references:
+    - source: music.apple.com-us-song-demitasse-feat-jeremy-rose-hamed-sadeghi-lloyd-swanton-1761965036
+      quote: '"datePublished":"2024-09-27"'
+      accessed: '2026-11-27'
+      locator: Native jsonld[0].audio MusicRecording datePublished; exact 1761965036
+  - value:
+      date: '2024-10-25'
+    references:
+    - source: open.spotify.com-track-6ledi4t3ombt49jwr8shpg
+      quote: '"datePublished":"2024-10-25"'
+      accessed: '2026-11-27'
+      locator: Native jsonld[0] MusicRecording datePublished; exact 6LedI4T3OMbT49jwr8sHPG
   contributor:
   - value: Qmgbz4h
     qualifiers:
