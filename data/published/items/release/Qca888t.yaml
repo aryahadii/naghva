@@ -21,10 +21,10 @@ statements:
   - value:
       date: '2008-03-18'
     references:
-    - source: music.apple.com-us-album-no-ceiling-598850721
-      quote: '2008-03-18'
-      accessed: 2026-11-21
-      locator: Release date
+    - source: music.apple.com-us-song-zero-to-one-598850798
+      quote: '"datePublished":"2008-03-18"'
+      locator: application/ld+json.audio exact MusicRecording 598850798 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music/v4/dc/80/3f/dc803ffa-5849-9cf6-2f61-536044213843/707541956826.jpg/632x632bb-60.jpg
     references:

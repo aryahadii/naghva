@@ -51,10 +51,10 @@ statements:
   - value:
       date: '2018-02-20'
     references:
-    - source: music.apple.com-us-album-gozargah-1350948051
-      quote: '2018-02-20'
-      accessed: '2026-11-21'
-      locator: Digital issue date
+    - source: music.apple.com-us-song-bridge-1350948064
+      quote: '"datePublished":"2018-02-20"'
+      locator: application/ld+json.audio exact MusicRecording 1350948064 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   track of:
   - value: Qvcc2gy
     references:

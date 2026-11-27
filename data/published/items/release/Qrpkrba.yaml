@@ -29,10 +29,10 @@ statements:
   - value:
       date: '2024-03-08'
     references:
-    - source: hjirok.bandcamp.com-album-hjirok
-      quote: released March 8, 2024
-      locator: Original issue
-      accessed: '2026-11-21'
+    - source: music.apple.com-us-song-yahu-1730807626
+      quote: '"datePublished":"2024-03-08"'
+      locator: application/ld+json.audio exact MusicRecording 1730807626 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a1974953409_10.jpg
     references:

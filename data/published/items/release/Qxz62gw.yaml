@@ -57,10 +57,10 @@ statements:
   - value:
       date: '2010-11-01'
     references:
-    - source: music.apple.com-us-album-karmandan-401059007
-      quote: '2010-11-01'
-      accessed: '2026-11-21'
-      locator: Digital issue date
+    - source: music.apple.com-us-song-namayesh-401059035
+      quote: '"datePublished":"2010-11-01"'
+      locator: application/ld+json.audio exact MusicRecording 401059035 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   track of:
   - value: Q96h8gn
     references:

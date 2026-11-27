@@ -27,10 +27,10 @@ statements:
   - value:
       date: '2017-04-28'
     references:
-    - source: music.apple.com-us-album-dunya-1794386998
-      quote: '2017-04-28'
-      accessed: '2026-11-21'
-      locator: Digital edition release
+    - source: music.apple.com-us-song-dolo-1794387000
+      quote: '"datePublished":"2017-04-28"'
+      locator: application/ld+json.audio exact MusicRecording 1794387000 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   listen link:
   - value: https://music.apple.com/us/song/dolo/1794387000
     references:

@@ -42,10 +42,10 @@ statements:
   - value:
       date: '2020-05-08'
     references:
-    - source: music.apple.com-us-album-advar-1508384588
-      quote: '2020-05-08'
-      accessed: '2026-11-21'
-      locator: Apple Music edition issue date
+    - source: music.apple.com-us-song-sayeh-1508384599
+      quote: '"datePublished":"2020-05-08"'
+      locator: application/ld+json.audio exact MusicRecording 1508384599 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/68/09/f0/6809f00e-bc12-4295-71e9-7da52c3c1109/195081357720.jpg/1200x630bb.jpg
     qualifiers:

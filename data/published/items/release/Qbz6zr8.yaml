@@ -29,10 +29,10 @@ statements:
   - value:
       date: '2025-05-11'
     references:
-    - source: janklare.bandcamp.com-album-count
-      quote: 11 May 2025 00:00:00 GMT
-      locator: Original publication date
-      accessed: '2026-11-21'
+    - source: janklare.bandcamp.com-track-4-cars-1-wheel
+      quote: '"datePublished":"11 May 2025 00:00:00 GMT"'
+      locator: application/ld+json exact MusicRecording https://janklare.bandcamp.com/track/4-cars-1-wheel datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a1774476536_10.jpg
     references:
