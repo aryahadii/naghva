@@ -40,14 +40,10 @@ statements:
   - value:
       date: '2023-12-11'
     references:
-    - source: music.apple.com-us-album-hysterrae-1718788312
-      quote: '2023-12-11'
-      accessed: '2026-11-21'
-      locator: Catalogue release date
-    - source: hysterrae.bandcamp.com-album-hysterrae
-      quote: released December 11, 2023
-      accessed: '2026-11-21'
-      locator: Album credits
+    - source: hysterrae.bandcamp.com-track-kholy
+      quote: '"datePublished":"11 Dec 2023 00:00:00 GMT"'
+      locator: application/ld+json exact MusicRecording https://hysterrae.bandcamp.com/track/kholy datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a2794796731_10.jpg
     qualifiers:

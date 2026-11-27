@@ -34,10 +34,10 @@ statements:
   - value:
       date: '2025-10-25'
     references:
-    - source: music.apple.com-us-album-bitter-almonds-1848792844
-      quote: '2025-10-25'
-      accessed: 2026-11-21
-      locator: Storefront release date
+    - source: open.spotify.com-track-757xuwfuem3ppfyalba9cp
+      quote: '"datePublished":"2025-10-25"'
+      locator: application/ld+json exact MusicRecording 757XUwFUem3ppfYaLbA9cP datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/58/92/9058927d-9bc8-bdee-3738-d006da6c3369/199811388824_cover.jpg/1200x630bb.jpg
     references:

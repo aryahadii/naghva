@@ -29,10 +29,10 @@ statements:
   - value:
       date: '2014-04-03'
     references:
-    - source: unland.bandcamp.com-album-unland
-      quote: 03 Apr 2014 00:00:00 GMT
-      locator: Original publication date
-      accessed: '2026-11-21'
+    - source: unland.bandcamp.com-track-scene-4
+      quote: '"datePublished":"03 Apr 2014 00:00:00 GMT"'
+      locator: application/ld+json exact MusicRecording https://unland.bandcamp.com/track/scene-4 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a0440982201_10.jpg
     references:

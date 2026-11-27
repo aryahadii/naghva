@@ -27,10 +27,10 @@ statements:
   - value:
       date: '2018-05-18'
     references:
-    - source: music.apple.com-us-album-nemid-c3-a2nam-1376582733
-      quote: '2018-05-18'
-      accessed: '2026-11-21'
-      locator: Release metadata
+    - source: music.apple.com-us-song-hitchest-c3-a2n-1376583252
+      quote: '"datePublished":"2018-05-18"'
+      locator: application/ld+json.audio exact MusicRecording 1376583252 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/98/41/49/9841490c-57f7-aad3-19b9-d5317f2e219c/cover.jpg/632x632bb-60.jpg
     references:

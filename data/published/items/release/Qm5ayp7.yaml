@@ -45,10 +45,10 @@ statements:
   - value:
       date: '2023-05-05'
     references:
-    - source: sheentrio.bandcamp.com-album-gozar
-      quote: 05 May 2023 00:00:00 GMT
-      locator: Original publication date
-      accessed: '2026-11-21'
+    - source: music.apple.com-us-song-liquid-summer-feat-shabnam-parvaresh-ula-martyn-ellis-1676065331
+      quote: '"datePublished":"2023-05-05"'
+      locator: application/ld+json.audio exact MusicRecording 1676065331 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a2539238943_10.jpg
     references:

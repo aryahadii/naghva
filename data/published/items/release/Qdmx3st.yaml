@@ -23,18 +23,17 @@ statements:
       - vocals
     references:
     - source: youtu.be-si1msbvivbe
-      quote: This is an arrangement of transliterated cuneiform lines from the 'Third Tablet of the Series “The
-        Exalted One Who Walketh” (e-lum didara) (No. 13) and is sung in Sumerian by Nina Saeidi of the band Lowen.
+      quote: This is an arrangement of transliterated cuneiform lines from the 'Third Tablet of the Series “The Exalted One Who Walketh” (e-lum didara) (No. 13) and is sung in Sumerian by Nina Saeidi of the band Lowen.
       accessed: 2026-11-21
       locator: Performer in the original film
   release date:
   - value:
       date: '2021-06-04'
     references:
-    - source: lowen.bandcamp.com-album-unceasing-lamentations
-      quote: released June 4, 2021
-      accessed: 2026-11-21
-      locator: Release details
+    - source: music.apple.com-us-song-the-exalted-one-who-walketh-1562173051
+      quote: '"datePublished":"2021-06-04"'
+      locator: application/ld+json.audio exact MusicRecording 1562173051 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   cover art:
   - value: https://f4.bcbits.com/img/a0572754247_10.jpg
     references:

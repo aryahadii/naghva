@@ -69,10 +69,10 @@ statements:
   - value:
       date: '2001'
     references:
-    - source: open.spotify.com-album-6ea5qy5kzcfbv4apxazfrr
-      quote: '2001'
-      accessed: '2026-11-21'
-      locator: Original release
+    - source: open.spotify.com-track-3pytfabrgfryfwf4jlb8q6
+      quote: '"datePublished":"2001-03-28"'
+      locator: application/ld+json exact MusicRecording 3pyTfaBrgfryfWf4jLb8Q6 datePublished; same-object type/identity/name captured separately.
+      accessed: '2026-11-27'
   track of:
   - value: Qjt4bdb
     references:
