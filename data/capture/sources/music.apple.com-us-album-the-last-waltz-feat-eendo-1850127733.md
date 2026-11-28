@@ -1,5 +1,6 @@
 ---
 url: https://music.apple.com/us/album/the-last-waltz-feat-eendo/1850127733
+archive: https://web.archive.org/web/20261010194158/https://music.apple.com/us/album/the-vulture/1850127733
 title: ‎The Vulture - Album by King Raam - Apple Music
 kind: web page
 tier: discography
