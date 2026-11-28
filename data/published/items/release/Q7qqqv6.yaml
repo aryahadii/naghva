@@ -20,8 +20,17 @@ statements:
   release date:
   - value:
       date: 2014-03
+    rank: deprecated
     references:
     - source: www.mixcloud.com-artsvs-artsavesboiler-room-tehran-march-2014
       quote: March 2014
       accessed: '2026-11-21'
       locator: Artist interview, biography or performance credits
+  platform posting date:
+  - value:
+      date: 2014-03
+    references:
+    - source: www.mixcloud.com-artsvs-artsavesboiler-room-tehran-march-2014
+      quote: '"uploadDate":"2014-03-21T08:12:19+00:00"'
+      accessed: '2026-11-27'
+      locator: Mixcloud upload date for this ArtSaves listing
