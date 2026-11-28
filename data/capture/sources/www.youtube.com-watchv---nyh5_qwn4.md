@@ -17,3 +17,7 @@ Original programme, liner notes or performer credit, read 2026-11-21.
 Original programme, liner notes or performer credit, read 2026-11-21.
 
 > Tar By Reza Mohsenipour , Tombak By Hmind Mohsenipour
+
+Archived YouTube publication date, labelled Published on, read 2026-11-27.
+
+> Jan 10, 2013
