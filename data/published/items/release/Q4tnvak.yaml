@@ -13,12 +13,12 @@ statements:
   performer:
   - value: Q2pj5vj
     references:
-    - source: www.youtube.com-oembed---nyh5_qwn4
-      quote: Perma - Improvisation
-      locator: Original programme, liner notes or performer credit
-      accessed: '2026-11-21'
+    - source: www.youtube.com-watchv---nyh5_qwn4
+      quote: Tar By Reza Mohsenipour , Tombak By Hmind Mohsenipour
+      locator: Video description, instrument credits
+      accessed: '2026-11-27'
     qualifiers:
-      role: tombak
+      role: tar
   listen link:
   - value: https://www.youtube.com/watch?v=--nyH5_QWn4
     references:
@@ -36,8 +36,17 @@ statements:
   release date:
   - value:
       date: '2013-01-10'
+    rank: deprecated
     references:
     - source: www.youtube.com-watchv---nyh5_qwn4
       quote: '2013-01-10'
       locator: Original programme, liner notes or performer credit
       accessed: '2026-11-21'
+  platform posting date:
+  - value:
+      date: '2013-01-10'
+    references:
+    - source: www.youtube.com-watchv---nyh5_qwn4
+      quote: Jan 10, 2013
+      locator: Archived YouTube publication date, labelled Published on
+      accessed: '2026-11-27'
