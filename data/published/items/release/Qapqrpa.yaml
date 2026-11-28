@@ -42,6 +42,7 @@ statements:
   release date:
   - value:
       date: '2022-04-09'
+    rank: deprecated
     references:
     - source: music.apple.com-us-album-1624421329
       quote: '2022-04-09'
@@ -81,3 +82,10 @@ statements:
       quote: Yaniram
       locator: Published artist, title or credits
       accessed: '2026-11-21'
+  track of:
+  - value: Qj4psa9
+    references:
+    - source: music.apple.com-us-album-1624421329
+      quote: '"id":"track-lockup - 1624421329 - 1624421552","title":"Yaniram","trackNumber":6'
+      locator: Apple album track 6 of 7
+      accessed: '2026-11-28'
