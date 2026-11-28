@@ -34,6 +34,7 @@ statements:
   release date:
   - value:
       date: '2022-04-09'
+    rank: deprecated
     references:
     - source: music.apple.com-us-album-1624421329
       quote: '2022-04-09'
@@ -73,3 +74,10 @@ statements:
       quote: Qal Sana Qurban
       locator: Published artist, title or credits
       accessed: '2026-11-21'
+  track of:
+  - value: Qj4psa9
+    references:
+    - source: music.apple.com-us-album-1624421329
+      quote: '"id":"track-lockup - 1624421329 - 1624421536","title":"Qal Sana Qurban","trackNumber":4'
+      locator: Apple album track 4 of 7
+      accessed: '2026-11-28'

@@ -34,6 +34,7 @@ statements:
   release date:
   - value:
       date: '2022-04-09'
+    rank: deprecated
     references:
     - source: music.apple.com-us-album-1624421329
       quote: '2022-04-09'
@@ -73,3 +74,10 @@ statements:
       quote: Getma Getma
       locator: Published artist, title or credits
       accessed: '2026-11-21'
+  track of:
+  - value: Qj4psa9
+    references:
+    - source: music.apple.com-us-album-1624421329
+      quote: '"id":"track-lockup - 1624421329 - 1624421343","title":"Getma Getma","trackNumber":2'
+      locator: Apple album track 2 of 7
+      accessed: '2026-11-28'

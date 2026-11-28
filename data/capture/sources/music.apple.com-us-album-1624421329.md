@@ -68,3 +68,22 @@ Artist, presenter, film or recording credits, read 2026-11-21.
 Artist, presenter, film or recording credits, read 2026-11-21.
 
 > ℗ 2022 Naghme Saz Avaz
+
+
+Own Apple album1624421329 numbered track list, read2026-11-28 from the observed original whole-album URL after the documented301. The exact contiguous JSON excerpts below also occur in the actual declared archive body (Memento20250818135945). These are copied static serialized-server-data fields, not an API response. The captured whole AlbumDetailPageIntent and each playAction.containerContentDescriptor explicitly identify album1624421329; the complete programme has seven entries.
+
+> "id":"track-lockup - 1624421329 - 1624421341","title":"Lay Lay","trackNumber":1
+
+> "id":"track-lockup - 1624421329 - 1624421343","title":"Getma Getma","trackNumber":2
+
+> "id":"track-lockup - 1624421329 - 1624421527","title":"Bugun Ayın ucudur","trackNumber":3
+
+> "id":"track-lockup - 1624421329 - 1624421536","title":"Qal Sana Qurban","trackNumber":4
+
+> "id":"track-lockup - 1624421329 - 1624421541","title":"Kor Arab Mahinisi","trackNumber":5
+
+> "id":"track-lockup - 1624421329 - 1624421552","title":"Yaniram","trackNumber":6
+
+> "id":"track-lockup - 1624421329 - 1624421736","title":"Uca Daglar Basinda","trackNumber":7
+
+The album date quote remains owned by MusicAlbum.datePublished. AudioObject.uploadDate in the same page is not separate track-issue evidence. No independent track date, instrument, or vocals qualifier is established by this programme capture.
