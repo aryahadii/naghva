@@ -20,11 +20,19 @@ statements:
   release date:
   - value:
       date: '2007-01-12'
+    rank: deprecated
     references:
     - source: music.apple.com-us-album-morning-213597723
       quote: '2007-01-12'
       accessed: 2026-11-21
       locator: Release date
+  - value:
+      date: '2007-01-04'
+    references:
+    - source: music.apple.com-us-album-morning-213597723
+      quote: '"releaseDate":"2007-01-04"'
+      accessed: '2026-11-27'
+      locator: Archived Apple album page, embedded Song 213597767 releaseDate
   cover art:
   - value: https://is1-ssl.mzstatic.com/image/thumb/Music/9d/1f/93/mzi.czczdipf.tif/600x600bb-60.jpg
     references:
